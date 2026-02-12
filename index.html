@@ -1,0 +1,312 @@
+<!DOCTYPE html>
+<html lang="en" data-lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Little Armenias - Armenian Points of Interest</title>
+    <link rel="stylesheet" href="https://unpkg.com/leaflet@1.9.4/dist/leaflet.css" />
+    <link rel="stylesheet" href="https://cdnjs.cloudflare.com/ajax/libs/font-awesome/6.5.0/css/all.min.css" />
+    <link rel="stylesheet" href="css/styles.css" />
+</head>
+<body>
+    <!-- Header / Navigation -->
+    <header class="header">
+        <div class="header-inner">
+            <div class="logo" onclick="navigateTo('map')">
+                <span class="logo-icon">֍</span>
+                <span class="logo-text">Little Armenias</span>
+            </div>
+            <nav class="nav">
+                <button class="nav-btn active" data-view="map" onclick="navigateTo('map')">
+                    <i class="fas fa-map-marked-alt"></i>
+                    <span data-i18n="nav.map">Map</span>
+                </button>
+                <button class="nav-btn" data-view="list" onclick="navigateTo('list')">
+                    <i class="fas fa-list"></i>
+                    <span data-i18n="nav.list">List</span>
+                </button>
+                <button class="nav-btn" data-view="submit" onclick="navigateTo('submit')">
+                    <i class="fas fa-plus-circle"></i>
+                    <span data-i18n="nav.submit">Submit</span>
+                </button>
+                <button class="nav-btn" data-view="admin" onclick="navigateTo('admin')">
+                    <i class="fas fa-cog"></i>
+                    <span data-i18n="nav.admin">Admin</span>
+                </button>
+            </nav>
+            <div class="header-actions">
+                <div class="lang-switcher">
+                    <button class="lang-btn active" onclick="setLanguage('en')">EN</button>
+                    <button class="lang-btn" onclick="setLanguage('fr')">FR</button>
+                    <button class="lang-btn" onclick="setLanguage('hy')">ՀՅ</button>
+                </div>
+            </div>
+            <button class="mobile-menu-btn" onclick="toggleMobileMenu()">
+                <i class="fas fa-bars"></i>
+            </button>
+        </div>
+        <!-- Mobile menu -->
+        <div class="mobile-menu hidden">
+            <button class="nav-btn active" data-view="map" onclick="navigateTo('map'); toggleMobileMenu();">
+                <i class="fas fa-map-marked-alt"></i>
+                <span data-i18n="nav.map">Map</span>
+            </button>
+            <button class="nav-btn" data-view="list" onclick="navigateTo('list'); toggleMobileMenu();">
+                <i class="fas fa-list"></i>
+                <span data-i18n="nav.list">List</span>
+            </button>
+            <button class="nav-btn" data-view="submit" onclick="navigateTo('submit'); toggleMobileMenu();">
+                <i class="fas fa-plus-circle"></i>
+                <span data-i18n="nav.submit">Submit</span>
+            </button>
+            <button class="nav-btn" data-view="admin" onclick="navigateTo('admin'); toggleMobileMenu();">
+                <i class="fas fa-cog"></i>
+                <span data-i18n="nav.admin">Admin</span>
+            </button>
+            <div class="lang-switcher mobile">
+                <button class="lang-btn active" onclick="setLanguage('en')">EN</button>
+                <button class="lang-btn" onclick="setLanguage('fr')">FR</button>
+                <button class="lang-btn" onclick="setLanguage('hy')">ՀՅ</button>
+            </div>
+        </div>
+    </header>
+
+    <!-- Search & Filter Bar -->
+    <div class="filter-bar" id="filterBar">
+        <div class="filter-bar-inner">
+            <div class="search-box">
+                <i class="fas fa-search"></i>
+                <input type="text" id="searchInput" data-i18n-placeholder="filter.search" placeholder="Search by name, city, country..." oninput="applyFilters()">
+            </div>
+            <div class="category-filters">
+                <button class="cat-btn active" data-category="all" onclick="toggleCategory(this)">
+                    <i class="fas fa-globe"></i>
+                    <span data-i18n="filter.all">All</span>
+                </button>
+                <button class="cat-btn" data-category="church" onclick="toggleCategory(this)">
+                    <i class="fas fa-church"></i>
+                    <span data-i18n="filter.church">Churches</span>
+                </button>
+                <button class="cat-btn" data-category="monument" onclick="toggleCategory(this)">
+                    <i class="fas fa-monument"></i>
+                    <span data-i18n="filter.monument">Monuments</span>
+                </button>
+                <button class="cat-btn" data-category="museum" onclick="toggleCategory(this)">
+                    <i class="fas fa-museum"></i>
+                    <span data-i18n="filter.museum">Museums</span>
+                </button>
+                <button class="cat-btn" data-category="restaurant" onclick="toggleCategory(this)">
+                    <i class="fas fa-utensils"></i>
+                    <span data-i18n="filter.restaurant">Restaurants</span>
+                </button>
+                <button class="cat-btn" data-category="cultural_center" onclick="toggleCategory(this)">
+                    <i class="fas fa-landmark"></i>
+                    <span data-i18n="filter.cultural">Cultural Centers</span>
+                </button>
+            </div>
+        </div>
+    </div>
+
+    <!-- Map View -->
+    <main class="view active" id="viewMap">
+        <div id="map"></div>
+    </main>
+
+    <!-- List View -->
+    <main class="view" id="viewList">
+        <div class="list-container">
+            <h2 data-i18n="list.title">Points of Interest by Location</h2>
+            <div id="listContent"></div>
+        </div>
+    </main>
+
+    <!-- Submit View -->
+    <main class="view" id="viewSubmit">
+        <div class="form-container">
+            <h2 data-i18n="submit.title">Submit a New Point of Interest</h2>
+            <p class="form-note" data-i18n="submit.note">All submissions are reviewed and verified by administrators before being published.</p>
+            <form id="submitForm" onsubmit="handleSubmitPOI(event)">
+                <div class="form-group">
+                    <label data-i18n="submit.name">Name</label>
+                    <input type="text" id="poiName" required>
+                </div>
+                <div class="form-row">
+                    <div class="form-group">
+                        <label data-i18n="submit.nameEn">Name (English)</label>
+                        <input type="text" id="poiNameEn" required>
+                    </div>
+                    <div class="form-group">
+                        <label data-i18n="submit.nameFr">Name (French)</label>
+                        <input type="text" id="poiNameFr">
+                    </div>
+                    <div class="form-group">
+                        <label data-i18n="submit.nameHy">Name (Armenian)</label>
+                        <input type="text" id="poiNameHy">
+                    </div>
+                </div>
+                <div class="form-group">
+                    <label data-i18n="submit.category">Category</label>
+                    <select id="poiCategory" required>
+                        <option value="church" data-i18n="filter.church">Church</option>
+                        <option value="monument" data-i18n="filter.monument">Monument</option>
+                        <option value="museum" data-i18n="filter.museum">Museum</option>
+                        <option value="restaurant" data-i18n="filter.restaurant">Restaurant</option>
+                        <option value="cultural_center" data-i18n="filter.cultural">Cultural Center</option>
+                    </select>
+                </div>
+                <div class="form-row">
+                    <div class="form-group">
+                        <label data-i18n="submit.country">Country</label>
+                        <input type="text" id="poiCountry" required>
+                    </div>
+                    <div class="form-group">
+                        <label data-i18n="submit.city">City</label>
+                        <input type="text" id="poiCity" required>
+                    </div>
+                </div>
+                <div class="form-row">
+                    <div class="form-group">
+                        <label data-i18n="submit.lat">Latitude</label>
+                        <input type="number" step="any" id="poiLat" required>
+                    </div>
+                    <div class="form-group">
+                        <label data-i18n="submit.lng">Longitude</label>
+                        <input type="number" step="any" id="poiLng" required>
+                    </div>
+                </div>
+                <div class="form-group">
+                    <label data-i18n="submit.descEn">Description (English)</label>
+                    <textarea id="poiDescEn" rows="3" required></textarea>
+                </div>
+                <div class="form-group">
+                    <label data-i18n="submit.descFr">Description (French)</label>
+                    <textarea id="poiDescFr" rows="3"></textarea>
+                </div>
+                <div class="form-group">
+                    <label data-i18n="submit.descHy">Description (Armenian)</label>
+                    <textarea id="poiDescHy" rows="3"></textarea>
+                </div>
+                <div class="form-group">
+                    <label data-i18n="submit.image">Image URL</label>
+                    <input type="url" id="poiImage">
+                </div>
+                <button type="submit" class="btn btn-primary">
+                    <i class="fas fa-paper-plane"></i>
+                    <span data-i18n="submit.btn">Submit for Review</span>
+                </button>
+            </form>
+        </div>
+    </main>
+
+    <!-- Admin View -->
+    <main class="view" id="viewAdmin">
+        <div class="admin-container">
+            <h2 data-i18n="admin.title">Administration Panel</h2>
+            <div class="admin-tabs">
+                <button class="admin-tab active" onclick="switchAdminTab('pending')" data-i18n="admin.pending">Pending Submissions</button>
+                <button class="admin-tab" onclick="switchAdminTab('manage')" data-i18n="admin.manage">Manage Locations</button>
+                <button class="admin-tab" onclick="switchAdminTab('comments')" data-i18n="admin.comments">Moderate Comments</button>
+                <button class="admin-tab" onclick="switchAdminTab('data')" data-i18n="admin.data">Data Management</button>
+            </div>
+            <div class="admin-content" id="adminPending">
+                <div id="pendingList"></div>
+            </div>
+            <div class="admin-content hidden" id="adminManage">
+                <div id="manageList"></div>
+            </div>
+            <div class="admin-content hidden" id="adminComments">
+                <div id="commentsList"></div>
+            </div>
+            <div class="admin-content hidden" id="adminData">
+                <div class="data-actions">
+                    <button class="btn btn-secondary" onclick="exportData()">
+                        <i class="fas fa-download"></i>
+                        <span data-i18n="admin.export">Export Database (JSON)</span>
+                    </button>
+                    <div class="import-section">
+                        <label class="btn btn-secondary" for="importFile">
+                            <i class="fas fa-upload"></i>
+                            <span data-i18n="admin.import">Import Data (JSON)</span>
+                        </label>
+                        <input type="file" id="importFile" accept=".json" onchange="importData(event)" style="display:none">
+                    </div>
+                </div>
+            </div>
+        </div>
+    </main>
+
+    <!-- Location Detail Modal -->
+    <div class="modal-overlay hidden" id="detailModal" onclick="closeModal(event)">
+        <div class="modal" onclick="event.stopPropagation()">
+            <button class="modal-close" onclick="closeDetailModal()">&times;</button>
+            <div class="modal-body" id="modalBody"></div>
+        </div>
+    </div>
+
+    <!-- Correction Modal -->
+    <div class="modal-overlay hidden" id="correctionModal" onclick="closeModal(event)">
+        <div class="modal modal-sm" onclick="event.stopPropagation()">
+            <button class="modal-close" onclick="closeCorrectionModal()">&times;</button>
+            <h3 data-i18n="correction.title">Suggest a Correction</h3>
+            <form id="correctionForm" onsubmit="handleCorrection(event)">
+                <input type="hidden" id="correctionPoiId">
+                <div class="form-group">
+                    <label data-i18n="correction.field">Field to Correct</label>
+                    <select id="correctionField">
+                        <option value="name">Name</option>
+                        <option value="description">Description</option>
+                        <option value="location">Location</option>
+                        <option value="category">Category</option>
+                        <option value="other">Other</option>
+                    </select>
+                </div>
+                <div class="form-group">
+                    <label data-i18n="correction.details">Correction Details</label>
+                    <textarea id="correctionDetails" rows="4" required></textarea>
+                </div>
+                <button type="submit" class="btn btn-primary">
+                    <i class="fas fa-check"></i>
+                    <span data-i18n="correction.submit">Submit Correction</span>
+                </button>
+            </form>
+        </div>
+    </div>
+
+    <!-- Report Modal -->
+    <div class="modal-overlay hidden" id="reportModal" onclick="closeModal(event)">
+        <div class="modal modal-sm" onclick="event.stopPropagation()">
+            <button class="modal-close" onclick="closeReportModal()">&times;</button>
+            <h3 data-i18n="report.title">Report Content</h3>
+            <form id="reportForm" onsubmit="handleReport(event)">
+                <input type="hidden" id="reportPoiId">
+                <div class="form-group">
+                    <label data-i18n="report.reason">Reason</label>
+                    <select id="reportReason">
+                        <option value="inaccurate" data-i18n="report.inaccurate">Inaccurate Information</option>
+                        <option value="inappropriate" data-i18n="report.inappropriate">Inappropriate Content</option>
+                        <option value="duplicate" data-i18n="report.duplicate">Duplicate Location</option>
+                        <option value="closed" data-i18n="report.closed">Location Closed/No Longer Exists</option>
+                        <option value="other" data-i18n="report.other">Other</option>
+                    </select>
+                </div>
+                <div class="form-group">
+                    <label data-i18n="report.details">Details</label>
+                    <textarea id="reportDetails" rows="3" required></textarea>
+                </div>
+                <button type="submit" class="btn btn-primary">
+                    <i class="fas fa-flag"></i>
+                    <span data-i18n="report.submit">Submit Report</span>
+                </button>
+            </form>
+        </div>
+    </div>
+
+    <!-- Toast Notification -->
+    <div class="toast hidden" id="toast"></div>
+
+    <script src="https://unpkg.com/leaflet@1.9.4/dist/leaflet.js"></script>
+    <script src="js/i18n.js"></script>
+    <script src="js/data.js"></script>
+    <script src="js/app.js"></script>
+</body>
+</html>
