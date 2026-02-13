@@ -73,7 +73,8 @@ const translations = {
         'category.monument': 'Monument',
         'category.museum': 'Museum',
         'category.restaurant': 'Restaurant',
-        'category.cultural_center': 'Cultural Center'
+        'category.cultural_center': 'Cultural Center',
+        'quote.saroyan': '\u00ab ... For it would take only two of them, meeting anywhere in the world, to create a new Armenia. \u00bb'
     },
     fr: {
         'nav.map': 'Carte',
@@ -148,7 +149,8 @@ const translations = {
         'category.monument': 'Monument',
         'category.museum': 'Mus\u00e9e',
         'category.restaurant': 'Restaurant',
-        'category.cultural_center': 'Centre culturel'
+        'category.cultural_center': 'Centre culturel',
+        'quote.saroyan': '\u00ab ... Car il suffirait que deux d\u2019entre eux se rencontrent, n\u2019importe o\u00f9 dans le monde pour qu\u2019ils cr\u00e9ent une nouvelle Arm\u00e9nie. \u00bb'
     },
     hy: {
         'nav.map': '\u0554\u0561\u0580\u057f\u0565\u0566',
@@ -223,7 +225,8 @@ const translations = {
         'category.monument': '\u0540\u0578\u0582\u0577\u0561\u0580\u0571\u0561\u0576',
         'category.museum': '\u0539\u0561\u0576\u0563\u0561\u0580\u0561\u0576',
         'category.restaurant': '\u054c\u0565\u057d\u057f\u0578\u0580\u0561\u0576',
-        'category.cultural_center': '\u0544\u0577\u0561\u056f\u0578\u0582\u0569\u0561\u0575\u056b\u0576 \u056f\u0565\u0576\u057f\u0580\u0578\u0576'
+        'category.cultural_center': '\u0544\u0577\u0561\u056f\u0578\u0582\u0569\u0561\u0575\u056b\u0576 \u056f\u0565\u0576\u057f\u0580\u0578\u0576',
+        'quote.saroyan': '\u00ab ... \u0532\u0561\u057e\u0561\u056f\u0561\u0576 \u056f\u056c\u056b\u0576\u0565\u0580 \u0576\u0580\u0561\u0576\u0581\u056b\u0581 \u0565\u0580\u056f\u0578\u0582\u057d\u056b\u0576 \u0570\u0561\u0576\u0564\u056b\u057a\u0565\u056b\u0576, \u0561\u0577\u056d\u0561\u0580\u0570\u056b \u0581\u0561\u0576\u056f\u0561\u0581\u0561\u056e \u057f\u0565\u0572\u0578\u0582\u0574, \u0576\u0578\u0580 \u0540\u0561\u0575\u0561\u057d\u057f\u0561\u0576 \u057d\u057f\u0565\u0572\u056e\u0565\u056c\u0578\u0582 \u0570\u0561\u0574\u0561\u0580\u0589 \u00bb'
     }
 };
 

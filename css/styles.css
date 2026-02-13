@@ -20,6 +20,7 @@
     --radius: 8px;
     --radius-lg: 12px;
     --header-h: 60px;
+    --quote-h: 44px;
     --filter-h: 56px;
     --font: 'Segoe UI', system-ui, -apple-system, sans-serif;
 }
@@ -179,10 +180,44 @@ html, body {
     display: flex;
 }
 
+/* ===== Quote Banner ===== */
+.quote-banner {
+    position: fixed;
+    top: var(--header-h);
+    left: 0;
+    right: 0;
+    z-index: 999;
+    height: var(--quote-h);
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    gap: 8px;
+    padding: 0 20px;
+    background: var(--primary-dark);
+    color: rgba(255,255,255,0.85);
+    font-style: italic;
+    text-align: center;
+    overflow: hidden;
+}
+
+.quote-text {
+    font-size: 13px;
+    line-height: 1.3;
+    letter-spacing: 0.2px;
+}
+
+.quote-author {
+    font-size: 12px;
+    color: var(--secondary);
+    font-style: normal;
+    font-weight: 600;
+    white-space: nowrap;
+}
+
 /* ===== Filter Bar ===== */
 .filter-bar {
     position: fixed;
-    top: var(--header-h);
+    top: calc(var(--header-h) + var(--quote-h));
     left: 0;
     right: 0;
     z-index: 999;
@@ -267,7 +302,7 @@ html, body {
 /* ===== Views ===== */
 .view {
     display: none;
-    padding-top: calc(var(--header-h) + var(--filter-h));
+    padding-top: calc(var(--header-h) + var(--quote-h) + var(--filter-h));
     min-height: 100vh;
 }
 
@@ -278,7 +313,7 @@ html, body {
 /* ===== Map ===== */
 #map {
     width: 100%;
-    height: calc(100vh - var(--header-h) - var(--filter-h));
+    height: calc(100vh - var(--header-h) - var(--quote-h) - var(--filter-h));
 }
 
 .leaflet-popup-content-wrapper {
@@ -1046,7 +1081,12 @@ html, body {
     }
 
     :root {
+        --quote-h: 56px;
         --filter-h: 100px;
+    }
+
+    .quote-text {
+        font-size: 11px;
     }
 
     .form-row {
