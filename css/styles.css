@@ -186,18 +186,19 @@ html, body {
     top: var(--header-h);
     left: 0;
     right: 0;
-    z-index: 999;
+    z-index: 1000;
     height: var(--quote-h);
     display: flex;
     align-items: center;
     justify-content: center;
     gap: 8px;
     padding: 0 20px;
-    background: var(--primary-dark);
-    color: rgba(255,255,255,0.85);
+    background: linear-gradient(135deg, var(--primary-dark) 0%, #6B1D10 100%);
+    color: rgba(255,255,255,0.9);
     font-style: italic;
     text-align: center;
     overflow: hidden;
+    box-shadow: 0 2px 8px rgba(0,0,0,0.15);
 }
 
 .quote-text {
