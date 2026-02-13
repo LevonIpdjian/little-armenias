@@ -74,7 +74,7 @@ const translations = {
         'category.museum': 'Museum',
         'category.restaurant': 'Restaurant',
         'category.cultural_center': 'Cultural Center',
-        'quote.saroyan': '\u00ab ... For it would take only two of them, meeting anywhere in the world, to create a new Armenia. \u00bb'
+        'quote.saroyan': '\u00ab ... For when two of them meet anywhere in the world, see if they will not create a New Armenia. \u00bb'
     },
     fr: {
         'nav.map': 'Carte',
