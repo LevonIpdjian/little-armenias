@@ -361,6 +361,9 @@ html, body {
 .popup-category.museum { background: #E8E0D5; color: #6B5A1A; }
 .popup-category.restaurant { background: #D5E8D5; color: #1A6B2E; }
 .popup-category.cultural_center { background: #E0D5E8; color: #5A1A6B; }
+.popup-category.school { background: #D5E8E0; color: #0D6B5A; }
+.popup-category.shop { background: #E8DED5; color: #6B4A1A; }
+.popup-category.neighborhood { background: #D8D5E8; color: #3A1A6B; }
 
 .popup-title {
     font-size: 16px;
@@ -465,6 +468,9 @@ html, body {
 .custom-marker.museum { background: #8B6914; }
 .custom-marker.restaurant { background: #1A6B2E; }
 .custom-marker.cultural_center { background: #5A1A6B; }
+.custom-marker.school { background: #0D6B5A; }
+.custom-marker.shop { background: #6B4A1A; }
+.custom-marker.neighborhood { background: #3A1A6B; }
 
 /* ===== List View ===== */
 .list-container {

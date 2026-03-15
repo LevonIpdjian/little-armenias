@@ -12,6 +12,9 @@ const translations = {
         'filter.museum': 'Museums',
         'filter.restaurant': 'Restaurants',
         'filter.cultural': 'Cultural Centers',
+        'filter.school': 'Schools',
+        'filter.shop': 'Shops',
+        'filter.neighborhood': 'Neighborhoods',
         'list.title': 'Points of Interest by Location',
         'list.empty': 'No locations match your search.',
         'submit.title': 'Submit a New Point of Interest',
@@ -74,6 +77,9 @@ const translations = {
         'category.museum': 'Museum',
         'category.restaurant': 'Restaurant',
         'category.cultural_center': 'Cultural Center',
+        'category.school': 'School',
+        'category.shop': 'Shop',
+        'category.neighborhood': 'Neighborhood',
         'quote.saroyan': '\u00ab ... For when two of them meet anywhere in the world, see if they will not create a New Armenia. \u00bb'
     },
     fr: {
@@ -88,6 +94,9 @@ const translations = {
         'filter.museum': 'Mus\u00e9es',
         'filter.restaurant': 'Restaurants',
         'filter.cultural': 'Centres culturels',
+        'filter.school': '\u00c9coles',
+        'filter.shop': 'Commerces',
+        'filter.neighborhood': 'Quartiers',
         'list.title': "Points d'int\u00e9r\u00eat par lieu",
         'list.empty': 'Aucun lieu ne correspond \u00e0 votre recherche.',
         'submit.title': "Soumettre un nouveau point d'int\u00e9r\u00eat",
@@ -150,6 +159,9 @@ const translations = {
         'category.museum': 'Mus\u00e9e',
         'category.restaurant': 'Restaurant',
         'category.cultural_center': 'Centre culturel',
+        'category.school': '\u00c9cole',
+        'category.shop': 'Commerce',
+        'category.neighborhood': 'Quartier',
         'quote.saroyan': '\u00ab ... Car il suffirait que deux d\u2019entre eux se rencontrent, n\u2019importe o\u00f9 dans le monde pour qu\u2019ils cr\u00e9ent une nouvelle Arm\u00e9nie. \u00bb'
     },
     hy: {
@@ -164,6 +176,9 @@ const translations = {
         'filter.museum': '\u0539\u0561\u0576\u0563\u0561\u0580\u0561\u0576\u0576\u0565\u0580',
         'filter.restaurant': '\u054c\u0565\u057d\u057f\u0578\u0580\u0561\u0576\u0576\u0565\u0580',
         'filter.cultural': '\u0544\u0577\u0561\u056f\u0578\u0582\u0569\u0561\u0575\u056b\u0576 \u056f\u0565\u0576\u057f\u0580\u0578\u0576\u0576\u0565\u0580',
+        'filter.school': '\u0534\u057a\u0580\u0578\u0581\u0576\u0565\u0580',
+        'filter.shop': '\u053d\u0561\u0576\u0578\u0582\u0569\u0576\u0565\u0580',
+        'filter.neighborhood': '\u0539\u0561\u0572\u0561\u0574\u0561\u057d\u0565\u0580',
         'list.title': '\u0540\u0565\u057f\u0561\u0584\u0580\u0584\u0580\u0578\u0582\u0569\u0575\u0561\u0576 \u057e\u0561\u0575\u0580\u0565\u0580 \u0568\u057d\u057f \u057f\u0565\u0572\u0561\u0576\u0584\u056b',
         'list.empty': '\u0548\u0579 \u0574\u056b \u057e\u0561\u0575\u0580 \u0579\u056b \u0570\u0561\u0574\u0561\u057a\u0561\u057f\u0561\u057d\u056d\u0561\u0576\u0578\u0582\u0574 \u0571\u0565\u0580 \u0578\u0580\u0578\u0576\u0574\u0561\u0576\u0568\u0589',
         'submit.title': '\u0531\u057e\u0565\u056c\u0561\u0581\u0576\u0565\u056c \u0576\u0578\u0580 \u0570\u0565\u057f\u0561\u0584\u0580\u0584\u0580\u0578\u0582\u0569\u0575\u0561\u0576 \u057e\u0561\u0575\u0580',
@@ -226,6 +241,9 @@ const translations = {
         'category.museum': '\u0539\u0561\u0576\u0563\u0561\u0580\u0561\u0576',
         'category.restaurant': '\u054c\u0565\u057d\u057f\u0578\u0580\u0561\u0576',
         'category.cultural_center': '\u0544\u0577\u0561\u056f\u0578\u0582\u0569\u0561\u0575\u056b\u0576 \u056f\u0565\u0576\u057f\u0580\u0578\u0576',
+        'category.school': '\u0534\u057a\u0580\u0578\u0581',
+        'category.shop': '\u053d\u0561\u0576\u0578\u0582\u0569',
+        'category.neighborhood': '\u0539\u0561\u0572\u0561\u0574\u0561\u057d',
         'quote.saroyan': '\u00ab ... \u0532\u0561\u057e\u0561\u056f\u0561\u0576 \u056f\u056c\u056b\u0576\u0565\u0580 \u0576\u0580\u0561\u0576\u0581\u056b\u0581 \u0565\u0580\u056f\u0578\u0582\u057d\u056b\u0576 \u0570\u0561\u0576\u0564\u056b\u057a\u0565\u056b\u0576, \u0561\u0577\u056d\u0561\u0580\u0570\u056b \u0581\u0561\u0576\u056f\u0561\u0581\u0561\u056e \u057f\u0565\u0572\u0578\u0582\u0574, \u0576\u0578\u0580 \u0540\u0561\u0575\u0561\u057d\u057f\u0561\u0576 \u057d\u057f\u0565\u0572\u056e\u0565\u056c\u0578\u0582 \u0570\u0561\u0574\u0561\u0580\u0589 \u00bb'
     }
 };

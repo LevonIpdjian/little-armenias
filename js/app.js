@@ -50,7 +50,10 @@ function createMarker(poi) {
         monument: 'fa-monument',
         museum: 'fa-museum',
         restaurant: 'fa-utensils',
-        cultural_center: 'fa-landmark'
+        cultural_center: 'fa-landmark',
+        school: 'fa-school',
+        shop: 'fa-store',
+        neighborhood: 'fa-map-signs'
     };
 
     const icon = L.divIcon({
@@ -89,6 +92,9 @@ function createPopupContent(poi) {
     html += `<span class="popup-category ${poi.category}">${escapeHtml(categoryLabel)}</span>`;
     html += `<div class="popup-title">${escapeHtml(name)}</div>`;
     html += `<div class="popup-location"><i class="fas fa-map-marker-alt"></i> ${escapeHtml(poi.city)}, ${escapeHtml(poi.country)}</div>`;
+    if (poi.address) {
+        html += `<div class="popup-location"><i class="fas fa-map-pin"></i> ${escapeHtml(poi.address)}</div>`;
+    }
     html += `<div class="popup-desc">${escapeHtml(desc)}</div>`;
 
     if (poi.ratings.length) {
@@ -286,6 +292,9 @@ function openDetailModal(id) {
     html += `<span class="popup-category ${poi.category}">${escapeHtml(categoryLabel)}</span>`;
     html += `<h2 class="detail-title">${escapeHtml(name)}</h2>`;
     html += `<div class="detail-location"><i class="fas fa-map-marker-alt"></i> ${escapeHtml(poi.city)}, ${escapeHtml(poi.country)}</div>`;
+    if (poi.address) {
+        html += `<div class="detail-location"><i class="fas fa-map-pin"></i> ${escapeHtml(poi.address)}</div>`;
+    }
     html += `</div>`;
 
     html += `<div class="detail-desc">${escapeHtml(desc)}</div>`;
