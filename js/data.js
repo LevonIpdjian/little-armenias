@@ -86,15 +86,15 @@ const samplePOIs = [
         "country": "Argentina",
         "city": "Buenos Aires",
         "address": "Avda. Dorrego 2124 Palermo, Ciudad De Buenos Aires.",
-        "lat": null,
-        "lng": null,
+        "lat": -34.577786,
+        "lng": -58.4399848,
         "description": {
             "en": "There are two Armenian schools in the Instituto Educativo San Gregorio in the church compound and AGBU’s Instituto Marie Manoogian.",
             "fr": "",
             "hy": ""
         },
         "image": "",
-        "verified": true,
+        "verified": false,
         "ratings": [],
         "comments": [],
         "source": "Little Armenias bu Ruben Kulaksezian",
@@ -261,15 +261,15 @@ const samplePOIs = [
         "country": "Argentina",
         "city": "Buenos Aires",
         "address": "Jose Antonio Cabrera 4702 Palermo Soho, Buenos Aires Argentina",
-        "lat": null,
-        "lng": null,
+        "lat": -34.592166,
+        "lng": -58.429382,
         "description": {
             "en": "has one of the city’s best lahmajun, and a lot of products imported from Armenia.",
             "fr": "",
             "hy": ""
         },
         "image": "",
-        "verified": true,
+        "verified": false,
         "ratings": [],
         "comments": [],
         "source": "Little Armenias bu Ruben Kulaksezian",
@@ -286,15 +286,15 @@ const samplePOIs = [
         "country": "Argentina",
         "city": "Buenos Aires",
         "address": "Charcas 3529, Buenos Aires, Ciudad Autónoma de Buenos Aires 1425.",
-        "lat": null,
-        "lng": null,
+        "lat": -34.5895942,
+        "lng": -58.4149854,
         "description": {
             "en": "the Armenian Catholic Cathedral of Our Lady of Narek (Nuestra Señora de Narek) is one of the community’s primary religious institutions.",
             "fr": "",
             "hy": ""
         },
         "image": "",
-        "verified": true,
+        "verified": false,
         "ratings": [],
         "comments": [],
         "source": "Little Armenias bu Ruben Kulaksezian",
@@ -461,15 +461,15 @@ const samplePOIs = [
         "country": "Argentina",
         "city": "Buenos Aires",
         "address": "Avenida Raúl Scalabrini Ortiz 1261, Buenos Aires",
-        "lat": null,
-        "lng": null,
+        "lat": -34.5933792,
+        "lng": -58.4284635,
         "description": {
             "en": "St. George’s Church (San Jorge) was inaugurated in 1968. The Colegio Armenio is located in the church compound.",
             "fr": "",
             "hy": ""
         },
         "image": "",
-        "verified": true,
+        "verified": false,
         "ratings": [],
         "comments": [],
         "source": "Little Armenias bu Ruben Kulaksezian",
@@ -561,15 +561,15 @@ const samplePOIs = [
         "country": "Argentina",
         "city": "Buenos Aires",
         "address": "jose marti 1562 flores 1406",
-        "lat": null,
-        "lng": null,
+        "lat": -34.6469668,
+        "lng": -58.4602217,
         "description": {
             "en": "(Santa Cruz de Varak) became the first Armenian church in Buenos Aires. The Colegio Arzruni, founded the same year, still stands next to the church.",
             "fr": "",
             "hy": ""
         },
         "image": "",
-        "verified": true,
+        "verified": false,
         "ratings": [],
         "comments": [],
         "source": "Little Armenias bu Ruben Kulaksezian",
@@ -586,15 +586,15 @@ const samplePOIs = [
         "country": "Argentina",
         "city": "Buenos Aires",
         "address": "zuviria 3350",
-        "lat": null,
-        "lng": null,
+        "lat": -34.6484479,
+        "lng": -58.4630984,
         "description": {
             "en": "",
             "fr": "",
             "hy": ""
         },
         "image": "",
-        "verified": true,
+        "verified": false,
         "ratings": [],
         "comments": [],
         "source": "Little Armenias bu Ruben Kulaksezian",
@@ -661,15 +661,15 @@ const samplePOIs = [
         "country": "Argentina",
         "city": "",
         "address": "villa soldati",
-        "lat": null,
-        "lng": null,
+        "lat": -34.6622843,
+        "lng": -58.4410592,
         "description": {
             "en": "",
             "fr": "",
             "hy": ""
         },
         "image": "",
-        "verified": true,
+        "verified": false,
         "ratings": [],
         "comments": [],
         "source": "Little Armenias bu Ruben Kulaksezian",
@@ -811,15 +811,15 @@ const samplePOIs = [
         "country": "Argentina",
         "city": "Cordoba",
         "address": "Av. Maipú 66, Cordoba, Cordoba, 5000 Argentina",
-        "lat": null,
-        "lng": null,
+        "lat": -31.4164874,
+        "lng": -64.1796214,
         "description": {
             "en": "It is the first Armenian church in Latin America, St. George’s Church (Surp Kevork), built in 1926.",
             "fr": "",
             "hy": ""
         },
         "image": "",
-        "verified": true,
+        "verified": false,
         "ratings": [],
         "comments": [],
         "source": "Little Armenias bu Ruben Kulaksezian",
@@ -836,15 +836,15 @@ const samplePOIs = [
         "country": "Argentina",
         "city": "Cordoba",
         "address": "Garay 2057, Córdoba (Córdoba, Argentina) 5000",
-        "lat": null,
-        "lng": null,
+        "lat": -31.7956758,
+        "lng": -64.5408801,
         "description": {
             "en": "The grave of Aram Yerganian, who assassinated Behaeddin Sakir for his role in the Armenian genocide, is located inside Club Antranik. In the area that even the street signs on the neighborhood’s main roads are bilingual; they’re written in both Spanish and Armenian.",
             "fr": "",
             "hy": ""
         },
         "image": "",
-        "verified": true,
+        "verified": false,
         "ratings": [],
         "comments": [],
         "source": "Little Armenias bu Ruben Kulaksezian",
@@ -861,15 +861,15 @@ const samplePOIs = [
         "country": "Argentina",
         "city": "Rosario",
         "address": "Av. Estanislao López 1800, S2000 Rosario, Santa Fe, Argentina",
-        "lat": null,
-        "lng": null,
+        "lat": -32.9263949,
+        "lng": -60.6590308,
         "description": {
             "en": "Park,",
             "fr": "",
             "hy": ""
         },
         "image": "",
-        "verified": true,
+        "verified": false,
         "ratings": [],
         "comments": [],
         "source": "Little Armenias bu Ruben Kulaksezian",
@@ -886,15 +886,15 @@ const samplePOIs = [
         "country": "Argentina",
         "city": "Mar Del Plata",
         "address": "11 de Septiembre 3680 - Mar del Plata",
-        "lat": null,
-        "lng": null,
+        "lat": -37.9899688,
+        "lng": -57.554579,
         "description": {
             "en": "The local Armenian organization, Residentes Armenios, offers Armenian food on Friday and Saturday night.",
             "fr": "",
             "hy": ""
         },
         "image": "",
-        "verified": true,
+        "verified": false,
         "ratings": [],
         "comments": [],
         "source": "Little Armenias bu Ruben Kulaksezian",
@@ -961,15 +961,15 @@ const samplePOIs = [
         "country": "Australia",
         "city": "Sydney",
         "address": "10 Macquarie Street, Chatswood NSW 2067",
-        "lat": null,
-        "lng": null,
+        "lat": -33.792559,
+        "lng": 151.1913737,
         "description": {
             "en": "The Church of Holy Resurrection was inaugurated in 1966",
             "fr": "",
             "hy": ""
         },
         "image": "",
-        "verified": true,
+        "verified": false,
         "ratings": [],
         "comments": [],
         "source": "Little Armenias bu Ruben Kulaksezian",
@@ -986,15 +986,15 @@ const samplePOIs = [
         "country": "Australia",
         "city": "Sydney",
         "address": "32 Frenchs Rd Willoughby NSW, 2068, Australia",
-        "lat": null,
-        "lng": null,
+        "lat": -33.8074922,
+        "lng": 151.2021395,
         "description": {
             "en": "",
             "fr": "",
             "hy": ""
         },
         "image": "",
-        "verified": true,
+        "verified": false,
         "ratings": [],
         "comments": [],
         "source": "Little Armenias bu Ruben Kulaksezian",
@@ -1011,15 +1011,15 @@ const samplePOIs = [
         "country": "Australia",
         "city": "Sydney",
         "address": "184 Edinburgh Rd Castlecrag NSW 2068",
-        "lat": null,
-        "lng": null,
+        "lat": -33.8023878,
+        "lng": 151.2130891,
         "description": {
             "en": "",
             "fr": "",
             "hy": ""
         },
         "image": "",
-        "verified": true,
+        "verified": false,
         "ratings": [],
         "comments": [],
         "source": "Little Armenias bu Ruben Kulaksezian",
@@ -1036,15 +1036,15 @@ const samplePOIs = [
         "country": "Australia",
         "city": "Sydney",
         "address": "259 Penshurst St. Willoughby New South Wales 2068. Australia",
-        "lat": null,
-        "lng": null,
+        "lat": -33.8004991,
+        "lng": 151.1988105,
         "description": {
             "en": "Armenian Cultural Centre, includes the Armenian National Committee of Australia (ANCA)",
             "fr": "",
             "hy": ""
         },
         "image": "",
-        "verified": true,
+        "verified": false,
         "ratings": [],
         "comments": [],
         "source": "Little Armenias bu Ruben Kulaksezian",
@@ -1061,15 +1061,15 @@ const samplePOIs = [
         "country": "Australia",
         "city": "Sydney",
         "address": "Ararat Reserve. Grattan Cr, Frenchs Forest, New South Wales, Australia",
-        "lat": null,
-        "lng": null,
+        "lat": -33.7628252,
+        "lng": 151.2301438,
         "description": {
             "en": "",
             "fr": "",
             "hy": ""
         },
         "image": "",
-        "verified": true,
+        "verified": false,
         "ratings": [],
         "comments": [],
         "source": "Little Armenias bu Ruben Kulaksezian",
@@ -1111,15 +1111,15 @@ const samplePOIs = [
         "country": "Australia",
         "city": "Sydney",
         "address": "22 Blenheim Road, North Ryde NSW 2113",
-        "lat": null,
-        "lng": null,
+        "lat": -33.7979113,
+        "lng": 151.1346318,
         "description": {
             "en": "",
             "fr": "",
             "hy": ""
         },
         "image": "",
-        "verified": true,
+        "verified": false,
         "ratings": [],
         "comments": [],
         "source": "Little Armenias bu Ruben Kulaksezian",
@@ -1136,15 +1136,15 @@ const samplePOIs = [
         "country": "Australia",
         "city": "Sydney",
         "address": "Galstaun College 5. Chiltern Road, Ingleside, NSW 2101.",
-        "lat": null,
-        "lng": null,
+        "lat": -33.6793861,
+        "lng": 151.2591039,
         "description": {
             "en": "",
             "fr": "",
             "hy": ""
         },
         "image": "",
-        "verified": true,
+        "verified": false,
         "ratings": [],
         "comments": [],
         "source": "Little Armenias bu Ruben Kulaksezian",
@@ -1161,15 +1161,15 @@ const samplePOIs = [
         "country": "Australia",
         "city": "Sydney",
         "address": "2 Namba Rd. Duffys Forest NSW 2084",
-        "lat": null,
-        "lng": null,
+        "lat": -33.6756645,
+        "lng": 151.179716,
         "description": {
             "en": "",
             "fr": "",
             "hy": ""
         },
         "image": "",
-        "verified": true,
+        "verified": false,
         "ratings": [],
         "comments": [],
         "source": "Little Armenias bu Ruben Kulaksezian",
@@ -1211,15 +1211,15 @@ const samplePOIs = [
         "country": "Australia",
         "city": "Sydney",
         "address": "626 Bourke St. Surry Hills, NSW, 2010",
-        "lat": null,
-        "lng": null,
+        "lat": -33.8891516,
+        "lng": 151.2151802,
         "description": {
             "en": "",
             "fr": "",
             "hy": ""
         },
         "image": "",
-        "verified": true,
+        "verified": false,
         "ratings": [],
         "comments": [],
         "source": "Little Armenias bu Ruben Kulaksezian",
@@ -1236,15 +1236,15 @@ const samplePOIs = [
         "country": "Australia",
         "city": "Sydney",
         "address": "5 John Street Lidcombe NSW 2141",
-        "lat": null,
-        "lng": null,
+        "lat": -33.862712,
+        "lng": 151.0451454,
         "description": {
             "en": "",
             "fr": "",
             "hy": ""
         },
         "image": "",
-        "verified": true,
+        "verified": false,
         "ratings": [],
         "comments": [],
         "source": "Little Armenias bu Ruben Kulaksezian",
@@ -1311,15 +1311,15 @@ const samplePOIs = [
         "country": "Australia",
         "city": "Sydney",
         "address": "47a/189 Ocean View Rd, Ettalong Beach NSW 2257.",
-        "lat": null,
-        "lng": null,
+        "lat": -33.5139961,
+        "lng": 151.3406536,
         "description": {
             "en": "",
             "fr": "",
             "hy": ""
         },
         "image": "",
-        "verified": true,
+        "verified": false,
         "ratings": [],
         "comments": [],
         "source": "Little Armenias bu Ruben Kulaksezian",
@@ -1411,15 +1411,15 @@ const samplePOIs = [
         "country": "Australia",
         "city": "Melbourne",
         "address": "14 Police Rd, Springvale, VIC, AU",
-        "lat": null,
-        "lng": null,
+        "lat": -37.9330744,
+        "lng": 145.156565,
         "description": {
             "en": "",
             "fr": "",
             "hy": ""
         },
         "image": "",
-        "verified": true,
+        "verified": false,
         "ratings": [],
         "comments": [],
         "source": "Little Armenias bu Ruben Kulaksezian",
@@ -1436,15 +1436,15 @@ const samplePOIs = [
         "country": "Australia",
         "city": "Adelaide",
         "address": "2 Spains Rd, Salisbury Downs SA 5108, Australie",
-        "lat": null,
-        "lng": null,
+        "lat": -34.7723642,
+        "lng": 138.6365962,
         "description": {
             "en": "",
             "fr": "",
             "hy": ""
         },
         "image": "",
-        "verified": true,
+        "verified": false,
         "ratings": [],
         "comments": [],
         "source": "Little Armenias bu Ruben Kulaksezian",
@@ -1461,15 +1461,15 @@ const samplePOIs = [
         "country": "Austria",
         "city": "Vienna",
         "address": "Mechitaristengasse 4, Vienna 1070 Austria",
-        "lat": null,
-        "lng": null,
+        "lat": 48.2060826,
+        "lng": 16.3541613,
         "description": {
             "en": "Founded in 1811, the Mekhitarist Monastery of Vienna is an important center of Armenian culture and education. Its museum (Museum der Mechitaristen) contains - among other things - an impressive collection of Armenian coins and an extensive library. Looking for a souvenir? Buy a bottle of Mechitharine (Klosterlikör Mechitharine), an herb liquor created by the monks from a secret recipe of 43 different herbs and 12 different fruits!",
             "fr": "",
             "hy": ""
         },
         "image": "",
-        "verified": true,
+        "verified": false,
         "ratings": [],
         "comments": [],
         "source": "Little Armenias bu Ruben Kulaksezian",
@@ -1486,15 +1486,15 @@ const samplePOIs = [
         "country": "Austria",
         "city": "Vienna",
         "address": "Kolonitzgasse 11, Vienna 1030, Austria",
-        "lat": null,
-        "lng": null,
+        "lat": 48.2103604,
+        "lng": 16.3893847,
         "description": {
             "en": "",
             "fr": "",
             "hy": ""
         },
         "image": "",
-        "verified": true,
+        "verified": false,
         "ratings": [],
         "comments": [],
         "source": "Little Armenias bu Ruben Kulaksezian",
@@ -1511,15 +1511,15 @@ const samplePOIs = [
         "country": "Austria",
         "city": "Vienna",
         "address": "14 Rotenturmstraße, Wien, Wien, 1010",
-        "lat": null,
-        "lng": null,
+        "lat": 48.2104163,
+        "lng": 16.3750478,
         "description": {
             "en": "One Armenian merchant of the seventeenth century certainly left a unique mark on the Austrian capital. In 1685, Johannes Diodato (Hovhannes Astvatsatour), a Constantinople native, opened a place in Vienna to serve coffee – this was considered to be not only the first café in the city, but also the first in Europe. That café, now called Café Daniel Moser,",
             "fr": "",
             "hy": ""
         },
         "image": "",
-        "verified": true,
+        "verified": false,
         "ratings": [],
         "comments": [],
         "source": "Little Armenias bu Ruben Kulaksezian",
@@ -1536,15 +1536,15 @@ const samplePOIs = [
         "country": "Austria",
         "city": "Vienna",
         "address": "Wurzbachgasse 14, 1150 Wien",
-        "lat": null,
-        "lng": null,
+        "lat": 48.2031287,
+        "lng": 16.336076,
         "description": {
             "en": "",
             "fr": "",
             "hy": ""
         },
         "image": "",
-        "verified": true,
+        "verified": false,
         "ratings": [],
         "comments": [],
         "source": "Little Armenias bu Ruben Kulaksezian",
@@ -1561,15 +1561,15 @@ const samplePOIs = [
         "country": "Austria",
         "city": "Vienna",
         "address": "Belvederegasse 17 1040 Wien",
-        "lat": null,
-        "lng": null,
+        "lat": 48.1912098,
+        "lng": 16.3768355,
         "description": {
             "en": "",
             "fr": "",
             "hy": ""
         },
         "image": "",
-        "verified": true,
+        "verified": false,
         "ratings": [],
         "comments": [],
         "source": "Little Armenias bu Ruben Kulaksezian",
@@ -1786,15 +1786,15 @@ const samplePOIs = [
         "country": "Belgium",
         "city": "Brussels",
         "address": "Rue De La Madeleine, Brussels 1000 Belgium",
-        "lat": null,
-        "lng": null,
+        "lat": 50.8449689,
+        "lng": 4.3553245,
         "description": {
             "en": "",
             "fr": "",
             "hy": ""
         },
         "image": "",
-        "verified": true,
+        "verified": false,
         "ratings": [],
         "comments": [],
         "source": "Little Armenias bu Ruben Kulaksezian",
@@ -1811,15 +1811,15 @@ const samplePOIs = [
         "country": "Belgium",
         "city": "Brussels",
         "address": "Square Henri Michaux, 1050 Ixelles",
-        "lat": null,
-        "lng": null,
+        "lat": 50.8202303,
+        "lng": 4.3632067,
         "description": {
             "en": "",
             "fr": "",
             "hy": ""
         },
         "image": "",
-        "verified": true,
+        "verified": false,
         "ratings": [],
         "comments": [],
         "source": "Little Armenias bu Ruben Kulaksezian",
@@ -1836,15 +1836,15 @@ const samplePOIs = [
         "country": "Belgium",
         "city": "Brussels",
         "address": "Avenue Franklin Roosevelt, 67",
-        "lat": null,
-        "lng": null,
+        "lat": 50.8075312,
+        "lng": 4.3844618,
         "description": {
             "en": "Is among the most beautiful Art Deco edifices in the city, was renovated by the Boghossian Foundation to create a center for art and dialogue between Eastern and Western cultures, and regularly hosts events related to Armenia.",
             "fr": "",
             "hy": ""
         },
         "image": "",
-        "verified": true,
+        "verified": false,
         "ratings": [],
         "comments": [],
         "source": "Little Armenias bu Ruben Kulaksezian",
@@ -1936,15 +1936,15 @@ const samplePOIs = [
         "country": "Belgium",
         "city": "Brussels",
         "address": "Avenue Milcamps, 154 1030 Bruxelles",
-        "lat": null,
-        "lng": null,
+        "lat": 50.8525248,
+        "lng": 4.3950354,
         "description": {
             "en": "",
             "fr": "",
             "hy": ""
         },
         "image": "",
-        "verified": true,
+        "verified": false,
         "ratings": [],
         "comments": [],
         "source": "Little Armenias bu Ruben Kulaksezian",
@@ -2161,15 +2161,15 @@ const samplePOIs = [
         "country": "Brazil",
         "city": "Sao Paulo",
         "address": "Avenida Tiradentes, 718, São Paulo, SP, Brazil",
-        "lat": null,
-        "lng": null,
+        "lat": -23.5296185,
+        "lng": -46.6310745,
         "description": {
             "en": "",
             "fr": "",
             "hy": ""
         },
         "image": "",
-        "verified": true,
+        "verified": false,
         "ratings": [],
         "comments": [],
         "source": "Little Armenias bu Ruben Kulaksezian",
@@ -2211,15 +2211,15 @@ const samplePOIs = [
         "country": "Brazil",
         "city": "Sao Paulo",
         "address": "Av. do Estado, 1101",
-        "lat": null,
-        "lng": null,
+        "lat": -23.5537444,
+        "lng": -46.6256411,
         "description": {
             "en": "",
             "fr": "",
             "hy": ""
         },
         "image": "",
-        "verified": true,
+        "verified": false,
         "ratings": [],
         "comments": [],
         "source": "Little Armenias bu Ruben Kulaksezian",
@@ -2286,15 +2286,15 @@ const samplePOIs = [
         "country": "Brazil",
         "city": "Sao Paulo",
         "address": "Rua Jose Margarido 216 -Santana Santana - São Paulo - SP - Brazil",
-        "lat": null,
-        "lng": null,
+        "lat": -23.4990936,
+        "lng": -46.6346166,
         "description": {
             "en": "Since 1951! Its entrance may not show off too much, but the food is delicious.",
             "fr": "",
             "hy": ""
         },
         "image": "",
-        "verified": true,
+        "verified": false,
         "ratings": [],
         "comments": [],
         "source": "Little Armenias bu Ruben Kulaksezian",
@@ -2436,15 +2436,15 @@ const samplePOIs = [
         "country": "Brazil",
         "city": "Osasco",
         "address": "R. Carlos da Costa Ramalho Júnior, 502",
-        "lat": null,
-        "lng": null,
+        "lat": -23.5285682,
+        "lng": -46.7687864,
         "description": {
             "en": "In 1932 the Church of St. John the Baptist (São João Batista) became the first Armenian church in Brazil. Osasco’s Armenian community center sits next door to the church. Several street names bear witness to the presence of Armenians; keep your eye out for Rua Armênia, Praça Dicran Echrefian, Rua Sanazar Mardiros, Rua Garbiel Seferian, rua Hagop Guzelian etc.",
             "fr": "",
             "hy": ""
         },
         "image": "",
-        "verified": true,
+        "verified": false,
         "ratings": [],
         "comments": [],
         "source": "Little Armenias bu Ruben Kulaksezian",
@@ -3086,15 +3086,15 @@ const samplePOIs = [
         "country": "Canada",
         "city": "Toronto",
         "address": "2746 Victoria Park Ave, North York, ON M2J 4A8, Canada",
-        "lat": null,
-        "lng": null,
+        "lat": 43.7865027,
+        "lng": -79.3286773,
         "description": {
             "en": "",
             "fr": "",
             "hy": ""
         },
         "image": "",
-        "verified": true,
+        "verified": false,
         "ratings": [],
         "comments": [],
         "source": "Little Armenias bu Ruben Kulaksezian",
@@ -3136,15 +3136,15 @@ const samplePOIs = [
         "country": "Canada",
         "city": "Toronto",
         "address": "920 Progress Ave, Scarborough, ON M1G 3T5, Canada",
-        "lat": null,
-        "lng": null,
+        "lat": 43.782414,
+        "lng": -79.2334538,
         "description": {
             "en": "The former AGBU’s center is located right next to the church.",
             "fr": "",
             "hy": ""
         },
         "image": "",
-        "verified": true,
+        "verified": false,
         "ratings": [],
         "comments": [],
         "source": "Little Armenias bu Ruben Kulaksezian",
@@ -3161,15 +3161,15 @@ const samplePOIs = [
         "country": "Canada",
         "city": "Toronto",
         "address": "2600 14th Ave., Markham, ON, Canada",
-        "lat": null,
-        "lng": null,
+        "lat": 43.8290647,
+        "lng": -79.3630761,
         "description": {
             "en": "",
             "fr": "",
             "hy": ""
         },
         "image": "",
-        "verified": true,
+        "verified": false,
         "ratings": [],
         "comments": [],
         "source": "Little Armenias bu Ruben Kulaksezian",
@@ -3186,15 +3186,15 @@ const samplePOIs = [
         "country": "Canada",
         "city": "Toronto",
         "address": "100 Northdale Rd, Toronto, Ontario M2L 2M1, CA",
-        "lat": null,
-        "lng": null,
+        "lat": 43.7639279,
+        "lng": -79.3789323,
         "description": {
             "en": "",
             "fr": "",
             "hy": ""
         },
         "image": "",
-        "verified": true,
+        "verified": false,
         "ratings": [],
         "comments": [],
         "source": "Little Armenias bu Ruben Kulaksezian",
@@ -3211,15 +3211,15 @@ const samplePOIs = [
         "country": "Canada",
         "city": "Toronto",
         "address": "2537 Bayview Ave, Toronto, ON M2L 1H3, Canada",
-        "lat": null,
-        "lng": null,
+        "lat": 43.7456744,
+        "lng": -79.383286,
         "description": {
             "en": "",
             "fr": "",
             "hy": ""
         },
         "image": "",
-        "verified": true,
+        "verified": false,
         "ratings": [],
         "comments": [],
         "source": "Little Armenias bu Ruben Kulaksezian",
@@ -3261,15 +3261,15 @@ const samplePOIs = [
         "country": "Canada",
         "city": "Toronto",
         "address": "960 Queen St W, Toronto, ON, M6J 1G8",
-        "lat": null,
-        "lng": null,
+        "lat": 43.6446537,
+        "lng": -79.4171334,
         "description": {
             "en": "part record store, part café. The Armenian coffee there is prepared in the traditional style, using jezve and hot sand. The ceramic cups are made by an Armenian women’s co-op.",
             "fr": "",
             "hy": ""
         },
         "image": "",
-        "verified": true,
+        "verified": false,
         "ratings": [],
         "comments": [],
         "source": "Little Armenias bu Ruben Kulaksezian",
@@ -3286,15 +3286,15 @@ const samplePOIs = [
         "country": "Canada",
         "city": "Toronto",
         "address": "1580 Bayview Ave, Toronto, ON M4G 3B7, Canada",
-        "lat": null,
-        "lng": null,
+        "lat": 43.7056766,
+        "lng": -79.3754442,
         "description": {
             "en": "",
             "fr": "",
             "hy": ""
         },
         "image": "",
-        "verified": true,
+        "verified": false,
         "ratings": [],
         "comments": [],
         "source": "Little Armenias bu Ruben Kulaksezian",
@@ -3311,15 +3311,15 @@ const samplePOIs = [
         "country": "Canada",
         "city": "Toronto",
         "address": "1800 Avenue Rd, North York, ON M5M 3Z1, Canada",
-        "lat": null,
-        "lng": null,
+        "lat": 43.73035,
+        "lng": -79.41918,
         "description": {
             "en": "",
             "fr": "",
             "hy": ""
         },
         "image": "",
-        "verified": true,
+        "verified": false,
         "ratings": [],
         "comments": [],
         "source": "Little Armenias bu Ruben Kulaksezian",
@@ -3361,15 +3361,15 @@ const samplePOIs = [
         "country": "Canada",
         "city": "Georgetown",
         "address": "Georgetown ontario",
-        "lat": null,
-        "lng": null,
+        "lat": 43.6553828,
+        "lng": -79.9190449,
         "description": {
             "en": "",
             "fr": "",
             "hy": ""
         },
         "image": "",
-        "verified": true,
+        "verified": false,
         "ratings": [],
         "comments": [],
         "source": "Little Armenias bu Ruben Kulaksezian",
@@ -3386,15 +3386,15 @@ const samplePOIs = [
         "country": "Canada",
         "city": "Cambridge",
         "address": "15 International Village Dr, Cambridge, ON N1R 7M5, Canada",
-        "lat": null,
-        "lng": null,
+        "lat": 43.39083,
+        "lng": -80.318512,
         "description": {
             "en": "The Armenian Community Center, where St. Nishan is located, includes as well as a monument honoring the heroes of Musa Dagh, similar to the one in Musaler, Armenia.",
             "fr": "",
             "hy": ""
         },
         "image": "",
-        "verified": true,
+        "verified": false,
         "ratings": [],
         "comments": [],
         "source": "Little Armenias bu Ruben Kulaksezian",
@@ -3436,15 +3436,15 @@ const samplePOIs = [
         "country": "Canada",
         "city": "St. Catherines",
         "address": "49 Carlton St, St. Catharines, ON L2R 1P7, Canada",
-        "lat": null,
-        "lng": null,
+        "lat": 43.1689276,
+        "lng": -79.2593647,
         "description": {
             "en": "",
             "fr": "",
             "hy": ""
         },
         "image": "",
-        "verified": true,
+        "verified": false,
         "ratings": [],
         "comments": [],
         "source": "Little Armenias bu Ruben Kulaksezian",
@@ -3461,15 +3461,15 @@ const samplePOIs = [
         "country": "Canada",
         "city": "St. Catherines",
         "address": "156 Martindale Rd, St. Catharines, Ontario.",
-        "lat": null,
-        "lng": null,
+        "lat": 43.1679785,
+        "lng": -79.2702389,
         "description": {
             "en": "",
             "fr": "",
             "hy": ""
         },
         "image": "",
-        "verified": true,
+        "verified": false,
         "ratings": [],
         "comments": [],
         "source": "Little Armenias bu Ruben Kulaksezian",
@@ -3486,15 +3486,15 @@ const samplePOIs = [
         "country": "Canada",
         "city": "Ottawa",
         "address": "1896 Prince of Wales Dr, Ottawa, ON K2C 3W9, Canada",
-        "lat": null,
-        "lng": null,
+        "lat": 45.3536113,
+        "lng": -75.7052549,
         "description": {
             "en": "",
             "fr": "",
             "hy": ""
         },
         "image": "",
-        "verified": true,
+        "verified": false,
         "ratings": [],
         "comments": [],
         "source": "Little Armenias bu Ruben Kulaksezian",
@@ -3511,15 +3511,15 @@ const samplePOIs = [
         "country": "Canada",
         "city": "Montreal",
         "address": "615 Av. Stuart, Montréal, QC H2V 3H2, Canada",
-        "lat": null,
-        "lng": null,
+        "lat": 45.5180144,
+        "lng": -73.6112606,
         "description": {
             "en": "It’s the seat of the Armenian Diocese of Canada.",
             "fr": "",
             "hy": ""
         },
         "image": "",
-        "verified": true,
+        "verified": false,
         "ratings": [],
         "comments": [],
         "source": "Little Armenias bu Ruben Kulaksezian",
@@ -3611,15 +3611,15 @@ const samplePOIs = [
         "country": "Canada",
         "city": "Montreal",
         "address": "3401 Rue Olivar-Asselin, Montréal, QC H4J 1L5, Canada",
-        "lat": null,
-        "lng": null,
+        "lat": 45.5325971,
+        "lng": -73.6973563,
         "description": {
             "en": "Sourp Hagop Armenian Church, seat of the Armenian Prelature of Canada, was built in 1973 and consecrated in 1978. The Armenian Community Center and the Sourp Hagop School, the largest in Canada, are both right next to the church, and the offices of the newspaper Horizon Weekly are also there.",
             "fr": "",
             "hy": ""
         },
         "image": "",
-        "verified": true,
+        "verified": false,
         "ratings": [],
         "comments": [],
         "source": "Little Armenias bu Ruben Kulaksezian",
@@ -3661,15 +3661,15 @@ const samplePOIs = [
         "country": "Canada",
         "city": "Montreal",
         "address": "755 Rue Manoogian, Montréal, QC H4N 1Z5, Canada",
-        "lat": null,
-        "lng": null,
+        "lat": 45.5182868,
+        "lng": -73.6673968,
         "description": {
             "en": "AGBU’s Alex Manoogian Center and the Alex Manoogian School, as well as the Tekeyan Cultural Center and the offices of Abaka News.",
             "fr": "",
             "hy": ""
         },
         "image": "",
-        "verified": true,
+        "verified": false,
         "ratings": [],
         "comments": [],
         "source": "Little Armenias bu Ruben Kulaksezian",
@@ -3686,15 +3686,15 @@ const samplePOIs = [
         "country": "Canada",
         "city": "Montreal",
         "address": "11301 Bd de l'Acadie, Montréal, QC H3M 2T1, Canada",
-        "lat": null,
-        "lng": null,
+        "lat": 45.537653,
+        "lng": -73.6859051,
         "description": {
             "en": "",
             "fr": "",
             "hy": ""
         },
         "image": "",
-        "verified": true,
+        "verified": false,
         "ratings": [],
         "comments": [],
         "source": "Little Armenias bu Ruben Kulaksezian",
@@ -3711,15 +3711,15 @@ const samplePOIs = [
         "country": "Canada",
         "city": "Montreal",
         "address": "11455 Rue Drouart, Montréal, Québec H3M 2S6, CA",
-        "lat": null,
-        "lng": null,
+        "lat": 45.5365705,
+        "lng": -73.6870736,
         "description": {
             "en": "",
             "fr": "",
             "hy": ""
         },
         "image": "",
-        "verified": true,
+        "verified": false,
         "ratings": [],
         "comments": [],
         "source": "Little Armenias bu Ruben Kulaksezian",
@@ -3786,15 +3786,15 @@ const samplePOIs = [
         "country": "Canada",
         "city": "Laval",
         "address": "397 Boul des Prairies, Laval, QC H7N 2W6, Canada",
-        "lat": null,
-        "lng": null,
+        "lat": 45.5458447,
+        "lng": -73.7099844,
         "description": {
             "en": "",
             "fr": "",
             "hy": ""
         },
         "image": "",
-        "verified": true,
+        "verified": false,
         "ratings": [],
         "comments": [],
         "source": "Little Armenias bu Ruben Kulaksezian",
@@ -3811,15 +3811,15 @@ const samplePOIs = [
         "country": "Canada",
         "city": "Laval",
         "address": "123 Boul des Prairies, Laval, QC H7N 4B1, Canada",
-        "lat": null,
-        "lng": null,
+        "lat": 45.552905,
+        "lng": -73.686919,
         "description": {
             "en": "",
             "fr": "",
             "hy": ""
         },
         "image": "",
-        "verified": true,
+        "verified": false,
         "ratings": [],
         "comments": [],
         "source": "Little Armenias bu Ruben Kulaksezian",
@@ -3836,15 +3836,15 @@ const samplePOIs = [
         "country": "Canada",
         "city": "Laval",
         "address": "1225 Bd Élisabeth, Laval, QC H7W 3J7, Canada",
-        "lat": null,
-        "lng": null,
+        "lat": 45.5399178,
+        "lng": -73.7589494,
         "description": {
             "en": "",
             "fr": "",
             "hy": ""
         },
         "image": "",
-        "verified": true,
+        "verified": false,
         "ratings": [],
         "comments": [],
         "source": "Little Armenias bu Ruben Kulaksezian",
@@ -3861,15 +3861,15 @@ const samplePOIs = [
         "country": "Canada",
         "city": "Laval",
         "address": "500 67e Av, Laval, QC H7V 2M2, Canada",
-        "lat": null,
-        "lng": null,
+        "lat": 45.5423848,
+        "lng": -73.7326264,
         "description": {
             "en": "Our Lady of Nareg School is one of the largest Armenian Catholic schools in North America. A khachkar was installed at the entrance of the Centre Arménie, which regularly hosts community events.",
             "fr": "",
             "hy": ""
         },
         "image": "",
-        "verified": true,
+        "verified": false,
         "ratings": [],
         "comments": [],
         "source": "Little Armenias bu Ruben Kulaksezian",
@@ -3886,15 +3886,15 @@ const samplePOIs = [
         "country": "Canada",
         "city": "Laval",
         "address": "411 Bd Curé-Labelle, Laval, QC H7V 2S9, Canada",
-        "lat": null,
-        "lng": null,
+        "lat": 45.5382935,
+        "lng": -73.737357,
         "description": {
             "en": "",
             "fr": "",
             "hy": ""
         },
         "image": "",
-        "verified": true,
+        "verified": false,
         "ratings": [],
         "comments": [],
         "source": "Little Armenias bu Ruben Kulaksezian",
@@ -3936,15 +3936,15 @@ const samplePOIs = [
         "country": "Canada",
         "city": "Laval",
         "address": "4231 Blvd. Samson, Laval, Quebec H7W 2G8, Canada",
-        "lat": null,
-        "lng": null,
+        "lat": 45.5329105,
+        "lng": -73.7516185,
         "description": {
             "en": "",
             "fr": "",
             "hy": ""
         },
         "image": "",
-        "verified": true,
+        "verified": false,
         "ratings": [],
         "comments": [],
         "source": "Little Armenias bu Ruben Kulaksezian",
@@ -3961,15 +3961,15 @@ const samplePOIs = [
         "country": "Canada",
         "city": "Laval",
         "address": "4229 Blvd. Samson, Laval, Quebec H7W 2G8, Canada",
-        "lat": null,
-        "lng": null,
+        "lat": 45.5329252,
+        "lng": -73.7516001,
         "description": {
             "en": "",
             "fr": "",
             "hy": ""
         },
         "image": "",
-        "verified": true,
+        "verified": false,
         "ratings": [],
         "comments": [],
         "source": "Little Armenias bu Ruben Kulaksezian",
@@ -3986,15 +3986,15 @@ const samplePOIs = [
         "country": "Canada",
         "city": "Laval",
         "address": "784 Bd Curé-Labelle, Laval, QC H7V 2V3, Canada",
-        "lat": null,
-        "lng": null,
+        "lat": 45.5390401,
+        "lng": -73.746548,
         "description": {
             "en": "",
             "fr": "",
             "hy": ""
         },
         "image": "",
-        "verified": true,
+        "verified": false,
         "ratings": [],
         "comments": [],
         "source": "Little Armenias bu Ruben Kulaksezian",
@@ -4036,15 +4036,15 @@ const samplePOIs = [
         "country": "Canada",
         "city": "Laval",
         "address": "2204 Boulevard Curé-Labelle, Laval, QC H7T 1R1, Canada",
-        "lat": null,
-        "lng": null,
+        "lat": 45.557491,
+        "lng": -73.7676151,
         "description": {
             "en": "",
             "fr": "",
             "hy": ""
         },
         "image": "",
-        "verified": true,
+        "verified": false,
         "ratings": [],
         "comments": [],
         "source": "Little Armenias bu Ruben Kulaksezian",
@@ -4111,15 +4111,15 @@ const samplePOIs = [
         "country": "Canada",
         "city": "Quebec",
         "address": "60 Rue D'Auteuil, Québec, QC G1R 4C4, Canada",
-        "lat": null,
-        "lng": null,
+        "lat": 46.8115064,
+        "lng": -71.2120194,
         "description": {
             "en": "",
             "fr": "",
             "hy": ""
         },
         "image": "",
-        "verified": true,
+        "verified": false,
         "ratings": [],
         "comments": [],
         "source": "Little Armenias bu Ruben Kulaksezian",
@@ -4136,15 +4136,15 @@ const samplePOIs = [
         "country": "Canada",
         "city": "Vancouver",
         "address": "1260 W 67th Ave, Vancouver, BC V6P 2T2, Canada",
-        "lat": null,
-        "lng": null,
+        "lat": 49.2105111,
+        "lng": -123.1333556,
         "description": {
             "en": "",
             "fr": "",
             "hy": ""
         },
         "image": "",
-        "verified": true,
+        "verified": false,
         "ratings": [],
         "comments": [],
         "source": "Little Armenias bu Ruben Kulaksezian",
@@ -4161,15 +4161,15 @@ const samplePOIs = [
         "country": "Canada",
         "city": "Vancouver",
         "address": "13780 Westminster Hwy, Richmond, BC V6V 1A2,",
-        "lat": null,
-        "lng": null,
+        "lat": 49.1696135,
+        "lng": -123.0698004,
         "description": {
             "en": "",
             "fr": "",
             "hy": ""
         },
         "image": "",
-        "verified": true,
+        "verified": false,
         "ratings": [],
         "comments": [],
         "source": "Little Armenias bu Ruben Kulaksezian",
@@ -4211,15 +4211,15 @@ const samplePOIs = [
         "country": "Canada",
         "city": "Yarmouth",
         "address": "30 Parade Street, Yarmouth, Nova Scotia B5A 3A6",
-        "lat": null,
-        "lng": null,
+        "lat": 43.837465,
+        "lng": -66.1161294,
         "description": {
             "en": "",
             "fr": "",
             "hy": ""
         },
         "image": "",
-        "verified": true,
+        "verified": false,
         "ratings": [],
         "comments": [],
         "source": "Little Armenias bu Ruben Kulaksezian",
@@ -4236,15 +4236,15 @@ const samplePOIs = [
         "country": "Chile",
         "city": "Santiago",
         "address": "Av. Santa María 2020 - Providencia, Santiago - Chile",
-        "lat": null,
-        "lng": null,
+        "lat": -33.4204501,
+        "lng": -70.6146309,
         "description": {
             "en": "",
             "fr": "",
             "hy": ""
         },
         "image": "",
-        "verified": true,
+        "verified": false,
         "ratings": [],
         "comments": [],
         "source": "Little Armenias bu Ruben Kulaksezian",
@@ -4411,15 +4411,15 @@ const samplePOIs = [
         "country": "Colombia",
         "city": "Bogota",
         "address": "29c Sur-63, Ak. 50, Bogotá, Colombia",
-        "lat": null,
-        "lng": null,
+        "lat": 4.5923109,
+        "lng": -74.1134787,
         "description": {
             "en": "",
             "fr": "",
             "hy": ""
         },
         "image": "",
-        "verified": true,
+        "verified": false,
         "ratings": [],
         "comments": [],
         "source": "Little Armenias bu Ruben Kulaksezian",
@@ -6586,15 +6586,15 @@ const samplePOIs = [
         "country": "France",
         "city": "Alfortville",
         "address": "12 rue Véron, 94140 Alfortville, France",
-        "lat": null,
-        "lng": null,
+        "lat": 48.8151951,
+        "lng": 2.4138116,
         "description": {
             "en": "",
             "fr": "",
             "hy": ""
         },
         "image": "",
-        "verified": true,
+        "verified": false,
         "ratings": [],
         "comments": [],
         "source": "Little Armenias bu Ruben Kulaksezian",
@@ -23986,8 +23986,8 @@ const samplePOIs = [
         "country": "Romania",
         "city": "Bucharest",
         "address": "44.4378, 26.0970",
-        "lat": null,
-        "lng": null,
+        "lat": 44.4378,
+        "lng": 26.097,
         "description": {
             "en": "",
             "fr": "",
@@ -30036,8 +30036,8 @@ const samplePOIs = [
         "country": "Russia",
         "city": "Nakhodka",
         "address": "42.8133, 132.8735",
-        "lat": null,
-        "lng": null,
+        "lat": 42.8133,
+        "lng": 132.8735,
         "description": {
             "en": "",
             "fr": "",
@@ -30111,8 +30111,8 @@ const samplePOIs = [
         "country": "Saudi Arabia",
         "city": "Riyadh",
         "address": "24.7136, 46.6753",
-        "lat": null,
-        "lng": null,
+        "lat": 24.7136,
+        "lng": 46.6753,
         "description": {
             "en": "",
             "fr": "",
@@ -33261,15 +33261,15 @@ const samplePOIs = [
         "country": "Turkey",
         "city": "Istanbul",
         "address": "Meyilli Sk. No:1, Selami Ali, 34664 Üsküdar, Istanbul, Turkey — 41.02482, 29.03080",
-        "lat": null,
-        "lng": null,
+        "lat": 41.02518,
+        "lng": 29.0306794,
         "description": {
             "en": "",
             "fr": "",
             "hy": ""
         },
         "image": "",
-        "verified": true,
+        "verified": false,
         "ratings": [],
         "comments": [],
         "source": "Little Armenias bu Ruben Kulaksezian",
@@ -33386,15 +33386,15 @@ const samplePOIs = [
         "country": "Turkey",
         "city": "Istanbul",
         "address": "Büyükada, Adalar, Istanbul, Turkey — 40.87219, 29.12621",
-        "lat": null,
-        "lng": null,
+        "lat": 40.8720927,
+        "lng": 29.1261697,
         "description": {
             "en": "",
             "fr": "",
             "hy": ""
         },
         "image": "",
-        "verified": true,
+        "verified": false,
         "ratings": [],
         "comments": [],
         "source": "Little Armenias bu Ruben Kulaksezian",
@@ -33549,19 +33549,5369 @@ const samplePOIs = [
         "comments": [],
         "source": "Little Armenias bu Ruben Kulaksezian",
         "furtherReading": ""
+    },
+    {
+        "id": 1345,
+        "name": {
+            "en": "Armenian Evangelical Church of Hollywood",
+            "fr": "",
+            "hy": ""
+        },
+        "category": "church",
+        "country": "United States",
+        "city": "Hollywood",
+        "address": "4950 Franklin Avenue Los Angeles 90027",
+        "lat": 34.1052869,
+        "lng": -118.2975759,
+        "description": {
+            "en": "",
+            "fr": "",
+            "hy": ""
+        },
+        "image": "",
+        "verified": false,
+        "ratings": [],
+        "comments": [],
+        "source": "OpenStreetMap",
+        "furtherReading": "https://www.aeuna.org/"
+    },
+    {
+        "id": 1346,
+        "name": {
+            "en": "ááá­áá¢ááá¡ á¬á.áá áááá áááááááááááááá¡ ááááá¡áá",
+            "fr": "",
+            "hy": ""
+        },
+        "category": "church",
+        "country": "Georgia",
+        "city": "Akhalk’alak’i",
+        "address": "",
+        "lat": 41.4473746,
+        "lng": 43.5168905,
+        "description": {
+            "en": "",
+            "fr": "",
+            "hy": ""
+        },
+        "image": "",
+        "verified": false,
+        "ratings": [],
+        "comments": [],
+        "source": "OpenStreetMap",
+        "furtherReading": ""
+    },
+    {
+        "id": 1347,
+        "name": {
+            "en": "ááá¢áá á á®ááá©áááá¡ á¬á.ááááááá¡ á¡ááá®á£á á ááááá¡áá",
+            "fr": "",
+            "hy": ""
+        },
+        "category": "church",
+        "country": "Georgia",
+        "city": "Ninots’minda",
+        "address": "",
+        "lat": 41.2431645,
+        "lng": 43.5331501,
+        "description": {
+            "en": "",
+            "fr": "",
+            "hy": ""
+        },
+        "image": "",
+        "verified": false,
+        "ratings": [],
+        "comments": [],
+        "source": "OpenStreetMap",
+        "furtherReading": ""
+    },
+    {
+        "id": 1348,
+        "name": {
+            "en": "Surb Georg",
+            "fr": "",
+            "hy": ""
+        },
+        "category": "church",
+        "country": "Georgia",
+        "city": "Akhalk’alak’i",
+        "address": "",
+        "lat": 41.4887076,
+        "lng": 43.4927701,
+        "description": {
+            "en": "",
+            "fr": "",
+            "hy": ""
+        },
+        "image": "",
+        "verified": false,
+        "ratings": [],
+        "comments": [],
+        "source": "OpenStreetMap",
+        "furtherReading": ""
+    },
+    {
+        "id": 1349,
+        "name": {
+            "en": "áááá á á¡áá§ááá á",
+            "fr": "",
+            "hy": ""
+        },
+        "category": "church",
+        "country": "Georgia",
+        "city": "Bak’uriani",
+        "address": "",
+        "lat": 41.6628717,
+        "lng": 43.6231823,
+        "description": {
+            "en": "",
+            "fr": "",
+            "hy": ""
+        },
+        "image": "",
+        "verified": false,
+        "ratings": [],
+        "comments": [],
+        "source": "OpenStreetMap",
+        "furtherReading": ""
+    },
+    {
+        "id": 1350,
+        "name": {
+            "en": "Armenian Church",
+            "fr": "",
+            "hy": ""
+        },
+        "category": "church",
+        "country": "Georgia",
+        "city": "Akhalk’alak’i",
+        "address": "",
+        "lat": 41.3783049,
+        "lng": 43.4981382,
+        "description": {
+            "en": "",
+            "fr": "",
+            "hy": ""
+        },
+        "image": "",
+        "verified": false,
+        "ratings": [],
+        "comments": [],
+        "source": "OpenStreetMap",
+        "furtherReading": ""
+    },
+    {
+        "id": 1351,
+        "name": {
+            "en": "ááááá¬áááááá¡ á¡ááá®á£á á á¡áááááªáááá",
+            "fr": "",
+            "hy": ""
+        },
+        "category": "church",
+        "country": "Georgia",
+        "city": "Ninots’minda",
+        "address": "",
+        "lat": 41.2737595,
+        "lng": 43.5526661,
+        "description": {
+            "en": "",
+            "fr": "",
+            "hy": ""
+        },
+        "image": "",
+        "verified": false,
+        "ratings": [],
+        "comments": [],
+        "source": "OpenStreetMap",
+        "furtherReading": ""
+    },
+    {
+        "id": 1352,
+        "name": {
+            "en": "ááá¢áá á ááááá ááá¡ á¬á. áá áááá  áááááááááááááá¡ á¡ááá®á£á á á¡áááááªáááá",
+            "fr": "",
+            "hy": ""
+        },
+        "category": "church",
+        "country": "Georgia",
+        "city": "Akhalk’alak’i",
+        "address": "",
+        "lat": 41.3158477,
+        "lng": 43.4345119,
+        "description": {
+            "en": "",
+            "fr": "",
+            "hy": ""
+        },
+        "image": "",
+        "verified": false,
+        "ratings": [],
+        "comments": [],
+        "source": "OpenStreetMap",
+        "furtherReading": ""
+    },
+    {
+        "id": 1353,
+        "name": {
+            "en": "á¡ááá®áá¡ á¡ááá®á£á á ááááá¡áá âá¡á£á á ááá¬á ááá á¡á â",
+            "fr": "",
+            "hy": ""
+        },
+        "category": "church",
+        "country": "Georgia",
+        "city": "Ninots’minda",
+        "address": "",
+        "lat": 41.2876732,
+        "lng": 43.6554601,
+        "description": {
+            "en": "",
+            "fr": "",
+            "hy": ""
+        },
+        "image": "",
+        "verified": false,
+        "ratings": [],
+        "comments": [],
+        "source": "OpenStreetMap",
+        "furtherReading": ""
+    },
+    {
+        "id": 1354,
+        "name": {
+            "en": "Surb Astvatsatsin Church",
+            "fr": "",
+            "hy": "ÕÕ¸ÖÖÕ¢ Ô±Õ½Õ¿Õ¾Õ¡Õ®Õ¡Õ®Õ«Õ¶"
+        },
+        "category": "church",
+        "country": "Azerbaijan",
+        "city": "Şuşa",
+        "address": "",
+        "lat": 39.7444835,
+        "lng": 46.7495839,
+        "description": {
+            "en": "",
+            "fr": "",
+            "hy": ""
+        },
+        "image": "",
+        "verified": false,
+        "ratings": [],
+        "comments": [],
+        "source": "OpenStreetMap",
+        "furtherReading": ""
+    },
+    {
+        "id": 1355,
+        "name": {
+            "en": "Ð¦ÐµÑÐºÐ¾Ð²Ñ Ð¡Ð²ÑÑÐ¾Ð³Ð¾ ÐÐ¾ÑÐºÑÐµÑÐµÐ½Ð¸Ñ (Ð¡ÑÑÐ± ÐÑÑÑÑÐ½)",
+            "fr": "",
+            "hy": "ÕÕ¸ÖÖÕ¢ ÕÕ¡ÖÕ¸ÖÕ©ÕµÕ¸ÖÕ¶ Õ¥Õ¯Õ¥Õ²Õ¥ÖÕ«"
+        },
+        "category": "church",
+        "country": "Russian Federation",
+        "city": "Tver",
+        "address": "1 ÐÐ¾Ð»Ð¾ÐºÐ¾Ð»Ð°Ð¼ÑÐºÐ¸Ð¹ Ð¿ÑÐ¾ÑÐ¿ÐµÐºÑ Ð¢Ð²ÐµÑÑ",
+        "lat": 56.8471156,
+        "lng": 35.9205571,
+        "description": {
+            "en": "",
+            "fr": "",
+            "hy": ""
+        },
+        "image": "",
+        "verified": false,
+        "ratings": [],
+        "comments": [],
+        "source": "OpenStreetMap",
+        "furtherReading": ""
+    },
+    {
+        "id": 1356,
+        "name": {
+            "en": "Sandukht Chapel",
+            "fr": "",
+            "hy": "ÕÕ¡Õ¶Õ¤Õ¸ÖÕ­Õ¿ Õ´Õ¡Õ¿Õ¸ÖÕ¼"
+        },
+        "category": "church",
+        "country": "Iran, Islamic Republic of",
+        "city": "Seyah Cheshmeh",
+        "address": "",
+        "lat": 39.07968,
+        "lng": 44.5580964,
+        "description": {
+            "en": "",
+            "fr": "",
+            "hy": ""
+        },
+        "image": "",
+        "verified": false,
+        "ratings": [],
+        "comments": [],
+        "source": "OpenStreetMap",
+        "furtherReading": ""
+    },
+    {
+        "id": 1357,
+        "name": {
+            "en": "Markhatun",
+            "fr": "",
+            "hy": "ÕÕ¡ÖÕ­Õ¡Õ©Õ¸ÖÕ¶"
+        },
+        "category": "church",
+        "country": "Azerbaijan",
+        "city": "Qırmızı Bazar",
+        "address": "",
+        "lat": 39.6329522,
+        "lng": 46.9673742,
+        "description": {
+            "en": "",
+            "fr": "",
+            "hy": ""
+        },
+        "image": "",
+        "verified": false,
+        "ratings": [],
+        "comments": [],
+        "source": "OpenStreetMap",
+        "furtherReading": ""
+    },
+    {
+        "id": 1358,
+        "name": {
+            "en": "St. Gregory the Illuminator's Church",
+            "fr": "",
+            "hy": "ÕÕ¸ÖÖÕ¢ Ô³ÖÕ«Õ£Õ¸Ö Ô¼Õ¸ÖÕ½Õ¡Õ¾Õ¸ÖÕ«Õ¹ Õ¥Õ¯Õ¥Õ²Õ¥ÖÕ«"
+        },
+        "category": "church",
+        "country": "Azerbaijan",
+        "city": "Badamdar",
+        "address": "BakÄ± AZ1005",
+        "lat": 40.3716638,
+        "lng": 49.8364391,
+        "description": {
+            "en": "",
+            "fr": "",
+            "hy": ""
+        },
+        "image": "",
+        "verified": false,
+        "ratings": [],
+        "comments": [],
+        "source": "OpenStreetMap",
+        "furtherReading": "https://ru.wikipedia.org/wiki/Ð¦ÐµÑÐºÐ¾Ð²Ñ_Ð¡Ð²ÑÑÐ¾Ð³Ð¾_ÐÑÐ¸Ð³Ð¾ÑÐ¸Ñ_ÐÑÐ¾ÑÐ²ÐµÑÐ¸ÑÐµÐ»Ñ_(ÐÐ°ÐºÑ)"
+    },
+    {
+        "id": 1359,
+        "name": {
+            "en": "Biserica armeanÄ âSfÃ¢nta Treimeâ BotoÈani",
+            "fr": "",
+            "hy": ""
+        },
+        "category": "church",
+        "country": "Romania",
+        "city": "Botoşani",
+        "address": "17 Strada ArmeanÄ BotoÈani 710359",
+        "lat": 47.7399911,
+        "lng": 26.6717704,
+        "description": {
+            "en": "",
+            "fr": "",
+            "hy": ""
+        },
+        "image": "",
+        "verified": false,
+        "ratings": [],
+        "comments": [],
+        "source": "OpenStreetMap",
+        "furtherReading": ""
+    },
+    {
+        "id": 1360,
+        "name": {
+            "en": "Biserica armeanÄ âAdormirea Maicii Domnuluiâ BotoÈani",
+            "fr": "",
+            "hy": ""
+        },
+        "category": "church",
+        "country": "Romania",
+        "city": "Botoşani",
+        "address": "5 Strada ArmeanÄ BotoÈani 710359",
+        "lat": 47.7411863,
+        "lng": 26.6699776,
+        "description": {
+            "en": "",
+            "fr": "",
+            "hy": ""
+        },
+        "image": "",
+        "verified": false,
+        "ratings": [],
+        "comments": [],
+        "source": "OpenStreetMap",
+        "furtherReading": ""
+    },
+    {
+        "id": 1361,
+        "name": {
+            "en": "Ardzvaber ManastÄ±rÄ±",
+            "fr": "",
+            "hy": ""
+        },
+        "category": "church",
+        "country": "Turkey",
+        "city": "Deliçay",
+        "address": "",
+        "lat": 39.0482091,
+        "lng": 43.4345389,
+        "description": {
+            "en": "",
+            "fr": "",
+            "hy": ""
+        },
+        "image": "",
+        "verified": false,
+        "ratings": [],
+        "comments": [],
+        "source": "OpenStreetMap",
+        "furtherReading": ""
+    },
+    {
+        "id": 1362,
+        "name": {
+            "en": "Monastery of the Holy Cross",
+            "fr": "",
+            "hy": "ÕÕ¢ Ô½Õ¡Õ¹ Õ¥Õ¯Õ¥Õ²Õ¥ÖÕ«"
+        },
+        "category": "church",
+        "country": "Turkey",
+        "city": "Bahçesaray",
+        "address": "",
+        "lat": 38.112248,
+        "lng": 42.7746205,
+        "description": {
+            "en": "",
+            "fr": "",
+            "hy": ""
+        },
+        "image": "",
+        "verified": false,
+        "ratings": [],
+        "comments": [],
+        "source": "OpenStreetMap",
+        "furtherReading": ""
+    },
+    {
+        "id": 1363,
+        "name": {
+            "en": "Amaras Monastery",
+            "fr": "",
+            "hy": ""
+        },
+        "category": "church",
+        "country": "Azerbaijan",
+        "city": "Qırmızı Bazar",
+        "address": "",
+        "lat": 39.6835567,
+        "lng": 47.0573117,
+        "description": {
+            "en": "",
+            "fr": "",
+            "hy": ""
+        },
+        "image": "",
+        "verified": false,
+        "ratings": [],
+        "comments": [],
+        "source": "OpenStreetMap",
+        "furtherReading": "https://en.wikipedia.org/wiki/Amaras_Monastery"
+    },
+    {
+        "id": 1364,
+        "name": {
+            "en": "Church",
+            "fr": "",
+            "hy": ""
+        },
+        "category": "church",
+        "country": "Azerbaijan",
+        "city": "Hadrut",
+        "address": "",
+        "lat": 39.5196976,
+        "lng": 47.0261308,
+        "description": {
+            "en": "",
+            "fr": "",
+            "hy": ""
+        },
+        "image": "",
+        "verified": false,
+        "ratings": [],
+        "comments": [],
+        "source": "OpenStreetMap",
+        "furtherReading": ""
+    },
+    {
+        "id": 1365,
+        "name": {
+            "en": "Surb Histibust Monastery",
+            "fr": "",
+            "hy": "ÕÕ«Õ½Õ¿Õ«Õ¢Õ¸ÖÕ½Õ¿Õ« Õ¾Õ¡Õ¶Ö"
+        },
+        "category": "church",
+        "country": "Turkey",
+        "city": "Tatvan",
+        "address": "",
+        "lat": 38.4674203,
+        "lng": 42.3008321,
+        "description": {
+            "en": "",
+            "fr": "",
+            "hy": ""
+        },
+        "image": "",
+        "verified": false,
+        "ratings": [],
+        "comments": [],
+        "source": "OpenStreetMap",
+        "furtherReading": ""
+    },
+    {
+        "id": 1366,
+        "name": {
+            "en": "Meryemana Kilisesi",
+            "fr": "",
+            "hy": "Ô±Õ½Õ¿Õ¾Õ¡Õ®Õ¡Õ´Õ¡ÕµÖ Õ¥Õ¯Õ¥Õ²Õ¥ÖÕ«Õ¶"
+        },
+        "category": "church",
+        "country": "Turkey",
+        "city": "Kiğı",
+        "address": "",
+        "lat": 39.289548,
+        "lng": 40.3338276,
+        "description": {
+            "en": "",
+            "fr": "",
+            "hy": ""
+        },
+        "image": "",
+        "verified": false,
+        "ratings": [],
+        "comments": [],
+        "source": "OpenStreetMap",
+        "furtherReading": ""
+    },
+    {
+        "id": 1367,
+        "name": {
+            "en": "Bovurkhan Monastery",
+            "fr": "",
+            "hy": "Ô²Õ¸Õ¾Õ¸ÖÖÕ­Õ¡Õ¶Õ« Õ¾Õ¡Õ¶Ö"
+        },
+        "category": "church",
+        "country": "Azerbaijan",
+        "city": "Xankandi",
+        "address": "Askeran region",
+        "lat": 39.7860629,
+        "lng": 46.8542635,
+        "description": {
+            "en": "",
+            "fr": "",
+            "hy": ""
+        },
+        "image": "",
+        "verified": false,
+        "ratings": [],
+        "comments": [],
+        "source": "OpenStreetMap",
+        "furtherReading": ""
+    },
+    {
+        "id": 1368,
+        "name": {
+            "en": "Ð¡ÑÑÐ± ÐÐµÐ²Ð¾ÑÐ³",
+            "fr": "",
+            "hy": "ÕÕ¸ÖÖÕ¢ Ô³ÖÕ¸ÖÕ£ Õ¥Õ¯Õ¥Õ²Õ¥ÖÕ«"
+        },
+        "category": "church",
+        "country": "Russian Federation",
+        "city": "Sukko",
+        "address": "",
+        "lat": 44.84314,
+        "lng": 37.4330388,
+        "description": {
+            "en": "",
+            "fr": "",
+            "hy": ""
+        },
+        "image": "",
+        "verified": false,
+        "ratings": [],
+        "comments": [],
+        "source": "OpenStreetMap",
+        "furtherReading": ""
+    },
+    {
+        "id": 1369,
+        "name": {
+            "en": "Saint Gregory of Narek",
+            "fr": "",
+            "hy": ""
+        },
+        "category": "church",
+        "country": "United States",
+        "city": "Richmond Heights",
+        "address": "678 Richmond Road Richmond Heights 44143",
+        "lat": 41.542876,
+        "lng": -81.4976923,
+        "description": {
+            "en": "",
+            "fr": "",
+            "hy": ""
+        },
+        "image": "",
+        "verified": false,
+        "ratings": [],
+        "comments": [],
+        "source": "OpenStreetMap",
+        "furtherReading": ""
+    },
+    {
+        "id": 1370,
+        "name": {
+            "en": "Surp Sarkis Ermeni Ortodoks Kilisesi",
+            "fr": "",
+            "hy": ""
+        },
+        "category": "church",
+        "country": "Turkey",
+        "city": "Sur",
+        "address": "DiyarbakÄ±r 21300",
+        "lat": 37.9074,
+        "lng": 40.2326375,
+        "description": {
+            "en": "",
+            "fr": "",
+            "hy": ""
+        },
+        "image": "",
+        "verified": false,
+        "ratings": [],
+        "comments": [],
+        "source": "OpenStreetMap",
+        "furtherReading": "https://tr.wikipedia.org/wiki/Surp_Giragos_Ermeni_Kilisesi"
+    },
+    {
+        "id": 1371,
+        "name": {
+            "en": "The Monastery of St. David (Aprank)",
+            "fr": "",
+            "hy": ""
+        },
+        "category": "church",
+        "country": "Turkey",
+        "city": "Tercan",
+        "address": "",
+        "lat": 39.6614364,
+        "lng": 40.288874,
+        "description": {
+            "en": "",
+            "fr": "",
+            "hy": ""
+        },
+        "image": "",
+        "verified": false,
+        "ratings": [],
+        "comments": [],
+        "source": "OpenStreetMap",
+        "furtherReading": "http://virtualani.org/aprank/index.htm"
+    },
+    {
+        "id": 1372,
+        "name": {
+            "en": "Saint Bartholomew Monastery",
+            "fr": "",
+            "hy": "ÕÕ¸ÖÖÕ¢ Ô²Õ¡ÖÕ¤Õ¸ÖÕ²Õ«Õ´Õ¥Õ¸Õ½Õ« Õ¾Õ¡Õ¶Ö"
+        },
+        "category": "church",
+        "country": "Turkey",
+        "city": "Albayrak",
+        "address": "Albayrak",
+        "lat": 38.145036,
+        "lng": 44.2100709,
+        "description": {
+            "en": "",
+            "fr": "",
+            "hy": ""
+        },
+        "image": "",
+        "verified": false,
+        "ratings": [],
+        "comments": [],
+        "source": "OpenStreetMap",
+        "furtherReading": "https://en.wikipedia.org/wiki/Saint_Bartholomew_Monastery"
+    },
+    {
+        "id": 1373,
+        "name": {
+            "en": "Monastery of the Holy Cross at Soradir",
+            "fr": "",
+            "hy": "ÕÕ¸ÖÖÕ¢ Ô·Õ»Õ´Õ«Õ¡Õ®Õ«Õ¶ Õ¥Õ¯Õ¥Õ²Õ¥ÖÕ«"
+        },
+        "category": "church",
+        "country": "Turkey",
+        "city": "Albayrak",
+        "address": "",
+        "lat": 38.2629654,
+        "lng": 44.2523333,
+        "description": {
+            "en": "",
+            "fr": "",
+            "hy": ""
+        },
+        "image": "",
+        "verified": false,
+        "ratings": [],
+        "comments": [],
+        "source": "OpenStreetMap",
+        "furtherReading": "https://en.wikipedia.org/wiki/Church_of_the_Holy_Cross_at_Soradir"
+    },
+    {
+        "id": 1374,
+        "name": {
+            "en": "Kaghtsrahayiats Sourp Asdwadzadzni Vank",
+            "fr": "",
+            "hy": "ÕÕ¡Õ²ÖÖÕ¡Õ°Õ¡ÕµÕ¥Õ¡Ö ÕÕ¸ÖÖÕ¢ Ô±Õ½Õ¿Õ¸ÖÕ¡Õ®Õ¡Õ®Õ¶Õ« Õ¾Õ¡Õ¶Ö"
+        },
+        "category": "church",
+        "country": "Turkey",
+        "city": "Kovancılar",
+        "address": "EkinÃ¶zÃ¼",
+        "lat": 38.7832871,
+        "lng": 39.8752186,
+        "description": {
+            "en": "",
+            "fr": "",
+            "hy": ""
+        },
+        "image": "",
+        "verified": false,
+        "ratings": [],
+        "comments": [],
+        "source": "OpenStreetMap",
+        "furtherReading": ""
+    },
+    {
+        "id": 1375,
+        "name": {
+            "en": "Yeghishe Arakyal Monastery",
+            "fr": "",
+            "hy": "ÔµÕ²Õ«Õ·Õ§ Ô±Õ¼Õ¡ÖÕ¥Õ¡Õ¬Õ« Õ¾Õ¡Õ¶Ö"
+        },
+        "category": "church",
+        "country": "Azerbaijan",
+        "city": "Martakert",
+        "address": "",
+        "lat": 40.3362013,
+        "lng": 46.6950714,
+        "description": {
+            "en": "",
+            "fr": "",
+            "hy": ""
+        },
+        "image": "",
+        "verified": false,
+        "ratings": [],
+        "comments": [],
+        "source": "OpenStreetMap",
+        "furtherReading": "https://en.wikipedia.org/wiki/Yeghishe_Arakyal_Monastery"
+    },
+    {
+        "id": 1376,
+        "name": {
+            "en": "Eghegnamor Monastery",
+            "fr": "",
+            "hy": "ÔµÕ²Õ¥Õ£Õ¶Õ¡Õ´Õ¸Ö Õ¾Õ¡Õ¶Ö"
+        },
+        "category": "church",
+        "country": "Turkey",
+        "city": "Kötek",
+        "address": "Ãengilli",
+        "lat": 40.1234826,
+        "lng": 42.913334,
+        "description": {
+            "en": "",
+            "fr": "",
+            "hy": ""
+        },
+        "image": "",
+        "verified": false,
+        "ratings": [],
+        "comments": [],
+        "source": "OpenStreetMap",
+        "furtherReading": "https://tr.wikipedia.org/wiki/Ãengilli_Kilisesi"
+    },
+    {
+        "id": 1377,
+        "name": {
+            "en": "Ptki Surb Gevorg Monastery",
+            "fr": "",
+            "hy": ""
+        },
+        "category": "church",
+        "country": "Azerbaijan",
+        "city": "Xocalı",
+        "address": "",
+        "lat": 40.0162939,
+        "lng": 46.7133861,
+        "description": {
+            "en": "",
+            "fr": "",
+            "hy": ""
+        },
+        "image": "",
+        "verified": false,
+        "ratings": [],
+        "comments": [],
+        "source": "OpenStreetMap",
+        "furtherReading": ""
+    },
+    {
+        "id": 1378,
+        "name": {
+            "en": "Handaberd Monastery",
+            "fr": "",
+            "hy": ""
+        },
+        "category": "church",
+        "country": "Azerbaijan",
+        "city": "Kalbajar",
+        "address": "",
+        "lat": 40.2233496,
+        "lng": 46.1457538,
+        "description": {
+            "en": "",
+            "fr": "",
+            "hy": ""
+        },
+        "image": "",
+        "verified": false,
+        "ratings": [],
+        "comments": [],
+        "source": "OpenStreetMap",
+        "furtherReading": ""
+    },
+    {
+        "id": 1379,
+        "name": {
+            "en": "ErmÉni kilsÉsi",
+            "fr": "",
+            "hy": ""
+        },
+        "category": "church",
+        "country": "Azerbaijan",
+        "city": "Hadrut",
+        "address": "",
+        "lat": 39.4880044,
+        "lng": 47.0041254,
+        "description": {
+            "en": "",
+            "fr": "",
+            "hy": ""
+        },
+        "image": "",
+        "verified": false,
+        "ratings": [],
+        "comments": [],
+        "source": "OpenStreetMap",
+        "furtherReading": ""
+    },
+    {
+        "id": 1380,
+        "name": {
+            "en": "Saint Stephanos Church",
+            "fr": "",
+            "hy": "Ô²Õ§ÖÕ¯ÖÕ«Õ« ÕÕ¸ÖÖÕ¢ ÕÕ¿Õ¥ÖÕ¡Õ¶Õ¸Õ½ Õ¾Õ¡Õ¶Ö"
+        },
+        "category": "church",
+        "country": "Turkey",
+        "city": "Muradiye",
+        "address": "",
+        "lat": 39.0015963,
+        "lng": 43.7397844,
+        "description": {
+            "en": "",
+            "fr": "",
+            "hy": ""
+        },
+        "image": "",
+        "verified": false,
+        "ratings": [],
+        "comments": [],
+        "source": "OpenStreetMap",
+        "furtherReading": ""
+    },
+    {
+        "id": 1381,
+        "name": {
+            "en": "Amenaprkich Monastery",
+            "fr": "",
+            "hy": ""
+        },
+        "category": "church",
+        "country": "Azerbaijan",
+        "city": "Vank",
+        "address": "",
+        "lat": 40.1245166,
+        "lng": 46.6035663,
+        "description": {
+            "en": "",
+            "fr": "",
+            "hy": ""
+        },
+        "image": "",
+        "verified": false,
+        "ratings": [],
+        "comments": [],
+        "source": "OpenStreetMap",
+        "furtherReading": ""
+    },
+    {
+        "id": 1382,
+        "name": {
+            "en": "Church of St. George of Samatya",
+            "fr": "",
+            "hy": "ÕÕ¡Õ´Õ¡Õ©Õ«Õ¸Õµ ÕÕ¸ÖÖÕ¢ Ô³Õ§Õ¸ÖÕ£ ÔµÕ¯Õ¥Õ²Õ¥ÖÕ«"
+        },
+        "category": "church",
+        "country": "Turkey",
+        "city": "Aksaray",
+        "address": "Ä°stanbul",
+        "lat": 41.0018646,
+        "lng": 28.9331468,
+        "description": {
+            "en": "",
+            "fr": "",
+            "hy": ""
+        },
+        "image": "",
+        "verified": false,
+        "ratings": [],
+        "comments": [],
+        "source": "OpenStreetMap",
+        "furtherReading": "https://tr.wikipedia.org/wiki/Surp_Kevork_Kilisesi"
+    },
+    {
+        "id": 1383,
+        "name": {
+            "en": "Darsiyak Kilisesi",
+            "fr": "",
+            "hy": ""
+        },
+        "category": "church",
+        "country": "Turkey",
+        "city": "Gesi",
+        "address": "",
+        "lat": 38.7691966,
+        "lng": 35.6629656,
+        "description": {
+            "en": "",
+            "fr": "",
+            "hy": ""
+        },
+        "image": "",
+        "verified": false,
+        "ratings": [],
+        "comments": [],
+        "source": "OpenStreetMap",
+        "furtherReading": ""
+    },
+    {
+        "id": 1384,
+        "name": {
+            "en": "á¡ááá®á£á á ááááá¡áá \"á¡á£á á á¡áá á¥áá¡á\"",
+            "fr": "",
+            "hy": ""
+        },
+        "category": "church",
+        "country": "Georgia",
+        "city": "Akhalk’alak’i",
+        "address": "",
+        "lat": 41.3980537,
+        "lng": 43.3540347,
+        "description": {
+            "en": "",
+            "fr": "",
+            "hy": ""
+        },
+        "image": "",
+        "verified": false,
+        "ratings": [],
+        "comments": [],
+        "source": "OpenStreetMap",
+        "furtherReading": ""
+    },
+    {
+        "id": 1385,
+        "name": {
+            "en": "Allamakhach Armenian Church",
+            "fr": "",
+            "hy": ""
+        },
+        "category": "church",
+        "country": "Azerbaijan",
+        "city": "Mincivan",
+        "address": "",
+        "lat": 39.0080749,
+        "lng": 46.8360738,
+        "description": {
+            "en": "",
+            "fr": "",
+            "hy": ""
+        },
+        "image": "",
+        "verified": false,
+        "ratings": [],
+        "comments": [],
+        "source": "OpenStreetMap",
+        "furtherReading": ""
+    },
+    {
+        "id": 1386,
+        "name": {
+            "en": "Western Diocese of the Armenian Church of North America",
+            "fr": "",
+            "hy": ""
+        },
+        "category": "church",
+        "country": "United States",
+        "city": "Burbank",
+        "address": "3325 North Glenoaks Boulevard Burbank 91504",
+        "lat": 34.2061217,
+        "lng": -118.3412604,
+        "description": {
+            "en": "",
+            "fr": "",
+            "hy": ""
+        },
+        "image": "",
+        "verified": false,
+        "ratings": [],
+        "comments": [],
+        "source": "OpenStreetMap",
+        "furtherReading": "https://www.wdacna.com/thediocese"
+    },
+    {
+        "id": 1387,
+        "name": {
+            "en": "Surb Grigor Lusavorich Church",
+            "fr": "",
+            "hy": ""
+        },
+        "category": "church",
+        "country": "Azerbaijan",
+        "city": "Ganja",
+        "address": "64 HacÄ± ZeynalabdÄ±n TaÄÄ±yev GÉncÉ",
+        "lat": 40.6607314,
+        "lng": 46.3597694,
+        "description": {
+            "en": "",
+            "fr": "",
+            "hy": ""
+        },
+        "image": "",
+        "verified": false,
+        "ratings": [],
+        "comments": [],
+        "source": "OpenStreetMap",
+        "furtherReading": ""
+    },
+    {
+        "id": 1388,
+        "name": {
+            "en": "Spitak Khach",
+            "fr": "",
+            "hy": ""
+        },
+        "category": "church",
+        "country": "Azerbaijan",
+        "city": "Hadrut",
+        "address": "",
+        "lat": 39.5136059,
+        "lng": 47.0224806,
+        "description": {
+            "en": "",
+            "fr": "",
+            "hy": ""
+        },
+        "image": "",
+        "verified": false,
+        "ratings": [],
+        "comments": [],
+        "source": "OpenStreetMap",
+        "furtherReading": ""
+    },
+    {
+        "id": 1389,
+        "name": {
+            "en": "Sis Chapel",
+            "fr": "",
+            "hy": ""
+        },
+        "category": "church",
+        "country": "Turkey",
+        "city": "Kozan",
+        "address": "",
+        "lat": 37.4442362,
+        "lng": 35.8141709,
+        "description": {
+            "en": "",
+            "fr": "",
+            "hy": ""
+        },
+        "image": "",
+        "verified": false,
+        "ratings": [],
+        "comments": [],
+        "source": "OpenStreetMap",
+        "furtherReading": ""
+    },
+    {
+        "id": 1390,
+        "name": {
+            "en": "Surp Asdvadzadzin DÃ¶rtyol",
+            "fr": "",
+            "hy": ""
+        },
+        "category": "church",
+        "country": "Turkey",
+        "city": "Dörtyol",
+        "address": "Hatay",
+        "lat": 36.8566157,
+        "lng": 36.2374278,
+        "description": {
+            "en": "",
+            "fr": "",
+            "hy": ""
+        },
+        "image": "",
+        "verified": false,
+        "ratings": [],
+        "comments": [],
+        "source": "OpenStreetMap",
+        "furtherReading": ""
+    },
+    {
+        "id": 1391,
+        "name": {
+            "en": "Surp Sophia Vank",
+            "fr": "",
+            "hy": ""
+        },
+        "category": "church",
+        "country": "Turkey",
+        "city": "Kozan",
+        "address": "",
+        "lat": 37.4458994,
+        "lng": 35.8138705,
+        "description": {
+            "en": "",
+            "fr": "",
+            "hy": ""
+        },
+        "image": "",
+        "verified": false,
+        "ratings": [],
+        "comments": [],
+        "source": "OpenStreetMap",
+        "furtherReading": ""
+    },
+    {
+        "id": 1392,
+        "name": {
+            "en": "St. Gregory Armenian Apostolic Church",
+            "fr": "",
+            "hy": ""
+        },
+        "category": "church",
+        "country": "Russian Federation",
+        "city": "Belidzhi",
+        "address": "",
+        "lat": 41.8715164,
+        "lng": 48.4388842,
+        "description": {
+            "en": "",
+            "fr": "",
+            "hy": ""
+        },
+        "image": "",
+        "verified": false,
+        "ratings": [],
+        "comments": [],
+        "source": "OpenStreetMap",
+        "furtherReading": ""
+    },
+    {
+        "id": 1393,
+        "name": {
+            "en": "Surp Asdvadzadzin Kilisesi",
+            "fr": "",
+            "hy": "ÕÕ¸ÖÖÕ¢ Ô±Õ½Õ¿Õ¾Õ¡Õ®Õ¡Õ®Õ«Õ¶ Õ¥Õ¯Õ¥Õ²Õ¥ÖÕ«"
+        },
+        "category": "church",
+        "country": "Turkey",
+        "city": "Samandağ",
+        "address": "",
+        "lat": 36.1154368,
+        "lng": 35.9749244,
+        "description": {
+            "en": "",
+            "fr": "",
+            "hy": ""
+        },
+        "image": "",
+        "verified": false,
+        "ratings": [],
+        "comments": [],
+        "source": "OpenStreetMap",
+        "furtherReading": "https://tr.wikipedia.org/wiki/Hatay_Surp_Asdvadzadzin_Kilisesi"
+    },
+    {
+        "id": 1394,
+        "name": {
+            "en": "Saint Argelana Church",
+            "fr": "",
+            "hy": "Ô±ÖÕ£Õ¥Õ¬Õ¡Õ¶Õ¡ ÕÕ¢. Ô±Õ½Õ¿Õ¾Õ¡Õ®Õ¡Õ®Õ«Õ¶"
+        },
+        "category": "church",
+        "country": "Turkey",
+        "city": "Muradiye",
+        "address": "",
+        "lat": 39.0017768,
+        "lng": 43.738431,
+        "description": {
+            "en": "",
+            "fr": "",
+            "hy": ""
+        },
+        "image": "",
+        "verified": false,
+        "ratings": [],
+        "comments": [],
+        "source": "OpenStreetMap",
+        "furtherReading": ""
+    },
+    {
+        "id": 1395,
+        "name": {
+            "en": "Kars Armenian Catholic Church",
+            "fr": "",
+            "hy": ""
+        },
+        "category": "church",
+        "country": "Turkey",
+        "city": "Kars",
+        "address": "DereiÃ§i SokaÄÄ± 36000",
+        "lat": 40.6111916,
+        "lng": 43.0874407,
+        "description": {
+            "en": "",
+            "fr": "",
+            "hy": ""
+        },
+        "image": "",
+        "verified": false,
+        "ratings": [],
+        "comments": [],
+        "source": "OpenStreetMap",
+        "furtherReading": ""
+    },
+    {
+        "id": 1396,
+        "name": {
+            "en": "á¤áááá¡ á¡á£á á ááá ááááá¡ á¡áááááªáááá",
+            "fr": "",
+            "hy": ""
+        },
+        "category": "church",
+        "country": "Georgia",
+        "city": "Ninots’minda",
+        "address": "",
+        "lat": 41.3958978,
+        "lng": 43.7849021,
+        "description": {
+            "en": "",
+            "fr": "",
+            "hy": ""
+        },
+        "image": "",
+        "verified": false,
+        "ratings": [],
+        "comments": [],
+        "source": "OpenStreetMap",
+        "furtherReading": ""
+    },
+    {
+        "id": 1397,
+        "name": {
+            "en": "DzÄ±nunt Surp Asdvadzadzni Ermeni Kilisesi",
+            "fr": "",
+            "hy": ""
+        },
+        "category": "church",
+        "country": "Turkey",
+        "city": "Bahçelievler",
+        "address": "",
+        "lat": 40.9768829,
+        "lng": 28.8746532,
+        "description": {
+            "en": "",
+            "fr": "",
+            "hy": ""
+        },
+        "image": "",
+        "verified": false,
+        "ratings": [],
+        "comments": [],
+        "source": "OpenStreetMap",
+        "furtherReading": ""
+    },
+    {
+        "id": 1398,
+        "name": {
+            "en": "á®ááááá¡ á¡ááá®á£á á ááááá¡áá",
+            "fr": "",
+            "hy": ""
+        },
+        "category": "church",
+        "country": "Georgia",
+        "city": "Akhalk’alak’i",
+        "address": "",
+        "lat": 41.4896402,
+        "lng": 43.3957975,
+        "description": {
+            "en": "",
+            "fr": "",
+            "hy": ""
+        },
+        "image": "",
+        "verified": false,
+        "ratings": [],
+        "comments": [],
+        "source": "OpenStreetMap",
+        "furtherReading": ""
+    },
+    {
+        "id": 1399,
+        "name": {
+            "en": "ááá¢áá á áá áá¥áááá¡ âá¡á£á á á¡á¢áá¤áááá¡â ááááá¡áá",
+            "fr": "",
+            "hy": ""
+        },
+        "category": "church",
+        "country": "Georgia",
+        "city": "Ninots’minda",
+        "address": "",
+        "lat": 41.3116956,
+        "lng": 43.6658364,
+        "description": {
+            "en": "",
+            "fr": "",
+            "hy": ""
+        },
+        "image": "",
+        "verified": false,
+        "ratings": [],
+        "comments": [],
+        "source": "OpenStreetMap",
+        "furtherReading": ""
+    },
+    {
+        "id": 1400,
+        "name": {
+            "en": "áááá áá áá¥áááá¡ ááááá¡áá âá¡á£á á á®áá©â ( á¬á. á¯ááá á)",
+            "fr": "",
+            "hy": ""
+        },
+        "category": "church",
+        "country": "Georgia",
+        "city": "Ninots’minda",
+        "address": "",
+        "lat": 41.3061994,
+        "lng": 43.6597451,
+        "description": {
+            "en": "",
+            "fr": "",
+            "hy": ""
+        },
+        "image": "",
+        "verified": false,
+        "ratings": [],
+        "comments": [],
+        "source": "OpenStreetMap",
+        "furtherReading": ""
+    },
+    {
+        "id": 1401,
+        "name": {
+            "en": "ááá¢áá á ááááá ááá¡ ááááá¡áá âá¡á áááª á¦áááááááááªâ",
+            "fr": "",
+            "hy": ""
+        },
+        "category": "church",
+        "country": "Georgia",
+        "city": "Akhalk’alak’i",
+        "address": "",
+        "lat": 41.2987238,
+        "lng": 43.4608218,
+        "description": {
+            "en": "",
+            "fr": "",
+            "hy": ""
+        },
+        "image": "",
+        "verified": false,
+        "ratings": [],
+        "comments": [],
+        "source": "OpenStreetMap",
+        "furtherReading": ""
+    },
+    {
+        "id": 1402,
+        "name": {
+            "en": "áááá ááááá ááá¡ ááááá¡áá âá¡á£á á á°ááááâ",
+            "fr": "",
+            "hy": ""
+        },
+        "category": "church",
+        "country": "Georgia",
+        "city": "Akhalk’alak’i",
+        "address": "",
+        "lat": 41.2932587,
+        "lng": 43.4781274,
+        "description": {
+            "en": "",
+            "fr": "",
+            "hy": ""
+        },
+        "image": "",
+        "verified": false,
+        "ratings": [],
+        "comments": [],
+        "source": "OpenStreetMap",
+        "furtherReading": ""
+    },
+    {
+        "id": 1403,
+        "name": {
+            "en": "áááá¦ááááá¡ á¡áá®áááááá¡ á¡ááá®á£á á ááááá¡áá",
+            "fr": "",
+            "hy": ""
+        },
+        "category": "church",
+        "country": "Georgia",
+        "city": "Akhalk’alak’i",
+        "address": "",
+        "lat": 41.3996352,
+        "lng": 43.354129,
+        "description": {
+            "en": "",
+            "fr": "",
+            "hy": ""
+        },
+        "image": "",
+        "verified": false,
+        "ratings": [],
+        "comments": [],
+        "source": "OpenStreetMap",
+        "furtherReading": ""
+    },
+    {
+        "id": 1404,
+        "name": {
+            "en": "á¡áááááªáááá",
+            "fr": "",
+            "hy": ""
+        },
+        "category": "church",
+        "country": "Georgia",
+        "city": "Akhalk’alak’i",
+        "address": "",
+        "lat": 41.3977157,
+        "lng": 43.3584446,
+        "description": {
+            "en": "",
+            "fr": "",
+            "hy": ""
+        },
+        "image": "",
+        "verified": false,
+        "ratings": [],
+        "comments": [],
+        "source": "OpenStreetMap",
+        "furtherReading": ""
+    },
+    {
+        "id": 1405,
+        "name": {
+            "en": "á¬á.á¡áááááá¡ á¡áááááªáááá",
+            "fr": "",
+            "hy": ""
+        },
+        "category": "church",
+        "country": "Georgia",
+        "city": "Vale",
+        "address": "",
+        "lat": 41.5627983,
+        "lng": 42.8850389,
+        "description": {
+            "en": "",
+            "fr": "",
+            "hy": ""
+        },
+        "image": "",
+        "verified": false,
+        "ratings": [],
+        "comments": [],
+        "source": "OpenStreetMap",
+        "furtherReading": ""
+    },
+    {
+        "id": 1406,
+        "name": {
+            "en": "ááá¢áá á ááá ááááá¡ á¡á£á á á¡áá ááá¡áá¡ ááááá¡áá (ááááá ááááá)",
+            "fr": "",
+            "hy": ""
+        },
+        "category": "church",
+        "country": "Georgia",
+        "city": "Bolnisi",
+        "address": "",
+        "lat": 41.3312851,
+        "lng": 44.6022135,
+        "description": {
+            "en": "",
+            "fr": "",
+            "hy": ""
+        },
+        "image": "",
+        "verified": false,
+        "ratings": [],
+        "comments": [],
+        "source": "OpenStreetMap",
+        "furtherReading": ""
+    },
+    {
+        "id": 1407,
+        "name": {
+            "en": "á®áá¯áá ááá¡ \"ááá ááá áááá¡\" ááá áááá£áá ááááá¡áá ( ááááá ááááá)",
+            "fr": "",
+            "hy": ""
+        },
+        "category": "church",
+        "country": "Georgia",
+        "city": "Sadakhlo",
+        "address": "",
+        "lat": 41.2205322,
+        "lng": 44.6857368,
+        "description": {
+            "en": "",
+            "fr": "",
+            "hy": ""
+        },
+        "image": "",
+        "verified": false,
+        "ratings": [],
+        "comments": [],
+        "source": "OpenStreetMap",
+        "furtherReading": ""
+    },
+    {
+        "id": 1408,
+        "name": {
+            "en": "Yeghnajur Church",
+            "fr": "",
+            "hy": ""
+        },
+        "category": "church",
+        "country": "Turkey",
+        "city": "Doğruyol",
+        "address": "",
+        "lat": 41.0918505,
+        "lng": 43.5782323,
+        "description": {
+            "en": "",
+            "fr": "",
+            "hy": ""
+        },
+        "image": "",
+        "verified": false,
+        "ratings": [],
+        "comments": [],
+        "source": "OpenStreetMap",
+        "furtherReading": ""
+    },
+    {
+        "id": 1409,
+        "name": {
+            "en": "á¡ááá®á£á á ááááá¡áá",
+            "fr": "",
+            "hy": ""
+        },
+        "category": "church",
+        "country": "Georgia",
+        "city": "Bak’urianis Andezit’i",
+        "address": "",
+        "lat": 41.588748,
+        "lng": 43.4653691,
+        "description": {
+            "en": "",
+            "fr": "",
+            "hy": ""
+        },
+        "image": "",
+        "verified": false,
+        "ratings": [],
+        "comments": [],
+        "source": "OpenStreetMap",
+        "furtherReading": ""
+    },
+    {
+        "id": 1410,
+        "name": {
+            "en": "ááááá¨áá¡ á¡ááá®á£á á ááááá¡áá",
+            "fr": "",
+            "hy": ""
+        },
+        "category": "church",
+        "country": "Georgia",
+        "city": "Akhalk’alak’i",
+        "address": "",
+        "lat": 41.2841951,
+        "lng": 43.4209207,
+        "description": {
+            "en": "",
+            "fr": "",
+            "hy": ""
+        },
+        "image": "",
+        "verified": false,
+        "ratings": [],
+        "comments": [],
+        "source": "OpenStreetMap",
+        "furtherReading": ""
+    },
+    {
+        "id": 1411,
+        "name": {
+            "en": "ááááá¡ á¦áá ááá¡áá¨ááááá¡ ááááá¡áá",
+            "fr": "",
+            "hy": ""
+        },
+        "category": "church",
+        "country": "Georgia",
+        "city": "Ts’alk’a",
+        "address": "",
+        "lat": 41.6318506,
+        "lng": 43.8634398,
+        "description": {
+            "en": "",
+            "fr": "",
+            "hy": ""
+        },
+        "image": "",
+        "verified": false,
+        "ratings": [],
+        "comments": [],
+        "source": "OpenStreetMap",
+        "furtherReading": ""
+    },
+    {
+        "id": 1412,
+        "name": {
+            "en": "á¡áááááªáááá \" á¡á£á á ááá áááá¢á \" á®áá©áááá¨á",
+            "fr": "",
+            "hy": ""
+        },
+        "category": "church",
+        "country": "Georgia",
+        "city": "Ts’alk’a",
+        "address": "",
+        "lat": 41.7052809,
+        "lng": 43.9640216,
+        "description": {
+            "en": "",
+            "fr": "",
+            "hy": ""
+        },
+        "image": "",
+        "verified": false,
+        "ratings": [],
+        "comments": [],
+        "source": "OpenStreetMap",
+        "furtherReading": ""
+    },
+    {
+        "id": 1413,
+        "name": {
+            "en": "á®áá©áááá¡ á¬á. áááá ááá¡ (á¡á£á á ááááá á¥áá¡) ááááá¡áá",
+            "fr": "",
+            "hy": ""
+        },
+        "category": "church",
+        "country": "Georgia",
+        "city": "Ts’alk’a",
+        "address": "",
+        "lat": 41.7026843,
+        "lng": 43.9672611,
+        "description": {
+            "en": "",
+            "fr": "",
+            "hy": ""
+        },
+        "image": "",
+        "verified": false,
+        "ratings": [],
+        "comments": [],
+        "source": "OpenStreetMap",
+        "furtherReading": ""
+    },
+    {
+        "id": 1414,
+        "name": {
+            "en": "á¡áááááªáááá",
+            "fr": "",
+            "hy": ""
+        },
+        "category": "church",
+        "country": "Georgia",
+        "city": "Ninots’minda",
+        "address": "",
+        "lat": 41.2971744,
+        "lng": 43.6065481,
+        "description": {
+            "en": "",
+            "fr": "",
+            "hy": ""
+        },
+        "image": "",
+        "verified": false,
+        "ratings": [],
+        "comments": [],
+        "source": "OpenStreetMap",
+        "furtherReading": ""
+    },
+    {
+        "id": 1415,
+        "name": {
+            "en": "áááá á®ááá©ááá¡ á¡ááá®á£á á ááááá¡áá (ááááá ááááá)",
+            "fr": "",
+            "hy": ""
+        },
+        "category": "church",
+        "country": "Georgia",
+        "city": "Ninots’minda",
+        "address": "",
+        "lat": 41.2448418,
+        "lng": 43.5906057,
+        "description": {
+            "en": "",
+            "fr": "",
+            "hy": ""
+        },
+        "image": "",
+        "verified": false,
+        "ratings": [],
+        "comments": [],
+        "source": "OpenStreetMap",
+        "furtherReading": ""
+    },
+    {
+        "id": 1416,
+        "name": {
+            "en": "áááá á®ááá©ááá¡ á¡ááá®á£á á ááááá¡áá",
+            "fr": "",
+            "hy": ""
+        },
+        "category": "church",
+        "country": "Georgia",
+        "city": "Ninots’minda",
+        "address": "",
+        "lat": 41.2443533,
+        "lng": 43.5908639,
+        "description": {
+            "en": "",
+            "fr": "",
+            "hy": ""
+        },
+        "image": "",
+        "verified": false,
+        "ratings": [],
+        "comments": [],
+        "source": "OpenStreetMap",
+        "furtherReading": ""
+    },
+    {
+        "id": 1417,
+        "name": {
+            "en": "Ãglise apostolique armÃ©nienne",
+            "fr": "",
+            "hy": ""
+        },
+        "category": "church",
+        "country": "France",
+        "city": "La Ciotat",
+        "address": "",
+        "lat": 43.1755518,
+        "lng": 5.6053783,
+        "description": {
+            "en": "",
+            "fr": "",
+            "hy": ""
+        },
+        "image": "",
+        "verified": false,
+        "ratings": [],
+        "comments": [],
+        "source": "OpenStreetMap",
+        "furtherReading": ""
+    },
+    {
+        "id": 1418,
+        "name": {
+            "en": "á¡áááááªáááá áá£á¡áá®áá£á á ááá áááááá¨á",
+            "fr": "",
+            "hy": ""
+        },
+        "category": "church",
+        "country": "Georgia",
+        "city": "Ts’alk’a",
+        "address": "",
+        "lat": 41.5761221,
+        "lng": 43.8903554,
+        "description": {
+            "en": "",
+            "fr": "",
+            "hy": ""
+        },
+        "image": "",
+        "verified": false,
+        "ratings": [],
+        "comments": [],
+        "source": "OpenStreetMap",
+        "furtherReading": ""
+    },
+    {
+        "id": 1419,
+        "name": {
+            "en": "ááá ááááááá¡ á¡áááááªáááá á¡á£á á á¡áá áá",
+            "fr": "",
+            "hy": ""
+        },
+        "category": "church",
+        "country": "Georgia",
+        "city": "Ts’alk’a",
+        "address": "",
+        "lat": 41.5774544,
+        "lng": 43.8974579,
+        "description": {
+            "en": "",
+            "fr": "",
+            "hy": ""
+        },
+        "image": "",
+        "verified": false,
+        "ratings": [],
+        "comments": [],
+        "source": "OpenStreetMap",
+        "furtherReading": ""
+    },
+    {
+        "id": 1420,
+        "name": {
+            "en": "Ð°ÑÐ¼ÐµÐ½ÑÐºÐ° Ð°Ð¿Ð¾ÑÑÐ¾Ð»Ð¸ÑÐµÑÐºÐ° ÑÑÑÐºÐ²Ð° \"Ð¡Ð². Ð¡ÑÐµÐ¿Ð°Ð½\"",
+            "fr": "",
+            "hy": ""
+        },
+        "category": "church",
+        "country": "Bulgaria",
+        "city": "Sliven",
+        "address": "",
+        "lat": 42.6846446,
+        "lng": 26.3362829,
+        "description": {
+            "en": "",
+            "fr": "",
+            "hy": ""
+        },
+        "image": "",
+        "verified": false,
+        "ratings": [],
+        "comments": [],
+        "source": "OpenStreetMap",
+        "furtherReading": ""
+    },
+    {
+        "id": 1421,
+        "name": {
+            "en": "ÐÑÐ¼ÑÐ½ÑÐºÐ°Ñ ÐÐ¿Ð¾ÑÑÐ¾Ð»ÑÑÐºÐ°Ñ ÑÐµÑÐºÐ¾Ð²Ñ Ð¡ÑÑÐ± Ð¥Ð°Ñ",
+            "fr": "",
+            "hy": ""
+        },
+        "category": "church",
+        "country": "Ukraine",
+        "city": "Makiivka",
+        "address": "",
+        "lat": 48.0532811,
+        "lng": 37.8988992,
+        "description": {
+            "en": "",
+            "fr": "",
+            "hy": ""
+        },
+        "image": "",
+        "verified": false,
+        "ratings": [],
+        "comments": [],
+        "source": "OpenStreetMap",
+        "furtherReading": ""
+    },
+    {
+        "id": 1422,
+        "name": {
+            "en": "Ermeni Kilisesi",
+            "fr": "",
+            "hy": ""
+        },
+        "category": "church",
+        "country": "Turkey",
+        "city": "Kapısuyu",
+        "address": "",
+        "lat": 36.1374167,
+        "lng": 35.9749821,
+        "description": {
+            "en": "",
+            "fr": "",
+            "hy": ""
+        },
+        "image": "",
+        "verified": false,
+        "ratings": [],
+        "comments": [],
+        "source": "OpenStreetMap",
+        "furtherReading": ""
+    },
+    {
+        "id": 1423,
+        "name": {
+            "en": "St. Otmar und Maria",
+            "fr": "",
+            "hy": ""
+        },
+        "category": "church",
+        "country": "Germany",
+        "city": "Rechberghausen",
+        "address": "48 Lerchenberger StraÃe GÃ¶ppingen 73035",
+        "lat": 48.7241061,
+        "lng": 9.6575686,
+        "description": {
+            "en": "",
+            "fr": "",
+            "hy": ""
+        },
+        "image": "",
+        "verified": false,
+        "ratings": [],
+        "comments": [],
+        "source": "OpenStreetMap",
+        "furtherReading": ""
+    },
+    {
+        "id": 1424,
+        "name": {
+            "en": "ÐÑÐ¼ÑÐ½ÑÐºÐ°Ñ ÐÐ¿Ð¾ÑÑÐ¾Ð»ÑÑÐºÐ°Ñ Ð¦ÐµÑÐºÐ¾Ð²Ñ",
+            "fr": "",
+            "hy": ""
+        },
+        "category": "church",
+        "country": "Russian Federation",
+        "city": "Krasnodar",
+        "address": "165 ÑÐ»Ð¸ÑÐ° Ð¢ÑÑÐ³ÐµÐ½ÐµÐ²Ð° ÐÑÐ°ÑÐ½Ð¾Ð´Ð°Ñ 350078",
+        "lat": 45.0646413,
+        "lng": 38.9592765,
+        "description": {
+            "en": "",
+            "fr": "",
+            "hy": ""
+        },
+        "image": "",
+        "verified": false,
+        "ratings": [],
+        "comments": [],
+        "source": "OpenStreetMap",
+        "furtherReading": ""
+    },
+    {
+        "id": 1425,
+        "name": {
+            "en": "KoÅciÃ³Å pw. BoÅ¼ego MiÅosierdzia",
+            "fr": "",
+            "hy": ""
+        },
+        "category": "church",
+        "country": "Poland",
+        "city": "Kraków",
+        "address": "1 BoÅ¼ego MiÅosierdzia KrakÃ³w 31-104",
+        "lat": 50.0587686,
+        "lng": 19.929604,
+        "description": {
+            "en": "",
+            "fr": "",
+            "hy": ""
+        },
+        "image": "",
+        "verified": false,
+        "ratings": [],
+        "comments": [],
+        "source": "OpenStreetMap",
+        "furtherReading": "https://pl.wikipedia.org/wiki/KoÅciÃ³Å_BoÅ¼ego_MiÅosierdzia_w_Krakowie_(Nowy_Åwiat)"
+    },
+    {
+        "id": 1426,
+        "name": {
+            "en": "Ãglise apostolique armÃ©nienne Saint-GrÃ©goire lâIlluminateur",
+            "fr": "",
+            "hy": ""
+        },
+        "category": "church",
+        "country": "France",
+        "city": "Saint-Étienne",
+        "address": "7 Rue Bernard Palissy",
+        "lat": 45.4386707,
+        "lng": 4.404503,
+        "description": {
+            "en": "",
+            "fr": "",
+            "hy": ""
+        },
+        "image": "",
+        "verified": false,
+        "ratings": [],
+        "comments": [],
+        "source": "OpenStreetMap",
+        "furtherReading": ""
+    },
+    {
+        "id": 1427,
+        "name": {
+            "en": "Ãglise apostolique armÃ©nienne Saint-Gabriel Archange",
+            "fr": "",
+            "hy": ""
+        },
+        "category": "church",
+        "country": "France",
+        "city": "Saint-Martin-d'Hères",
+        "address": "",
+        "lat": 45.1782922,
+        "lng": 5.7448924,
+        "description": {
+            "en": "",
+            "fr": "",
+            "hy": ""
+        },
+        "image": "",
+        "verified": false,
+        "ratings": [],
+        "comments": [],
+        "source": "OpenStreetMap",
+        "furtherReading": ""
+    },
+    {
+        "id": 1428,
+        "name": {
+            "en": "Saint Sargis Armenian Apostolic Church",
+            "fr": "",
+            "hy": "ÕÕ¸ÖÖÕ¢ ÕÕ¡ÖÕ£Õ«Õ½ Õ¥Õ¯Õ¥Õ²Õ¥ÖÕ«"
+        },
+        "category": "church",
+        "country": "Russian Federation",
+        "city": "Adler",
+        "address": "1 ÑÐ»Ð¸ÑÐ° ÐÐµÑÑÑÐ¶ÐµÐ²Ð° Ð¡Ð¾ÑÐ¸",
+        "lat": 43.4199969,
+        "lng": 39.9220708,
+        "description": {
+            "en": "",
+            "fr": "",
+            "hy": ""
+        },
+        "image": "",
+        "verified": false,
+        "ratings": [],
+        "comments": [],
+        "source": "OpenStreetMap",
+        "furtherReading": ""
+    },
+    {
+        "id": 1429,
+        "name": {
+            "en": "St. Mary's Church",
+            "fr": "",
+            "hy": "ÕÕ­Õ«Õ¶Õ¾Õ¡Õ¬Õ« ÕÕ¸ÖÖÕ¢ Ô±Õ½Õ¿Õ¾Õ¡Õ®Õ¡Õ®Õ«Õ¶ Õ¥Õ¯Õ¥Õ²Õ¥ÖÕ«"
+        },
+        "category": "church",
+        "country": "Georgia",
+        "city": "Ts’khinvali",
+        "address": "15 ÑÐ»Ð¸ÑÐ° 13-Ð¸ ÐºÐ¾Ð¼Ð¼ÑÐ½Ð°ÑÐ¾Ð² - 13 ÐºÐ¾Ð¼Ð¼ÑÐ½Ð°ÑÑ ÑÑÐ½Ð³",
+        "lat": 42.2240609,
+        "lng": 43.9747996,
+        "description": {
+            "en": "",
+            "fr": "",
+            "hy": ""
+        },
+        "image": "",
+        "verified": false,
+        "ratings": [],
+        "comments": [],
+        "source": "OpenStreetMap",
+        "furtherReading": "https://ru.wikipedia.org/wiki/Ð¦ÐµÑÐºÐ¾Ð²Ñ_Ð¡Ð²ÑÑÐ¾Ð¹_ÐÐ¾Ð³Ð¾ÑÐ¾Ð´Ð¸ÑÑ_(Ð¦ÑÐ¸Ð½Ð²Ð°Ð»)"
+    },
+    {
+        "id": 1430,
+        "name": {
+            "en": "Ð¦ÐµÑÐºÐ¾Ð²Ñ Ð¡Ð²ÑÑÐ¾Ð³Ð¾ Ð¡ÐµÑÐ³Ð¸Ñ (ÐÑÐ¼ÑÐ½ÑÐºÐ°Ñ ÐÐ¿Ð¾ÑÑÐ¾Ð»ÑÑÐºÐ°Ñ ÑÐµÑÐºÐ¾Ð²Ñ)",
+            "fr": "",
+            "hy": "ÕÕ¸ÖÖÕ¢ ÕÕ¡ÖÕ£Õ«Õ½ Õ¥Õ¯Õ¥Õ²Õ¥ÖÕ«"
+        },
+        "category": "church",
+        "country": "Russian Federation",
+        "city": "Trudobelikovskiy",
+        "address": "26 ÐÑÐ°ÑÐ½Ð¾Ð°ÑÐ¼ÐµÐ¹ÑÐºÐ°Ñ ÑÐ»Ð¸ÑÐ° Ð¡Ð»Ð°Ð²ÑÐ½ÑÐº-Ð½Ð°-ÐÑÐ±Ð°Ð½Ð¸",
+        "lat": 45.2560002,
+        "lng": 38.1447201,
+        "description": {
+            "en": "",
+            "fr": "",
+            "hy": ""
+        },
+        "image": "",
+        "verified": false,
+        "ratings": [],
+        "comments": [],
+        "source": "OpenStreetMap",
+        "furtherReading": "https://ru.wikipedia.org/wiki/Ð¦ÐµÑÐºÐ¾Ð²Ñ_Ð¡Ð²ÑÑÐ¾Ð³Ð¾_Ð¡Ð°ÑÐºÐ¸ÑÐ°_(Ð¡Ð»Ð°Ð²ÑÐ½ÑÐº-Ð½Ð°-ÐÑÐ±Ð°Ð½Ð¸)"
+    },
+    {
+        "id": 1431,
+        "name": {
+            "en": "Cathedral of Ani",
+            "fr": "",
+            "hy": "Surp Asdvadzadzin"
+        },
+        "category": "church",
+        "country": "Turkey",
+        "city": "Başgedikler",
+        "address": "",
+        "lat": 40.5064534,
+        "lng": 43.5729059,
+        "description": {
+            "en": "",
+            "fr": "",
+            "hy": ""
+        },
+        "image": "",
+        "verified": false,
+        "ratings": [],
+        "comments": [],
+        "source": "OpenStreetMap",
+        "furtherReading": "https://hy.wikipedia.org/wiki/Ô±Õ¶Õ«Õ«_ÕÕ¸ÖÖÕ¢_Ô±Õ½Õ¿Õ¾Õ¡Õ®Õ¡Õ®Õ«Õ¶_Ô¿Õ¡Õ©Õ¸Õ²Õ«Õ¯Õ¥_Õ¥Õ¯Õ¥Õ²Õ¥ÖÕ«"
+    },
+    {
+        "id": 1432,
+        "name": {
+            "en": "Church of St Gregory of Abughamrens",
+            "fr": "",
+            "hy": ""
+        },
+        "category": "church",
+        "country": "Turkey",
+        "city": "Başgedikler",
+        "address": "",
+        "lat": 40.5076418,
+        "lng": 43.5689371,
+        "description": {
+            "en": "",
+            "fr": "",
+            "hy": ""
+        },
+        "image": "",
+        "verified": false,
+        "ratings": [],
+        "comments": [],
+        "source": "OpenStreetMap",
+        "furtherReading": "https://az.wikipedia.org/wiki/AbuÄamir_kilsÉsi"
+    },
+    {
+        "id": 1433,
+        "name": {
+            "en": "Ð¦ÐµÑÐºÐ¾Ð²Ñ ÐÐ°ÑÐ¸Ð¸ ÐÐ°Ð³Ð´Ð°Ð»Ð¸Ð½Ñ",
+            "fr": "",
+            "hy": ""
+        },
+        "category": "church",
+        "country": "Russian Federation",
+        "city": "Stavropol’",
+        "address": "33 ÑÐ»Ð¸ÑÐ° ÐÐ¾Ð¹ÑÐ¸ÐºÐ° Ð¡ÑÐ°Ð²ÑÐ¾Ð¿Ð¾Ð»Ñ",
+        "lat": 45.054385,
+        "lng": 41.992038,
+        "description": {
+            "en": "",
+            "fr": "",
+            "hy": ""
+        },
+        "image": "",
+        "verified": false,
+        "ratings": [],
+        "comments": [],
+        "source": "OpenStreetMap",
+        "furtherReading": ""
+    },
+    {
+        "id": 1434,
+        "name": {
+            "en": "St Yeghiche Armenian Church",
+            "fr": "",
+            "hy": ""
+        },
+        "category": "church",
+        "country": "United Kingdom",
+        "city": "Chelsea",
+        "address": "Cranley Gardens London SW7 3BB",
+        "lat": 51.4895261,
+        "lng": -0.1779518,
+        "description": {
+            "en": "",
+            "fr": "",
+            "hy": ""
+        },
+        "image": "",
+        "verified": false,
+        "ratings": [],
+        "comments": [],
+        "source": "OpenStreetMap",
+        "furtherReading": "https://en.wikipedia.org/wiki/Church_of_St_Yeghiche,_South_Kensington"
+    },
+    {
+        "id": 1435,
+        "name": {
+            "en": "Armenian Church of the Holy Resurrection",
+            "fr": "",
+            "hy": ""
+        },
+        "category": "church",
+        "country": "Russian Federation",
+        "city": "Vasyl'evsky Ostrov",
+        "address": "29 Ð»Ð¸ÑÐ Ð½Ð°Ð±ÐµÑÐµÐ¶Ð½Ð°Ñ ÑÐµÐºÐ¸ Ð¡Ð¼Ð¾Ð»ÐµÐ½ÐºÐ¸ Ð¡Ð°Ð½ÐºÑ-ÐÐµÑÐµÑÐ±ÑÑÐ³",
+        "lat": 59.9479551,
+        "lng": 30.2539074,
+        "description": {
+            "en": "",
+            "fr": "",
+            "hy": ""
+        },
+        "image": "",
+        "verified": false,
+        "ratings": [],
+        "comments": [],
+        "source": "OpenStreetMap",
+        "furtherReading": "https://ru.wikipedia.org/wiki/Ð¦ÐµÑÐºÐ¾Ð²Ñ_Ð¡Ð²ÑÑÐ¾Ð³Ð¾_ÐÐ¾ÑÐºÑÐµÑÐµÐ½Ð¸Ñ_(Ð¡Ð°Ð½ÐºÑ-ÐÐµÑÐµÑÐ±ÑÑÐ³)"
+    },
+    {
+        "id": 1436,
+        "name": {
+            "en": "Saint-Sahak et Saint-Mesrob",
+            "fr": "",
+            "hy": ""
+        },
+        "category": "church",
+        "country": "France",
+        "city": "Saint-Jérôme",
+        "address": "",
+        "lat": 43.3314,
+        "lng": 5.418785,
+        "description": {
+            "en": "",
+            "fr": "",
+            "hy": ""
+        },
+        "image": "",
+        "verified": false,
+        "ratings": [],
+        "comments": [],
+        "source": "OpenStreetMap",
+        "furtherReading": ""
+    },
+    {
+        "id": 1437,
+        "name": {
+            "en": "Ð¦ÐµÑÐºÐ¾Ð²Ñ ÑÐ²ÑÑÐ¾Ð³Ð¾ ÐÐ°ÑÐ°Ð¿ÐµÑÐ°",
+            "fr": "",
+            "hy": ""
+        },
+        "category": "church",
+        "country": "Russian Federation",
+        "city": "Rostov-na-Donu",
+        "address": "57 ÑÐ»Ð¸ÑÐ° Ð§ÐµÐ½ÑÐ¾Ð²Ð°",
+        "lat": 47.236945,
+        "lng": 39.7522077,
+        "description": {
+            "en": "",
+            "fr": "",
+            "hy": ""
+        },
+        "image": "",
+        "verified": false,
+        "ratings": [],
+        "comments": [],
+        "source": "OpenStreetMap",
+        "furtherReading": ""
+    },
+    {
+        "id": 1438,
+        "name": {
+            "en": "Ð¦ÐµÑÐºÐ¾Ð²Ñ Ð¡ÑÑÐ± ÐÑÑÐ²Ð°ÑÐ°ÑÐ¸Ð½",
+            "fr": "",
+            "hy": "ÕÕ¸ÖÖÕ¢ Ô±Õ½Õ¿Õ¾Õ¡Õ®Õ¡Õ®Õ«Õ¶ Õ¥Õ¯Õ¥Õ²Õ¥ÖÕ«"
+        },
+        "category": "church",
+        "country": "Russian Federation",
+        "city": "Rostov-na-Donu",
+        "address": "21 ÑÐ»Ð¸ÑÐ° ÐÐµÐ½Ð¸Ð½Ð° ÐÐ¾Ð»ÑÑÐ¸Ðµ Ð¡Ð°Ð»Ñ 346816",
+        "lat": 47.3924153,
+        "lng": 39.6913605,
+        "description": {
+            "en": "",
+            "fr": "",
+            "hy": ""
+        },
+        "image": "",
+        "verified": false,
+        "ratings": [],
+        "comments": [],
+        "source": "OpenStreetMap",
+        "furtherReading": "https://ru.wikipedia.org/wiki/Ð¦ÐµÑÐºÐ¾Ð²Ñ_Ð¡ÑÑÐ±_ÐÑÑÐ²Ð°ÑÐ°ÑÐ¸Ð½_(ÐÐ¾Ð»ÑÑÐ¸Ðµ_Ð¡Ð°Ð»Ñ)"
+    },
+    {
+        "id": 1439,
+        "name": {
+            "en": "Biserica Armeano-CatolicÄ MediaÈ (distrusÄ din anul 1923)",
+            "fr": "",
+            "hy": ""
+        },
+        "category": "church",
+        "country": "Romania",
+        "city": "Mediaş",
+        "address": "",
+        "lat": 46.1575744,
+        "lng": 24.3548835,
+        "description": {
+            "en": "",
+            "fr": "",
+            "hy": ""
+        },
+        "image": "",
+        "verified": false,
+        "ratings": [],
+        "comments": [],
+        "source": "OpenStreetMap",
+        "furtherReading": ""
+    },
+    {
+        "id": 1440,
+        "name": {
+            "en": "St. George Monastery",
+            "fr": "",
+            "hy": "Ô¼Õ«Õ´Õ« Õ¥Õ¯Õ¥Õ²Õ¥ÖÕ«Õ¶"
+        },
+        "category": "church",
+        "country": "Turkey",
+        "city": "Timar",
+        "address": "",
+        "lat": 38.8649647,
+        "lng": 43.3517825,
+        "description": {
+            "en": "",
+            "fr": "",
+            "hy": ""
+        },
+        "image": "",
+        "verified": false,
+        "ratings": [],
+        "comments": [],
+        "source": "OpenStreetMap",
+        "furtherReading": ""
+    },
+    {
+        "id": 1441,
+        "name": {
+            "en": "Biserica ArmeanÄ",
+            "fr": "",
+            "hy": ""
+        },
+        "category": "church",
+        "country": "Romania",
+        "city": "Geamăna",
+        "address": "Strada Gheorghe Doja PiteÈti",
+        "lat": 44.8420715,
+        "lng": 24.8880347,
+        "description": {
+            "en": "",
+            "fr": "",
+            "hy": ""
+        },
+        "image": "",
+        "verified": false,
+        "ratings": [],
+        "comments": [],
+        "source": "OpenStreetMap",
+        "furtherReading": ""
+    },
+    {
+        "id": 1442,
+        "name": {
+            "en": "Armenian Apostolic Church",
+            "fr": "",
+            "hy": ""
+        },
+        "category": "church",
+        "country": "Russian Federation",
+        "city": "Staraya Stanitsa",
+        "address": "7 ÑÐ»Ð¸ÑÐ° ÐÐ¸ÑÐ¾Ð²Ð° ÐÑÐ¼Ð°Ð²Ð¸Ñ",
+        "lat": 45.0050318,
+        "lng": 41.1357227,
+        "description": {
+            "en": "",
+            "fr": "",
+            "hy": ""
+        },
+        "image": "",
+        "verified": false,
+        "ratings": [],
+        "comments": [],
+        "source": "OpenStreetMap",
+        "furtherReading": ""
+    },
+    {
+        "id": 1443,
+        "name": {
+            "en": "Ãglise Sourp Asdvadzadine",
+            "fr": "",
+            "hy": ""
+        },
+        "category": "church",
+        "country": "France",
+        "city": "Pont de Vivaux",
+        "address": "",
+        "lat": 43.271714,
+        "lng": 5.411983,
+        "description": {
+            "en": "",
+            "fr": "",
+            "hy": ""
+        },
+        "image": "",
+        "verified": false,
+        "ratings": [],
+        "comments": [],
+        "source": "OpenStreetMap",
+        "furtherReading": ""
+    },
+    {
+        "id": 1444,
+        "name": {
+            "en": "Ð¦ÐµÑÐºÐ¾Ð²Ñ Ð¡ÑÑÐ± ÐÑÑÐ²Ð°ÑÐ°ÑÐ¸Ð½",
+            "fr": "",
+            "hy": "ÕÕ¸ÖÖÕ¢ Ô±Õ½Õ¿Õ¾Õ¡Õ®Õ¡Õ®Õ«Õ¶ Õ¥Õ¯Õ¥Õ²Õ¥Ö"
+        },
+        "category": "church",
+        "country": "Russian Federation",
+        "city": "Edissiya",
+        "address": "",
+        "lat": 44.0403958,
+        "lng": 44.5439095,
+        "description": {
+            "en": "",
+            "fr": "",
+            "hy": ""
+        },
+        "image": "",
+        "verified": false,
+        "ratings": [],
+        "comments": [],
+        "source": "OpenStreetMap",
+        "furtherReading": ""
+    },
+    {
+        "id": 1445,
+        "name": {
+            "en": "Ãglise apostolique armÃ©nienne Saint-Garabed",
+            "fr": "",
+            "hy": ""
+        },
+        "category": "church",
+        "country": "France",
+        "city": "Verduron",
+        "address": "",
+        "lat": 43.372818,
+        "lng": 5.3460395,
+        "description": {
+            "en": "",
+            "fr": "",
+            "hy": ""
+        },
+        "image": "",
+        "verified": false,
+        "ratings": [],
+        "comments": [],
+        "source": "OpenStreetMap",
+        "furtherReading": ""
+    },
+    {
+        "id": 1446,
+        "name": {
+            "en": "Surp Krikor Lusavoric Church",
+            "fr": "",
+            "hy": "ÕÕ¡Õ¬Õ¡Õ©Õ¡ÕµÕ« ÕÕ¸ÖÖÕ¢ Ô³ÖÕ«Õ£Õ¸Ö Ô¼Õ¸ÖÕ½Õ¡ÖÕ¸ÖÕ«Õ¹ Õ¥Õ¯Õ¥Õ²Õ¥ÖÕ«"
+        },
+        "category": "church",
+        "country": "Turkey",
+        "city": "Eminönü",
+        "address": "",
+        "lat": 41.0256621,
+        "lng": 28.9784235,
+        "description": {
+            "en": "",
+            "fr": "",
+            "hy": ""
+        },
+        "image": "",
+        "verified": false,
+        "ratings": [],
+        "comments": [],
+        "source": "OpenStreetMap",
+        "furtherReading": "https://en.wikipedia.org/wiki/Saint_Gregory_the_Illuminator_Church_of_Galata"
+    },
+    {
+        "id": 1447,
+        "name": {
+            "en": "ÐÑÐ¼ÐµÐ½ÑÐºÐ° ÑÑÑÐºÐ²Ð° \"Ð¡Ð². ÐÐ¾Ð³Ð¾ÑÐ¾Ð´Ð¸ÑÐ°\"",
+            "fr": "",
+            "hy": "ÕÕ¸ÖÖÕ¢ Ô±Õ½Õ¿Õ¾Õ¡Õ®Õ¡Õ®Õ«Õ¶"
+        },
+        "category": "church",
+        "country": "Bulgaria",
+        "city": "Sofia",
+        "address": "",
+        "lat": 42.6927435,
+        "lng": 23.3139599,
+        "description": {
+            "en": "",
+            "fr": "",
+            "hy": ""
+        },
+        "image": "",
+        "verified": false,
+        "ratings": [],
+        "comments": [],
+        "source": "OpenStreetMap",
+        "furtherReading": "https://bg.wikipedia.org/wiki/Ð¡Ð²ÐµÑÐ°_ÐÐ¾Ð³Ð¾ÑÐ¾Ð´Ð¸ÑÐ°_(Ð°ÑÐ¼ÐµÐ½ÑÐºÐ°_ÑÑÑÐºÐ²Ð°_Ð²_Ð¡Ð¾ÑÐ¸Ñ)"
+    },
+    {
+        "id": 1448,
+        "name": {
+            "en": "Surb Ambartsum",
+            "fr": "",
+            "hy": "ÕÕ¸ÖÖÕ¢ ÕÕ¡ÖÕ¸ÖÕ©ÕµÖÕ¸Õ¶ Õ¥Õ¯Õ¥Õ²Õ¥ÖÕ«"
+        },
+        "category": "church",
+        "country": "Russian Federation",
+        "city": "Chaltyr",
+        "address": "12Ð 6-Ñ Ð»Ð¸Ð½Ð¸Ñ Ð§Ð°Ð»ÑÑÑÑ",
+        "lat": 47.2832195,
+        "lng": 39.5009821,
+        "description": {
+            "en": "",
+            "fr": "",
+            "hy": ""
+        },
+        "image": "",
+        "verified": false,
+        "ratings": [],
+        "comments": [],
+        "source": "OpenStreetMap",
+        "furtherReading": ""
+    },
+    {
+        "id": 1449,
+        "name": {
+            "en": "Armenian Apostolic Church of Milan",
+            "fr": "",
+            "hy": ""
+        },
+        "category": "church",
+        "country": "Italy",
+        "city": "Brera",
+        "address": "",
+        "lat": 45.4868762,
+        "lng": 9.2256685,
+        "description": {
+            "en": "",
+            "fr": "",
+            "hy": ""
+        },
+        "image": "",
+        "verified": false,
+        "ratings": [],
+        "comments": [],
+        "source": "OpenStreetMap",
+        "furtherReading": "https://www.chiesaarmena.org/"
+    },
+    {
+        "id": 1450,
+        "name": {
+            "en": "Armenian Cathedral of the Holy Cross",
+            "fr": "",
+            "hy": "Ô±Õ²Õ©Õ¡Õ´Õ¡ÖÕ« ÕÕ¸ÖÖÕ¢ Ô½Õ¡Õ¹ Õ¥Õ¯Õ¥Õ²Õ¥ÖÕ«"
+        },
+        "category": "church",
+        "country": "Turkey",
+        "city": "Gevaş",
+        "address": "",
+        "lat": 38.3403321,
+        "lng": 43.0369879,
+        "description": {
+            "en": "",
+            "fr": "",
+            "hy": ""
+        },
+        "image": "",
+        "verified": false,
+        "ratings": [],
+        "comments": [],
+        "source": "OpenStreetMap",
+        "furtherReading": "https://tr.wikipedia.org/wiki/Akdamar_Kilisesi"
+    },
+    {
+        "id": 1451,
+        "name": {
+            "en": "Surp Yerrortutyun Ermeni Kilisesi",
+            "fr": "",
+            "hy": ""
+        },
+        "category": "church",
+        "country": "Turkey",
+        "city": "Sivrihisar",
+        "address": "",
+        "lat": 39.4535811,
+        "lng": 31.5350943,
+        "description": {
+            "en": "",
+            "fr": "",
+            "hy": ""
+        },
+        "image": "",
+        "verified": false,
+        "ratings": [],
+        "comments": [],
+        "source": "OpenStreetMap",
+        "furtherReading": ""
+    },
+    {
+        "id": 1452,
+        "name": {
+            "en": "Ð¦ÐµÑÐºÐ²Ð° Ð¡Ð²ÑÑÐ¾Ð³Ð¾ ÐÐµÐ¾ÑÐ³Ð°",
+            "fr": "",
+            "hy": "ÔµÕ¯Õ¥Õ²Õ¥ÖÕ¸Ö ÕÕ¢ Ô³Õ¥ÖÕ¸ÖÕ£Õ«"
+        },
+        "category": "church",
+        "country": "Ukraine",
+        "city": "Radisnyy Sad",
+        "address": "",
+        "lat": 46.9069494,
+        "lng": 32.041,
+        "description": {
+            "en": "",
+            "fr": "",
+            "hy": ""
+        },
+        "image": "",
+        "verified": false,
+        "ratings": [],
+        "comments": [],
+        "source": "OpenStreetMap",
+        "furtherReading": ""
+    },
+    {
+        "id": 1453,
+        "name": {
+            "en": "Ð¦ÐµÑÐºÐ¾Ð²Ñ Ð¡Ð²ÑÑÐ¾Ð³Ð¾ ÐÐµÐ¾ÑÐ³Ð¸Ñ",
+            "fr": "",
+            "hy": ""
+        },
+        "category": "church",
+        "country": "Ukraine",
+        "city": "Feodosiya",
+        "address": "",
+        "lat": 45.0239422,
+        "lng": 35.3793435,
+        "description": {
+            "en": "",
+            "fr": "",
+            "hy": ""
+        },
+        "image": "",
+        "verified": false,
+        "ratings": [],
+        "comments": [],
+        "source": "OpenStreetMap",
+        "furtherReading": ""
+    },
+    {
+        "id": 1454,
+        "name": {
+            "en": "St. George's Monastery (Surb Gevorg)",
+            "fr": "",
+            "hy": ""
+        },
+        "category": "church",
+        "country": "Turkey",
+        "city": "Elazığ",
+        "address": "Sahinkaya",
+        "lat": 38.6950395,
+        "lng": 39.1540263,
+        "description": {
+            "en": "",
+            "fr": "",
+            "hy": ""
+        },
+        "image": "",
+        "verified": false,
+        "ratings": [],
+        "comments": [],
+        "source": "OpenStreetMap",
+        "furtherReading": ""
+    },
+    {
+        "id": 1455,
+        "name": {
+            "en": "Armenian Apostolic Church of Seattle",
+            "fr": "",
+            "hy": ""
+        },
+        "category": "church",
+        "country": "United States",
+        "city": "Redmond",
+        "address": "11505 Redmond-Woodinville Road Northeast Redmond 98052",
+        "lat": 47.7034842,
+        "lng": -122.1323871,
+        "description": {
+            "en": "",
+            "fr": "",
+            "hy": ""
+        },
+        "image": "",
+        "verified": false,
+        "ratings": [],
+        "comments": [],
+        "source": "OpenStreetMap",
+        "furtherReading": ""
+    },
+    {
+        "id": 1456,
+        "name": {
+            "en": "Surp Asdvadzadzin Ermeni Kilisesi",
+            "fr": "",
+            "hy": ""
+        },
+        "category": "church",
+        "country": "Turkey",
+        "city": "Istanbul",
+        "address": "5 Kanun SokaÄÄ±",
+        "lat": 41.0498877,
+        "lng": 28.9275799,
+        "description": {
+            "en": "",
+            "fr": "",
+            "hy": ""
+        },
+        "image": "",
+        "verified": false,
+        "ratings": [],
+        "comments": [],
+        "source": "OpenStreetMap",
+        "furtherReading": ""
+    },
+    {
+        "id": 1457,
+        "name": {
+            "en": "The Armenian Apostolic Church",
+            "fr": "",
+            "hy": ""
+        },
+        "category": "church",
+        "country": "Ukraine",
+        "city": "Bilhorod-Dnistrovskyi",
+        "address": "1",
+        "lat": 46.198072,
+        "lng": 30.3555702,
+        "description": {
+            "en": "",
+            "fr": "",
+            "hy": ""
+        },
+        "image": "",
+        "verified": false,
+        "ratings": [],
+        "comments": [],
+        "source": "OpenStreetMap",
+        "furtherReading": "https://uk.wikipedia.org/wiki/Ð¦ÐµÑÐºÐ²Ð°_Ð£ÑÐ¿ÑÐ½Ð½Ñ_ÐÑÐµÑÐ¸ÑÑÐ¾Ñ_ÐÐ¾Ð³Ð¾ÑÐ¾Ð´Ð¸ÑÑ_(ÐÑÐ»Ð³Ð¾ÑÐ¾Ð´-ÐÐ½ÑÑÑÑÐ¾Ð²ÑÑÐºÐ¸Ð¹)"
+    },
+    {
+        "id": 1458,
+        "name": {
+            "en": "Amaras",
+            "fr": "",
+            "hy": ""
+        },
+        "category": "church",
+        "country": "Azerbaijan",
+        "city": "Qırmızı Bazar",
+        "address": "",
+        "lat": 39.6837335,
+        "lng": 47.0573744,
+        "description": {
+            "en": "",
+            "fr": "",
+            "hy": ""
+        },
+        "image": "",
+        "verified": false,
+        "ratings": [],
+        "comments": [],
+        "source": "OpenStreetMap",
+        "furtherReading": "https://en.wikipedia.org/wiki/Amaras_Monastery"
+    },
+    {
+        "id": 1459,
+        "name": {
+            "en": "Biserica armeanÄ âSfÃ¢nta Mariaâ BrÄila",
+            "fr": "",
+            "hy": ""
+        },
+        "category": "church",
+        "country": "Romania",
+        "city": "Brăila",
+        "address": "Calea GalaÈi BrÄila 810388",
+        "lat": 45.2740316,
+        "lng": 27.9736848,
+        "description": {
+            "en": "",
+            "fr": "",
+            "hy": ""
+        },
+        "image": "",
+        "verified": false,
+        "ratings": [],
+        "comments": [],
+        "source": "OpenStreetMap",
+        "furtherReading": ""
+    },
+    {
+        "id": 1460,
+        "name": {
+            "en": "Orthodox Armenian Church",
+            "fr": "",
+            "hy": ""
+        },
+        "category": "church",
+        "country": "Syrian Arab Republic",
+        "city": "Damascus",
+        "address": "Ø¯ÙØ´Ù",
+        "lat": 33.5091203,
+        "lng": 36.3176783,
+        "description": {
+            "en": "",
+            "fr": "",
+            "hy": ""
+        },
+        "image": "",
+        "verified": false,
+        "ratings": [],
+        "comments": [],
+        "source": "OpenStreetMap",
+        "furtherReading": "https://de.wikipedia.org/wiki/St.-Sarkis-Kathedrale_(Damaskus)"
+    },
+    {
+        "id": 1461,
+        "name": {
+            "en": "ÐÐ¾Ð¼Ð¸Ð½Ð°Ð»ÑÐ½ÑÐ¹ Ð´Ð¾Ð¼",
+            "fr": "",
+            "hy": ""
+        },
+        "category": "church",
+        "country": "Russian Federation",
+        "city": "Presnenskiy",
+        "address": "",
+        "lat": 55.7665817,
+        "lng": 37.5550498,
+        "description": {
+            "en": "",
+            "fr": "",
+            "hy": ""
+        },
+        "image": "",
+        "verified": false,
+        "ratings": [],
+        "comments": [],
+        "source": "OpenStreetMap",
+        "furtherReading": ""
+    },
+    {
+        "id": 1462,
+        "name": {
+            "en": "Ð¦ÐµÑÐºÐ¾Ð²Ñ Ð¡Ð²ÑÑÐ¾Ð³Ð¾ ÐÐ¾ÑÐºÑÐµÑÐµÐ½Ð¸Ñ",
+            "fr": "",
+            "hy": ""
+        },
+        "category": "church",
+        "country": "Russian Federation",
+        "city": "Presnenskiy",
+        "address": "10 ÑÐ»Ð¸ÑÐ° Ð¡ÐµÑÐ³ÐµÑ ÐÐ°ÐºÐµÐµÐ²Ð°",
+        "lat": 55.7659276,
+        "lng": 37.5546746,
+        "description": {
+            "en": "",
+            "fr": "",
+            "hy": ""
+        },
+        "image": "",
+        "verified": false,
+        "ratings": [],
+        "comments": [],
+        "source": "OpenStreetMap",
+        "furtherReading": "https://ru.wikipedia.org/wiki/Ð¦ÐµÑÐºÐ¾Ð²Ñ_Ð¡Ð²ÑÑÐ¾Ð³Ð¾_ÐÐ¾ÑÐºÑÐµÑÐµÐ½Ð¸Ñ_(ÐÐ¾ÑÐºÐ²Ð°)"
+    },
+    {
+        "id": 1463,
+        "name": {
+            "en": "Ð¦ÐµÑÐºÐ¾Ð²Ñ Ð¡Ð²ÑÑÐ¾Ð¹ Ð Ð¸Ð¿ÑÐ¸Ð¼Ðµ",
+            "fr": "",
+            "hy": ""
+        },
+        "category": "church",
+        "country": "Ukraine",
+        "city": "Yalta",
+        "address": "3 ÐÐ°Ð³Ð¾ÑÐ¾Ð´Ð½Ð°Ñ ÑÐ»Ð¸ÑÐ°",
+        "lat": 44.5011195,
+        "lng": 34.165325,
+        "description": {
+            "en": "",
+            "fr": "",
+            "hy": ""
+        },
+        "image": "",
+        "verified": false,
+        "ratings": [],
+        "comments": [],
+        "source": "OpenStreetMap",
+        "furtherReading": "https://ru.wikipedia.org/wiki/Ð¦ÐµÑÐºÐ¾Ð²Ñ_Ð¡Ð²ÑÑÐ¾Ð¹_Ð Ð¸Ð¿ÑÐ¸Ð¼Ðµ_(Ð¯Ð»ÑÐ°)"
+    },
+    {
+        "id": 1464,
+        "name": {
+            "en": "Saint John the Baptist Armenian Church",
+            "fr": "",
+            "hy": ""
+        },
+        "category": "church",
+        "country": "Romania",
+        "city": "Piteşti",
+        "address": "43 Strada EgalitÄÈii PiteÈti 110049",
+        "lat": 44.852966,
+        "lng": 24.876743,
+        "description": {
+            "en": "",
+            "fr": "",
+            "hy": ""
+        },
+        "image": "",
+        "verified": false,
+        "ratings": [],
+        "comments": [],
+        "source": "OpenStreetMap",
+        "furtherReading": "https://en.wikipedia.org/wiki/Armenian_Church,_PiteÈti"
+    },
+    {
+        "id": 1465,
+        "name": {
+            "en": "Gtichavank Monastery",
+            "fr": "",
+            "hy": ""
+        },
+        "category": "church",
+        "country": "Azerbaijan",
+        "city": "Qırmızı Bazar",
+        "address": "",
+        "lat": 39.5937549,
+        "lng": 46.9425297,
+        "description": {
+            "en": "",
+            "fr": "",
+            "hy": ""
+        },
+        "image": "",
+        "verified": false,
+        "ratings": [],
+        "comments": [],
+        "source": "OpenStreetMap",
+        "furtherReading": "https://en.wikipedia.org/wiki/Gtichavank"
+    },
+    {
+        "id": 1466,
+        "name": {
+            "en": "S:ta Maria armeniska apostoliska kyrka",
+            "fr": "",
+            "hy": ""
+        },
+        "category": "church",
+        "country": "Sweden",
+        "city": "Södertälje",
+        "address": "8 PrÃ¤stgÃ¥rdsvÃ¤gen SÃ¶dertÃ¤lje",
+        "lat": 59.1952755,
+        "lng": 17.5842973,
+        "description": {
+            "en": "",
+            "fr": "",
+            "hy": ""
+        },
+        "image": "",
+        "verified": false,
+        "ratings": [],
+        "comments": [],
+        "source": "OpenStreetMap",
+        "furtherReading": ""
+    },
+    {
+        "id": 1467,
+        "name": {
+            "en": "Surp Harutyun Ermeni Kilisesi",
+            "fr": "",
+            "hy": ""
+        },
+        "category": "church",
+        "country": "Turkey",
+        "city": "Eminönü",
+        "address": "",
+        "lat": 41.0348902,
+        "lng": 28.9838661,
+        "description": {
+            "en": "",
+            "fr": "",
+            "hy": ""
+        },
+        "image": "",
+        "verified": false,
+        "ratings": [],
+        "comments": [],
+        "source": "OpenStreetMap",
+        "furtherReading": "https://en.wikipedia.org/wiki/Taksim_Surp_Harutyun_Church"
+    },
+    {
+        "id": 1468,
+        "name": {
+            "en": "Karintak Village Church",
+            "fr": "",
+            "hy": ""
+        },
+        "category": "church",
+        "country": "Azerbaijan",
+        "city": "Şuşa",
+        "address": "",
+        "lat": 39.7444952,
+        "lng": 46.7495832,
+        "description": {
+            "en": "",
+            "fr": "",
+            "hy": ""
+        },
+        "image": "",
+        "verified": false,
+        "ratings": [],
+        "comments": [],
+        "source": "OpenStreetMap",
+        "furtherReading": ""
+    },
+    {
+        "id": 1469,
+        "name": {
+            "en": "Ð¡ÑÑÐ± ÐÑÑÐ²Ð°ÑÐ°ÑÐ¸Ð½",
+            "fr": "",
+            "hy": ""
+        },
+        "category": "church",
+        "country": "Russian Federation",
+        "city": "Novosibirsk",
+        "address": "7/2 ÐÐ¾ÑÐ¸ÑÐµÐ½ÑÐºÐ¾Ðµ ÑÐ¾ÑÑÐµ ÐÐ¾Ð²Ð¾ÑÐ¸Ð±Ð¸ÑÑÐº",
+        "lat": 55.0865225,
+        "lng": 82.8920307,
+        "description": {
+            "en": "",
+            "fr": "",
+            "hy": ""
+        },
+        "image": "",
+        "verified": false,
+        "ratings": [],
+        "comments": [],
+        "source": "OpenStreetMap",
+        "furtherReading": ""
+    },
+    {
+        "id": 1470,
+        "name": {
+            "en": "Surp Khach Monastery",
+            "fr": "",
+            "hy": "ÕÕ¸ÖÖÕ¢ Ô½Õ¡Õ¹ Õ¾Õ¡Õ¶Ö"
+        },
+        "category": "church",
+        "country": "Ukraine",
+        "city": "Stary Krym",
+        "address": "",
+        "lat": 45.000839,
+        "lng": 35.0626333,
+        "description": {
+            "en": "",
+            "fr": "",
+            "hy": ""
+        },
+        "image": "",
+        "verified": false,
+        "ratings": [],
+        "comments": [],
+        "source": "OpenStreetMap",
+        "furtherReading": "https://ru.wikipedia.org/wiki/Ð¡ÑÑÐ±-ÐÑÐ°Ð½"
+    },
+    {
+        "id": 1471,
+        "name": {
+            "en": "Tomb of the Virgin Mary",
+            "fr": "",
+            "hy": ""
+        },
+        "category": "church",
+        "country": "Palestinian Territory",
+        "city": "East Jerusalem",
+        "address": "Jerusalem",
+        "lat": 31.7804225,
+        "lng": 35.2396397,
+        "description": {
+            "en": "",
+            "fr": "",
+            "hy": ""
+        },
+        "image": "",
+        "verified": false,
+        "ratings": [],
+        "comments": [],
+        "source": "OpenStreetMap",
+        "furtherReading": "https://en.wikipedia.org/wiki/Tomb_of_the_Virgin_Mary"
+    },
+    {
+        "id": 1472,
+        "name": {
+            "en": "Surb Karapet Armenian Apostolic Church",
+            "fr": "",
+            "hy": ""
+        },
+        "category": "church",
+        "country": "Jordan",
+        "city": "Ash Shūnah al Janūbīyah",
+        "address": "",
+        "lat": 31.8337275,
+        "lng": 35.5564416,
+        "description": {
+            "en": "",
+            "fr": "",
+            "hy": ""
+        },
+        "image": "",
+        "verified": false,
+        "ratings": [],
+        "comments": [],
+        "source": "OpenStreetMap",
+        "furtherReading": ""
+    },
+    {
+        "id": 1473,
+        "name": {
+            "en": "ÐÐ¾ÑÑÐµÐ» Ð ÑÐ·Ð´Ð²Ð° ÐÑÐ²Ð¸ ÐÐ°ÑÑÑ",
+            "fr": "",
+            "hy": ""
+        },
+        "category": "church",
+        "country": "Ukraine",
+        "city": "Berezhany",
+        "address": "6 ÐÑÑÐ¼ÐµÐ½ÑÑÐºÐ° Ð²ÑÐ»Ð¸ÑÑ 47501",
+        "lat": 49.4447363,
+        "lng": 24.9369445,
+        "description": {
+            "en": "",
+            "fr": "",
+            "hy": ""
+        },
+        "image": "",
+        "verified": false,
+        "ratings": [],
+        "comments": [],
+        "source": "OpenStreetMap",
+        "furtherReading": "https://uk.wikipedia.org/wiki/ÐÑÑÐ¼ÐµÐ½ÑÑÐºÐ¸Ð¹_ÐºÐ¾ÑÑÐµÐ»_(ÐÐµÑÐµÐ¶Ð°Ð½Ð¸)"
+    },
+    {
+        "id": 1474,
+        "name": {
+            "en": "Ghazanchetsots Cathedral",
+            "fr": "",
+            "hy": "ÕÕ¸ÖÖÕ¢ Ô±Õ´Õ¥Õ¶Õ¡ÖÖÕ¯Õ«Õ¹ ÕÕ¡Õ¦Õ¡Õ¶Õ¹Õ¥ÖÕ¸Ö Õ¥Õ¯Õ¥Õ²Õ¥ÖÕ«"
+        },
+        "category": "church",
+        "country": "Azerbaijan",
+        "city": "Şuşa",
+        "address": "",
+        "lat": 39.7587523,
+        "lng": 46.7475223,
+        "description": {
+            "en": "",
+            "fr": "",
+            "hy": ""
+        },
+        "image": "",
+        "verified": false,
+        "ratings": [],
+        "comments": [],
+        "source": "OpenStreetMap",
+        "furtherReading": "https://az.wikipedia.org/wiki/QazanÃ§Ä±_kilsÉsi"
+    },
+    {
+        "id": 1475,
+        "name": {
+            "en": "Surp Anapat",
+            "fr": "",
+            "hy": "ÕÕ¢. Ô±Õ¶Õ¡ÕºÕ¡Õ¿ Õ¥Õ¯Õ¥Õ²Õ¥ÖÕ«"
+        },
+        "category": "church",
+        "country": "Turkey",
+        "city": "Sivas",
+        "address": "",
+        "lat": 39.7746872,
+        "lng": 36.9970637,
+        "description": {
+            "en": "",
+            "fr": "",
+            "hy": ""
+        },
+        "image": "",
+        "verified": false,
+        "ratings": [],
+        "comments": [],
+        "source": "OpenStreetMap",
+        "furtherReading": ""
+    },
+    {
+        "id": 1476,
+        "name": {
+            "en": "Surp Sahak Mesrop - Armenische Apostolische DiÃ¶zesankirche",
+            "fr": "",
+            "hy": ""
+        },
+        "category": "church",
+        "country": "Germany",
+        "city": "Riehl",
+        "address": "5 Allensteiner StraÃe KÃ¶ln 50735",
+        "lat": 50.9791596,
+        "lng": 6.9641727,
+        "description": {
+            "en": "",
+            "fr": "",
+            "hy": ""
+        },
+        "image": "",
+        "verified": false,
+        "ratings": [],
+        "comments": [],
+        "source": "OpenStreetMap",
+        "furtherReading": "http://armenischegemeindekoeln.de/"
+    },
+    {
+        "id": 1477,
+        "name": {
+            "en": "ÐÑÐ¼ÐµÐ½ÑÐºÐ°ÑÐ° ÑÑÑÐºÐ²Ð° âÐ¡Ð²ÐµÑÐ° ÐÐ¾Ð³Ð¾ÑÐ¾Ð´Ð¸ÑÐ°â",
+            "fr": "",
+            "hy": ""
+        },
+        "category": "church",
+        "country": "Bulgaria",
+        "city": "Ruse",
+        "address": "ÐÑÐ°ÑÑ ÐÐ¸Ð»Ð°Ð´Ð¸Ð½Ð¾Ð²Ð¸ Ð ÑÑÐµ",
+        "lat": 43.8341932,
+        "lng": 25.948637,
+        "description": {
+            "en": "",
+            "fr": "",
+            "hy": ""
+        },
+        "image": "",
+        "verified": false,
+        "ratings": [],
+        "comments": [],
+        "source": "OpenStreetMap",
+        "furtherReading": ""
+    },
+    {
+        "id": 1478,
+        "name": {
+            "en": "ÐÑÐ¼ÑÐ½ÑÐºÐ°Ñ ÐÐ¿Ð¾ÑÑÐ¾Ð»ÑÑÐºÐ°Ñ ÑÐµÑÐºÐ¾Ð²Ñ Â«Ð¡ÑÑÐ± ÐÐ°ÑÐ´Ð°Ð½Â»",
+            "fr": "",
+            "hy": ""
+        },
+        "category": "church",
+        "country": "Russian Federation",
+        "city": "Kislovodsk",
+        "address": "107Ð ÑÐ»Ð¸ÑÐ° ÐÑÑÑÐ·Ð¾Ð²Ð° ÐÐ¸ÑÐ»Ð¾Ð²Ð¾Ð´ÑÐº",
+        "lat": 43.8996654,
+        "lng": 42.6998571,
+        "description": {
+            "en": "",
+            "fr": "",
+            "hy": ""
+        },
+        "image": "",
+        "verified": false,
+        "ratings": [],
+        "comments": [],
+        "source": "OpenStreetMap",
+        "furtherReading": ""
+    },
+    {
+        "id": 1479,
+        "name": {
+            "en": "Church of St. Gregory Lusavorich",
+            "fr": "",
+            "hy": ""
+        },
+        "category": "church",
+        "country": "Ukraine",
+        "city": "Dnipro",
+        "address": "13",
+        "lat": 48.471883,
+        "lng": 35.0079066,
+        "description": {
+            "en": "",
+            "fr": "",
+            "hy": ""
+        },
+        "image": "",
+        "verified": false,
+        "ratings": [],
+        "comments": [],
+        "source": "OpenStreetMap",
+        "furtherReading": "https://uk.wikipedia.org/wiki/ÐÑÑÐ¼ÐµÐ½ÑÑÐºÐ°_ÑÐµÑÐºÐ²Ð°_(ÐÐ½ÑÐ¿ÑÐ¾)"
+    },
+    {
+        "id": 1480,
+        "name": {
+            "en": "Ð¦ÐµÑÐºÐ¾Ð²Ñ Ð¡ÑÑÐ± Ð¡Ð°ÑÐ³Ð¸Ñ",
+            "fr": "",
+            "hy": "ÕÕ¢. ÕÕ¡ÖÕ£Õ«Õ½ ÔµÕ¯Õ¥Õ²Õ¥ÖÕ«"
+        },
+        "category": "church",
+        "country": "Russian Federation",
+        "city": "Voronezh",
+        "address": "2Ð ÐÐ¾Ð½Ð±Ð°ÑÑÐºÐ°Ñ ÑÐ»Ð¸ÑÐ°",
+        "lat": 51.6743189,
+        "lng": 39.182929,
+        "description": {
+            "en": "",
+            "fr": "",
+            "hy": ""
+        },
+        "image": "",
+        "verified": false,
+        "ratings": [],
+        "comments": [],
+        "source": "OpenStreetMap",
+        "furtherReading": ""
+    },
+    {
+        "id": 1481,
+        "name": {
+            "en": "Armenian Church of Surb Harutyun",
+            "fr": "",
+            "hy": "ÕÕ¸ÖÖÕ¢ ÕÕ¡ÖÕ¸ÖÕ©ÕµÕ¸ÖÕ¶ Õ¥Õ¯Õ¥Õ²Õ¥ÖÕ«"
+        },
+        "category": "church",
+        "country": "Russian Federation",
+        "city": "Budyonnovsk",
+        "address": "73Ð Ð¿ÑÐ¾ÑÐ¿ÐµÐºÑ ÐÑÐ´ÑÐ½Ð½Ð¾Ð³Ð¾ ÐÑÐ´ÑÐ½Ð½Ð¾Ð²ÑÐº",
+        "lat": 44.7749869,
+        "lng": 44.1550415,
+        "description": {
+            "en": "",
+            "fr": "",
+            "hy": ""
+        },
+        "image": "",
+        "verified": false,
+        "ratings": [],
+        "comments": [],
+        "source": "OpenStreetMap",
+        "furtherReading": ""
+    },
+    {
+        "id": 1482,
+        "name": {
+            "en": "San Lazzaro",
+            "fr": "",
+            "hy": ""
+        },
+        "category": "church",
+        "country": "Italy",
+        "city": "Lido",
+        "address": "",
+        "lat": 45.412436,
+        "lng": 12.3617717,
+        "description": {
+            "en": "",
+            "fr": "",
+            "hy": ""
+        },
+        "image": "",
+        "verified": false,
+        "ratings": [],
+        "comments": [],
+        "source": "OpenStreetMap",
+        "furtherReading": ""
+    },
+    {
+        "id": 1483,
+        "name": {
+            "en": "Surp Nigogoyas Ermeni Kilisesi",
+            "fr": "",
+            "hy": ""
+        },
+        "category": "church",
+        "country": "Turkey",
+        "city": "Istanbul",
+        "address": "Ä°stanbul",
+        "lat": 41.0217429,
+        "lng": 28.926898,
+        "description": {
+            "en": "",
+            "fr": "",
+            "hy": ""
+        },
+        "image": "",
+        "verified": false,
+        "ratings": [],
+        "comments": [],
+        "source": "OpenStreetMap",
+        "furtherReading": ""
+    },
+    {
+        "id": 1484,
+        "name": {
+            "en": "Surp Hovannes Ermeni Kilisesi",
+            "fr": "",
+            "hy": ""
+        },
+        "category": "church",
+        "country": "Turkey",
+        "city": "Aksaray",
+        "address": "",
+        "lat": 40.9948302,
+        "lng": 28.9299864,
+        "description": {
+            "en": "",
+            "fr": "",
+            "hy": ""
+        },
+        "image": "",
+        "verified": false,
+        "ratings": [],
+        "comments": [],
+        "source": "OpenStreetMap",
+        "furtherReading": ""
+    },
+    {
+        "id": 1485,
+        "name": {
+            "en": "ÐÑÑÐ¼ÐµÐ½ÑÑÐºÐ° ÐºÐ°Ð¿Ð»Ð¸ÑÐºÐ°",
+            "fr": "",
+            "hy": ""
+        },
+        "category": "church",
+        "country": "Ukraine",
+        "city": "Cherkasy",
+        "address": "",
+        "lat": 49.4361751,
+        "lng": 32.0915914,
+        "description": {
+            "en": "",
+            "fr": "",
+            "hy": ""
+        },
+        "image": "",
+        "verified": false,
+        "ratings": [],
+        "comments": [],
+        "source": "OpenStreetMap",
+        "furtherReading": ""
+    },
+    {
+        "id": 1486,
+        "name": {
+            "en": "ÐÑÐ´ÑÐ²Ð½Ð¸ÑÑÐ²Ð¾ Ð²ÑÑÐ¼ÐµÐ½ÑÑÐºÐ¾Ñ ÑÐµÑÐºÐ²Ð¸",
+            "fr": "",
+            "hy": ""
+        },
+        "category": "church",
+        "country": "Ukraine",
+        "city": "Cherkasy",
+        "address": "",
+        "lat": 49.4359138,
+        "lng": 32.0918772,
+        "description": {
+            "en": "",
+            "fr": "",
+            "hy": ""
+        },
+        "image": "",
+        "verified": false,
+        "ratings": [],
+        "comments": [],
+        "source": "OpenStreetMap",
+        "furtherReading": ""
+    },
+    {
+        "id": 1487,
+        "name": {
+            "en": "Saint Karapet Armenian Church",
+            "fr": "",
+            "hy": ""
+        },
+        "category": "church",
+        "country": "Iran, Islamic Republic of",
+        "city": "Abadan",
+        "address": "Ø¢Ø¨Ø§Ø¯Ø§Ù",
+        "lat": 30.3369238,
+        "lng": 48.2897873,
+        "description": {
+            "en": "",
+            "fr": "",
+            "hy": ""
+        },
+        "image": "",
+        "verified": false,
+        "ratings": [],
+        "comments": [],
+        "source": "OpenStreetMap",
+        "furtherReading": ""
+    },
+    {
+        "id": 1488,
+        "name": {
+            "en": "Ð¦ÐµÑÐºÐ¾Ð²Ñ Ð¡Ð²ÑÑÐ¾Ð³Ð¾ ÐÑÐ¸Ð³Ð¾ÑÐ° ÐÑÑÐ°Ð²Ð¾ÑÐ¸ÑÐ°",
+            "fr": "",
+            "hy": ""
+        },
+        "category": "church",
+        "country": "Russian Federation",
+        "city": "Novocherkassk",
+        "address": "",
+        "lat": 47.3995984,
+        "lng": 40.0696547,
+        "description": {
+            "en": "",
+            "fr": "",
+            "hy": ""
+        },
+        "image": "",
+        "verified": false,
+        "ratings": [],
+        "comments": [],
+        "source": "OpenStreetMap",
+        "furtherReading": ""
+    },
+    {
+        "id": 1489,
+        "name": {
+            "en": "Church of Saint George of the Armenians",
+            "fr": "",
+            "hy": ""
+        },
+        "category": "church",
+        "country": "Greece",
+        "city": "Irákleion",
+        "address": "ÎÏÎ¬ÎºÎ»ÎµÎ¹Î¿ 71202",
+        "lat": 35.3382566,
+        "lng": 25.127933,
+        "description": {
+            "en": "",
+            "fr": "",
+            "hy": ""
+        },
+        "image": "",
+        "verified": false,
+        "ratings": [],
+        "comments": [],
+        "source": "OpenStreetMap",
+        "furtherReading": ""
+    },
+    {
+        "id": 1490,
+        "name": {
+            "en": "ÐÑÐ¼ÑÐ½ÑÐºÐ°Ñ ÑÐµÑÐºÐ¾Ð²Ñ Ð¡Ð²ÑÑÐ¾Ð³Ð¾ ÐÑÐ¸Ð³Ð¾ÑÐ¸ÑÐ°",
+            "fr": "",
+            "hy": "ÕÕµÕ¸ÖÕ£Õ¤Õ«Õ« ÕÕ¸ÖÖÕ¢ Ô³ÖÕ«Õ£Õ¸ÖÕ«Õ½ Õ¥Õ¯Õ¥Õ²Õ¥ÖÕ«"
+        },
+        "category": "church",
+        "country": "Russian Federation",
+        "city": "Belidzhi",
+        "address": "",
+        "lat": 41.871566,
+        "lng": 48.4388067,
+        "description": {
+            "en": "",
+            "fr": "",
+            "hy": ""
+        },
+        "image": "",
+        "verified": false,
+        "ratings": [],
+        "comments": [],
+        "source": "OpenStreetMap",
+        "furtherReading": "https://ru.wikipedia.org/wiki/Ð¦ÐµÑÐºÐ¾Ð²Ñ_Ð¡Ð²ÑÑÐ¾Ð³Ð¾_ÐÑÐ¸Ð³Ð¾ÑÐ¸ÑÐ°_(ÐÑÐ³Ð´Ð¸)"
+    },
+    {
+        "id": 1491,
+        "name": {
+            "en": "s21000 bashi / Shoshka vank",
+            "fr": "",
+            "hy": "ÕÕ¸Õ·Õ¯Õ¡Õ¾Õ¡Õ¶Ö"
+        },
+        "category": "church",
+        "country": "Azerbaijan",
+        "city": "Qırmızı Bazar",
+        "address": "",
+        "lat": 39.7508408,
+        "lng": 46.9012863,
+        "description": {
+            "en": "",
+            "fr": "",
+            "hy": ""
+        },
+        "image": "",
+        "verified": false,
+        "ratings": [],
+        "comments": [],
+        "source": "OpenStreetMap",
+        "furtherReading": ""
+    },
+    {
+        "id": 1492,
+        "name": {
+            "en": "Katarovank",
+            "fr": "",
+            "hy": ""
+        },
+        "category": "church",
+        "country": "Azerbaijan",
+        "city": "Hadrut",
+        "address": "",
+        "lat": 39.5262385,
+        "lng": 46.8566244,
+        "description": {
+            "en": "",
+            "fr": "",
+            "hy": ""
+        },
+        "image": "",
+        "verified": false,
+        "ratings": [],
+        "comments": [],
+        "source": "OpenStreetMap",
+        "furtherReading": "https://en.wikipedia.org/wiki/Katarovank"
+    },
+    {
+        "id": 1493,
+        "name": {
+            "en": "ÐÑÐ¼ÑÐ½ÑÐºÐ°Ñ ÑÐµÑÐºÐ¾Ð²Ñ Ð¡ÑÑÐ±-ÐÐ³Ð¸Ñ",
+            "fr": "",
+            "hy": ""
+        },
+        "category": "church",
+        "country": "Ukraine",
+        "city": "Bogatoye",
+        "address": "",
+        "lat": 45.0211065,
+        "lng": 34.7599422,
+        "description": {
+            "en": "",
+            "fr": "",
+            "hy": ""
+        },
+        "image": "",
+        "verified": false,
+        "ratings": [],
+        "comments": [],
+        "source": "OpenStreetMap",
+        "furtherReading": ""
+    },
+    {
+        "id": 1494,
+        "name": {
+            "en": "Surb Astvatsatsin Armenian Church",
+            "fr": "",
+            "hy": ""
+        },
+        "category": "church",
+        "country": "Azerbaijan",
+        "city": "Şuşa",
+        "address": "",
+        "lat": 39.7031047,
+        "lng": 46.8321201,
+        "description": {
+            "en": "",
+            "fr": "",
+            "hy": ""
+        },
+        "image": "",
+        "verified": false,
+        "ratings": [],
+        "comments": [],
+        "source": "OpenStreetMap",
+        "furtherReading": ""
+    },
+    {
+        "id": 1495,
+        "name": {
+            "en": "Kusanots Anapat Convent",
+            "fr": "",
+            "hy": ""
+        },
+        "category": "church",
+        "country": "Azerbaijan",
+        "city": "Şuşa",
+        "address": "",
+        "lat": 39.7014205,
+        "lng": 46.8312296,
+        "description": {
+            "en": "",
+            "fr": "",
+            "hy": ""
+        },
+        "image": "",
+        "verified": false,
+        "ratings": [],
+        "comments": [],
+        "source": "OpenStreetMap",
+        "furtherReading": ""
+    },
+    {
+        "id": 1496,
+        "name": {
+            "en": "Holy Cross Church",
+            "fr": "",
+            "hy": "ÕÕ¸ÖÖÕ¢ Ô½Õ¡Õ¹"
+        },
+        "category": "church",
+        "country": "Russian Federation",
+        "city": "Samara",
+        "address": "",
+        "lat": 53.2228623,
+        "lng": 50.1641941,
+        "description": {
+            "en": "",
+            "fr": "",
+            "hy": ""
+        },
+        "image": "",
+        "verified": false,
+        "ratings": [],
+        "comments": [],
+        "source": "OpenStreetMap",
+        "furtherReading": ""
+    },
+    {
+        "id": 1497,
+        "name": {
+            "en": "ÐÑÐ¼ÐµÐ½ÑÐºÐ°ÑÐ° ÑÑÑÐºÐ²Ð° âÐ¡Ð²ÐµÑÐ° ÐÐ¾Ð³Ð¾ÑÐ¾Ð´Ð¸ÑÐ°â",
+            "fr": "",
+            "hy": ""
+        },
+        "category": "church",
+        "country": "Bulgaria",
+        "city": "Ruse",
+        "address": "ÐÑÐ°ÑÑ ÐÐ¸Ð»Ð°Ð´Ð¸Ð½Ð¾Ð²Ð¸ Ð ÑÑÐµ",
+        "lat": 43.8341083,
+        "lng": 25.9487197,
+        "description": {
+            "en": "",
+            "fr": "",
+            "hy": ""
+        },
+        "image": "",
+        "verified": false,
+        "ratings": [],
+        "comments": [],
+        "source": "OpenStreetMap",
+        "furtherReading": ""
+    },
+    {
+        "id": 1498,
+        "name": {
+            "en": "Western Prelacy of the Armenian Apostolic Church of America",
+            "fr": "",
+            "hy": ""
+        },
+        "category": "church",
+        "country": "United States",
+        "city": "Tujunga",
+        "address": "6252 Honolulu Avenue La Crescenta 91214",
+        "lat": 34.2325728,
+        "lng": -118.2688453,
+        "description": {
+            "en": "",
+            "fr": "",
+            "hy": ""
+        },
+        "image": "",
+        "verified": false,
+        "ratings": [],
+        "comments": [],
+        "source": "OpenStreetMap",
+        "furtherReading": "https://westernprelacy.org/en/"
+    },
+    {
+        "id": 1499,
+        "name": {
+            "en": "ClopotniÈa Bisericii armeneÈti SfÃ¢nta Treime",
+            "fr": "",
+            "hy": ""
+        },
+        "category": "church",
+        "country": "Romania",
+        "city": "Botoşani",
+        "address": "Strada ArmeanÄ BotoÈani",
+        "lat": 47.7397275,
+        "lng": 26.671821,
+        "description": {
+            "en": "",
+            "fr": "",
+            "hy": ""
+        },
+        "image": "",
+        "verified": false,
+        "ratings": [],
+        "comments": [],
+        "source": "OpenStreetMap",
+        "furtherReading": ""
+    },
+    {
+        "id": 1500,
+        "name": {
+            "en": "Albanian Church from XIX century",
+            "fr": "",
+            "hy": ""
+        },
+        "category": "church",
+        "country": "Azerbaijan",
+        "city": "Sheki",
+        "address": "ÅÉki",
+        "lat": 41.2021723,
+        "lng": 47.1744905,
+        "description": {
+            "en": "",
+            "fr": "",
+            "hy": ""
+        },
+        "image": "",
+        "verified": false,
+        "ratings": [],
+        "comments": [],
+        "source": "OpenStreetMap",
+        "furtherReading": ""
+    },
+    {
+        "id": 1501,
+        "name": {
+            "en": "Armenian church",
+            "fr": "",
+            "hy": "ÕÕ¡Õ´Õ¡ÖÕ²Õ¡Õ¶Õ¤Õ« ÕÕ¸ÖÖÕ¢ Ô±Õ½Õ¿Õ¾Õ¡Õ®Õ¡Õ®Õ«Õ¶ Õ¥Õ¯Õ¥Õ²Õ¥ÖÕ«"
+        },
+        "category": "church",
+        "country": "Uzbekistan",
+        "city": "Samarkand",
+        "address": "Mahmud Qoshg'ariy ko'chasi",
+        "lat": 39.6488688,
+        "lng": 66.9531054,
+        "description": {
+            "en": "",
+            "fr": "",
+            "hy": ""
+        },
+        "image": "",
+        "verified": false,
+        "ratings": [],
+        "comments": [],
+        "source": "OpenStreetMap",
+        "furtherReading": "https://uz.wikipedia.org/wiki/Avliyo_Bogoroditsa_cherkovi"
+    },
+    {
+        "id": 1502,
+        "name": {
+            "en": "Surp Kevork",
+            "fr": "",
+            "hy": ""
+        },
+        "category": "church",
+        "country": "Bulgaria",
+        "city": "Plovdiv",
+        "address": "4-ÑÐ¸ Ð¯Ð½ÑÐ°ÑÐ¸ ÐÐ»Ð¾Ð²Ð´Ð¸Ð² 4000",
+        "lat": 42.1507353,
+        "lng": 24.7516188,
+        "description": {
+            "en": "",
+            "fr": "",
+            "hy": ""
+        },
+        "image": "",
+        "verified": false,
+        "ratings": [],
+        "comments": [],
+        "source": "OpenStreetMap",
+        "furtherReading": "https://bg.wikipedia.org/wiki/Ð¡Ð²ÐµÑÐ¸_ÐÐµÐ¾ÑÐ³Ð¸_(Ð°ÑÐ¼ÐµÐ½ÑÐºÐ°_ÑÑÑÐºÐ²Ð°_Ð²_ÐÐ»Ð¾Ð²Ð´Ð¸Ð²)"
+    },
+    {
+        "id": 1503,
+        "name": {
+            "en": "Ú©ÙÛØ³Ø§Û ÙÙØ¨ ÙÙØ¯Ø³ ÙØ³ÛØ­",
+            "fr": "",
+            "hy": ""
+        },
+        "category": "church",
+        "country": "Iran, Islamic Republic of",
+        "city": "Kermanshah",
+        "address": "",
+        "lat": 34.3215769,
+        "lng": 47.0719063,
+        "description": {
+            "en": "",
+            "fr": "",
+            "hy": ""
+        },
+        "image": "",
+        "verified": false,
+        "ratings": [],
+        "comments": [],
+        "source": "OpenStreetMap",
+        "furtherReading": "https://fa.wikipedia.org/wiki/Ú©ÙÛØ³Ø§Û_ÙÙØ¨_ÙÙØ¯Ø³_ÙØ³ÛØ­"
+    },
+    {
+        "id": 1504,
+        "name": {
+            "en": "Kizil Vank (the red church)",
+            "fr": "",
+            "hy": ""
+        },
+        "category": "church",
+        "country": "Turkey",
+        "city": "Başgedikler",
+        "address": "YaÄÄ±kesen",
+        "lat": 40.6346921,
+        "lng": 43.6077116,
+        "description": {
+            "en": "",
+            "fr": "",
+            "hy": ""
+        },
+        "image": "",
+        "verified": false,
+        "ratings": [],
+        "comments": [],
+        "source": "OpenStreetMap",
+        "furtherReading": ""
+    },
+    {
+        "id": 1505,
+        "name": {
+            "en": "Bagnayr Monastery",
+            "fr": "",
+            "hy": ""
+        },
+        "category": "church",
+        "country": "Turkey",
+        "city": "Başgedikler",
+        "address": "",
+        "lat": 40.5140629,
+        "lng": 43.4832768,
+        "description": {
+            "en": "",
+            "fr": "",
+            "hy": ""
+        },
+        "image": "",
+        "verified": false,
+        "ratings": [],
+        "comments": [],
+        "source": "OpenStreetMap",
+        "furtherReading": "https://hy.wikipedia.org/wiki/Ô²Õ¡Õ£Õ¶Õ¡ÕµÖÕ«_Õ¾Õ¡Õ¶Ö"
+    },
+    {
+        "id": 1506,
+        "name": {
+            "en": "Armenian Ecclesiastical Brotherhood Church",
+            "fr": "",
+            "hy": ""
+        },
+        "category": "church",
+        "country": "United States",
+        "city": "Glendale",
+        "address": "",
+        "lat": 34.1295522,
+        "lng": -118.2567404,
+        "description": {
+            "en": "",
+            "fr": "",
+            "hy": ""
+        },
+        "image": "",
+        "verified": false,
+        "ratings": [],
+        "comments": [],
+        "source": "OpenStreetMap",
+        "furtherReading": ""
+    },
+    {
+        "id": 1507,
+        "name": {
+            "en": "St. Sahag and St. Mesrob Armenian Apostolic Church",
+            "fr": "",
+            "hy": ""
+        },
+        "category": "church",
+        "country": "United States",
+        "city": "Ardmore",
+        "address": "630 Clothier Road Wynnewood 19096",
+        "lat": 39.9999777,
+        "lng": -75.2778648,
+        "description": {
+            "en": "",
+            "fr": "",
+            "hy": ""
+        },
+        "image": "",
+        "verified": false,
+        "ratings": [],
+        "comments": [],
+        "source": "OpenStreetMap",
+        "furtherReading": ""
+    },
+    {
+        "id": 1508,
+        "name": {
+            "en": "Surp Agop Armenian Church",
+            "fr": "",
+            "hy": ""
+        },
+        "category": "church",
+        "country": "Bulgaria",
+        "city": "Yambol",
+        "address": "Ð¥Ð°Ð½ Ð¢ÐµÑÐ²ÐµÐ» Ð¯Ð¼Ð±Ð¾Ð» 8600",
+        "lat": 42.4819661,
+        "lng": 26.5053431,
+        "description": {
+            "en": "",
+            "fr": "",
+            "hy": ""
+        },
+        "image": "",
+        "verified": false,
+        "ratings": [],
+        "comments": [],
+        "source": "OpenStreetMap",
+        "furtherReading": ""
+    },
+    {
+        "id": 1509,
+        "name": {
+            "en": "Surp Toros Church",
+            "fr": "",
+            "hy": ""
+        },
+        "category": "church",
+        "country": "Turkey",
+        "city": "Talas",
+        "address": "",
+        "lat": 38.7162323,
+        "lng": 35.5736224,
+        "description": {
+            "en": "",
+            "fr": "",
+            "hy": ""
+        },
+        "image": "",
+        "verified": false,
+        "ratings": [],
+        "comments": [],
+        "source": "OpenStreetMap",
+        "furtherReading": ""
+    },
+    {
+        "id": 1510,
+        "name": {
+            "en": "Holy Mother of God Armenian Apostolic Church",
+            "fr": "",
+            "hy": "ÕÕ¸ÖÖÕ¢ Ô±Õ½Õ¿Õ¾Õ¡Õ®Õ¡Õ®Õ«Õ¶ ÕÕ¡Õ¿Õ¸ÖÖ"
+        },
+        "category": "church",
+        "country": "Iran, Islamic Republic of",
+        "city": "Tabriz",
+        "address": "",
+        "lat": 38.0617019,
+        "lng": 46.3113613,
+        "description": {
+            "en": "",
+            "fr": "",
+            "hy": ""
+        },
+        "image": "",
+        "verified": false,
+        "ratings": [],
+        "comments": [],
+        "source": "OpenStreetMap",
+        "furtherReading": ""
+    },
+    {
+        "id": 1511,
+        "name": {
+            "en": "Saint Hripsime Armenian Church",
+            "fr": "",
+            "hy": "ÕÕ¸ÖÖÕ¢ ÕÕ¼Õ«ÖÕ½Õ«Õ´Õ¥ Õ¥Õ¯Õ¥Õ²Õ¥ÖÕ«"
+        },
+        "category": "church",
+        "country": "Russian Federation",
+        "city": "Astrakhan",
+        "address": "ÑÐ»Ð¸ÑÐ° Ð§ÐµÐ»ÑÑÐºÐ¸Ð½ÑÐµÐ² ÐÑÑÑÐ°ÑÐ°Ð½Ñ 414000",
+        "lat": 46.3449354,
+        "lng": 48.0419359,
+        "description": {
+            "en": "",
+            "fr": "",
+            "hy": ""
+        },
+        "image": "",
+        "verified": false,
+        "ratings": [],
+        "comments": [],
+        "source": "OpenStreetMap",
+        "furtherReading": ""
+    },
+    {
+        "id": 1512,
+        "name": {
+            "en": "Surb Amenaprkich",
+            "fr": "",
+            "hy": "ÕÕ¸ÖÖÕ¢ Ô±Õ´Õ¥Õ¶Õ¡ÖÖÕ¯Õ«Õ¹ Õ¥Õ¯Õ¥Õ²Õ¥ÖÕ«"
+        },
+        "category": "church",
+        "country": "Russian Federation",
+        "city": "Krym",
+        "address": "51 ÑÐ»Ð¸ÑÐ° ÐÑÑÐ½Ð¸ÐºÑÐ½Ð° ÐÑÑÐ¼",
+        "lat": 47.3046446,
+        "lng": 39.5108616,
+        "description": {
+            "en": "",
+            "fr": "",
+            "hy": ""
+        },
+        "image": "",
+        "verified": false,
+        "ratings": [],
+        "comments": [],
+        "source": "OpenStreetMap",
+        "furtherReading": "https://ru.wikipedia.org/wiki/Ð¦ÐµÑÐºÐ¾Ð²Ñ_Ð¡ÑÑÐ±_ÐÐ¼ÐµÐ½Ð°Ð¿ÑÐºÐ¸Ñ_(ÐÑÑÐ¼)"
+    },
+    {
+        "id": 1513,
+        "name": {
+            "en": "Surp Tateos â Surp PartoÄomeos Ermeni Kilisesi",
+            "fr": "",
+            "hy": ""
+        },
+        "category": "church",
+        "country": "Turkey",
+        "city": "Aksaray",
+        "address": "",
+        "lat": 41.0033188,
+        "lng": 28.9514641,
+        "description": {
+            "en": "",
+            "fr": "",
+            "hy": ""
+        },
+        "image": "",
+        "verified": false,
+        "ratings": [],
+        "comments": [],
+        "source": "OpenStreetMap",
+        "furtherReading": ""
+    },
+    {
+        "id": 1514,
+        "name": {
+            "en": "Church of Saint Gregor the Illuminator",
+            "fr": "",
+            "hy": "ÕÕ¸ÖÖÕ¢ Ô³ÖÕ«Õ£Õ¸Ö Ô¼Õ¸ÖÕ½Õ¡Õ¾Õ¸ÖÕ«Õ¹ Õ¥Õ¯Õ¥Õ²Õ¥ÖÕ«"
+        },
+        "category": "church",
+        "country": "Turkey",
+        "city": "Kayseri",
+        "address": "",
+        "lat": 38.7117865,
+        "lng": 35.4842764,
+        "description": {
+            "en": "",
+            "fr": "",
+            "hy": ""
+        },
+        "image": "",
+        "verified": false,
+        "ratings": [],
+        "comments": [],
+        "source": "OpenStreetMap",
+        "furtherReading": "https://tr.wikipedia.org/wiki/Kayseri_Surp_Krikor_LusavoriÃ§_Ermeni_Kilisesi"
+    },
+    {
+        "id": 1515,
+        "name": {
+            "en": "Church of Saint Sargis",
+            "fr": "",
+            "hy": ""
+        },
+        "category": "church",
+        "country": "Turkey",
+        "city": "Digor",
+        "address": "",
+        "lat": 40.3807664,
+        "lng": 43.3766703,
+        "description": {
+            "en": "",
+            "fr": "",
+            "hy": ""
+        },
+        "image": "",
+        "verified": false,
+        "ratings": [],
+        "comments": [],
+        "source": "OpenStreetMap",
+        "furtherReading": ""
+    },
+    {
+        "id": 1516,
+        "name": {
+            "en": "Kyatuk Church",
+            "fr": "",
+            "hy": ""
+        },
+        "category": "church",
+        "country": "Azerbaijan",
+        "city": "Askyaran",
+        "address": "",
+        "lat": 39.9040275,
+        "lng": 46.8475051,
+        "description": {
+            "en": "",
+            "fr": "",
+            "hy": ""
+        },
+        "image": "",
+        "verified": false,
+        "ratings": [],
+        "comments": [],
+        "source": "OpenStreetMap",
+        "furtherReading": ""
+    },
+    {
+        "id": 1517,
+        "name": {
+            "en": "Surp Krikor LusavoriÃ§ Ermeni Kilisesi",
+            "fr": "",
+            "hy": ""
+        },
+        "category": "church",
+        "country": "Turkey",
+        "city": "Kınalı",
+        "address": "",
+        "lat": 40.9092267,
+        "lng": 29.0529747,
+        "description": {
+            "en": "",
+            "fr": "",
+            "hy": ""
+        },
+        "image": "",
+        "verified": false,
+        "ratings": [],
+        "comments": [],
+        "source": "OpenStreetMap",
+        "furtherReading": ""
+    },
+    {
+        "id": 1518,
+        "name": {
+            "en": "ÐÑÐ¼ÑÐ½ÑÐºÐ°Ñ Ð°Ð¿Ð¾ÑÑÐ¾Ð»ÑÑÐºÐ°Ñ ÑÐµÑÐºÐ¾Ð²Ñ Ð¡Ð²ÑÑÐ¾Ð¹ ÐÐ°ÑÐ½Ðµ",
+            "fr": "",
+            "hy": ""
+        },
+        "category": "church",
+        "country": "Russian Federation",
+        "city": "Rubtsovsk",
+        "address": "",
+        "lat": 51.5573727,
+        "lng": 81.2439697,
+        "description": {
+            "en": "",
+            "fr": "",
+            "hy": ""
+        },
+        "image": "",
+        "verified": false,
+        "ratings": [],
+        "comments": [],
+        "source": "OpenStreetMap",
+        "furtherReading": ""
+    },
+    {
+        "id": 1519,
+        "name": {
+            "en": "Surb Hovhannes",
+            "fr": "",
+            "hy": ""
+        },
+        "category": "church",
+        "country": "Azerbaijan",
+        "city": "Hadrut",
+        "address": "",
+        "lat": 39.5741295,
+        "lng": 46.9623455,
+        "description": {
+            "en": "",
+            "fr": "",
+            "hy": ""
+        },
+        "image": "",
+        "verified": false,
+        "ratings": [],
+        "comments": [],
+        "source": "OpenStreetMap",
+        "furtherReading": ""
+    },
+    {
+        "id": 1520,
+        "name": {
+            "en": "St. Mary Armenian Apostolic Church",
+            "fr": "",
+            "hy": "ÕÕ¸ÖÖÕ¢ Ô±Õ½Õ¿Õ¾Õ¡Õ®Õ¡Õ®Õ«Õ¶ Õ´Õ¡ÕµÖ Õ¥Õ¯Õ¥Õ²Õ¥ÖÕ«"
+        },
+        "category": "church",
+        "country": "Iran, Islamic Republic of",
+        "city": "Tabriz",
+        "address": "",
+        "lat": 38.0790052,
+        "lng": 46.2881928,
+        "description": {
+            "en": "",
+            "fr": "",
+            "hy": ""
+        },
+        "image": "",
+        "verified": false,
+        "ratings": [],
+        "comments": [],
+        "source": "OpenStreetMap",
+        "furtherReading": "https://en.wikipedia.org/wiki/Saint_Mary_Church_of_Tabriz"
+    },
+    {
+        "id": 1521,
+        "name": {
+            "en": "Armenian Orthodox Church",
+            "fr": "",
+            "hy": ""
+        },
+        "category": "church",
+        "country": "United States",
+        "city": "Greenfield",
+        "address": "7825 West Layton Avenue Greenfield 53220",
+        "lat": 42.9587896,
+        "lng": -88.0109181,
+        "description": {
+            "en": "",
+            "fr": "",
+            "hy": ""
+        },
+        "image": "",
+        "verified": false,
+        "ratings": [],
+        "comments": [],
+        "source": "OpenStreetMap",
+        "furtherReading": ""
+    },
+    {
+        "id": 1522,
+        "name": {
+            "en": "Ð¡ÑÑÐ± ÐÐ°ÑÐ°Ð¿ÐµÑ",
+            "fr": "",
+            "hy": ""
+        },
+        "category": "church",
+        "country": "Russian Federation",
+        "city": "Yakutsk",
+        "address": "6 ÐÐºÑÑÐ¶Ð½Ð¾Ðµ ÑÐ¾ÑÑÐµ 4 ÐºÐ¼ Ð¯ÐºÑÑÑÐº 677015",
+        "lat": 62.0640815,
+        "lng": 129.7305806,
+        "description": {
+            "en": "",
+            "fr": "",
+            "hy": ""
+        },
+        "image": "",
+        "verified": false,
+        "ratings": [],
+        "comments": [],
+        "source": "OpenStreetMap",
+        "furtherReading": ""
+    },
+    {
+        "id": 1523,
+        "name": {
+            "en": "Armenian Spring Church",
+            "fr": "",
+            "hy": ""
+        },
+        "category": "church",
+        "country": "Turkey",
+        "city": "Zeytinburnu",
+        "address": "BalÄ±klÄ± Seyit Nizam Yolu Ä°stanbul",
+        "lat": 41.00711,
+        "lng": 28.9153441,
+        "description": {
+            "en": "",
+            "fr": "",
+            "hy": ""
+        },
+        "image": "",
+        "verified": false,
+        "ratings": [],
+        "comments": [],
+        "source": "OpenStreetMap",
+        "furtherReading": ""
+    },
+    {
+        "id": 1524,
+        "name": {
+            "en": "Kartal Surp NiÅan Armenian Orthodox Church",
+            "fr": "",
+            "hy": ""
+        },
+        "category": "church",
+        "country": "Turkey",
+        "city": "Maltepe",
+        "address": "",
+        "lat": 40.8900494,
+        "lng": 29.187705,
+        "description": {
+            "en": "",
+            "fr": "",
+            "hy": ""
+        },
+        "image": "",
+        "verified": false,
+        "ratings": [],
+        "comments": [],
+        "source": "OpenStreetMap",
+        "furtherReading": ""
+    },
+    {
+        "id": 1525,
+        "name": {
+            "en": "Surp NigoÄayos Ermeni Kilisesi",
+            "fr": "",
+            "hy": ""
+        },
+        "category": "church",
+        "country": "Turkey",
+        "city": "Paşabahçe",
+        "address": "Ä°stanbul 34820",
+        "lat": 41.1344739,
+        "lng": 29.0961724,
+        "description": {
+            "en": "",
+            "fr": "",
+            "hy": ""
+        },
+        "image": "",
+        "verified": false,
+        "ratings": [],
+        "comments": [],
+        "source": "OpenStreetMap",
+        "furtherReading": "https://tr.wikipedia.org/wiki/Surp_NigoÄayos_Ermeni_Kilisesi_(Beykoz)"
+    },
+    {
+        "id": 1526,
+        "name": {
+            "en": "Soorp Khatch Armenian Apostolic Church",
+            "fr": "",
+            "hy": ""
+        },
+        "category": "church",
+        "country": "United States",
+        "city": "Somerset",
+        "address": "4906 Flint Drive Bethesda 20816",
+        "lat": 38.9548665,
+        "lng": -77.0996845,
+        "description": {
+            "en": "",
+            "fr": "",
+            "hy": ""
+        },
+        "image": "",
+        "verified": false,
+        "ratings": [],
+        "comments": [],
+        "source": "OpenStreetMap",
+        "furtherReading": ""
+    },
+    {
+        "id": 1527,
+        "name": {
+            "en": "Surp Hovhannes Armenian Catholic Church",
+            "fr": "",
+            "hy": ""
+        },
+        "category": "church",
+        "country": "Iran, Islamic Republic of",
+        "city": "Tabriz",
+        "address": "Ø³ÙØ±Ù",
+        "lat": 38.2983448,
+        "lng": 46.1962548,
+        "description": {
+            "en": "",
+            "fr": "",
+            "hy": ""
+        },
+        "image": "",
+        "verified": false,
+        "ratings": [],
+        "comments": [],
+        "source": "OpenStreetMap",
+        "furtherReading": ""
+    },
+    {
+        "id": 1528,
+        "name": {
+            "en": "Monastery of Varag",
+            "fr": "",
+            "hy": "ÕÕ¡ÖÕ¡Õ£Õ¡Õ¾Õ¡Õ¶Ö"
+        },
+        "category": "church",
+        "country": "Turkey",
+        "city": "Van",
+        "address": "BakraÃ§lÄ±",
+        "lat": 38.4499213,
+        "lng": 43.4613784,
+        "description": {
+            "en": "",
+            "fr": "",
+            "hy": ""
+        },
+        "image": "",
+        "verified": false,
+        "ratings": [],
+        "comments": [],
+        "source": "OpenStreetMap",
+        "furtherReading": "https://en.wikipedia.org/wiki/Varagavank"
+    },
+    {
+        "id": 1529,
+        "name": {
+            "en": "San NicolÃ² di Mira",
+            "fr": "",
+            "hy": ""
+        },
+        "category": "church",
+        "country": "Italy",
+        "city": "Mezzojuso",
+        "address": "",
+        "lat": 37.8647512,
+        "lng": 13.464472,
+        "description": {
+            "en": "",
+            "fr": "",
+            "hy": ""
+        },
+        "image": "",
+        "verified": false,
+        "ratings": [],
+        "comments": [],
+        "source": "OpenStreetMap",
+        "furtherReading": "https://parrocchiagreca.jimdofree.com"
+    },
+    {
+        "id": 1530,
+        "name": {
+            "en": "Armenian Apostolic STS Church",
+            "fr": "",
+            "hy": ""
+        },
+        "category": "church",
+        "country": "United States",
+        "city": "Providence",
+        "address": "",
+        "lat": 41.8190417,
+        "lng": -71.4312714,
+        "description": {
+            "en": "",
+            "fr": "",
+            "hy": ""
+        },
+        "image": "",
+        "verified": false,
+        "ratings": [],
+        "comments": [],
+        "source": "OpenStreetMap",
+        "furtherReading": ""
+    },
+    {
+        "id": 1531,
+        "name": {
+            "en": "ÐÑÑÐ¼ÐµÐ½ÑÑÐºÐ° ÑÐµÑÐºÐ²Ð° Ð¡ÑÑÐ± ÐÑÑÑÑÐ½Ð°",
+            "fr": "",
+            "hy": ""
+        },
+        "category": "church",
+        "country": "Ukraine",
+        "city": "Kharkiv",
+        "address": "",
+        "lat": 50.0027012,
+        "lng": 36.2725533,
+        "description": {
+            "en": "",
+            "fr": "",
+            "hy": ""
+        },
+        "image": "",
+        "verified": false,
+        "ratings": [],
+        "comments": [],
+        "source": "OpenStreetMap",
+        "furtherReading": "https://uk.wikipedia.org/wiki/ÐÑÑÐ¼ÐµÐ½ÑÑÐºÐ°_ÑÐµÑÐºÐ²Ð°_(Ð¥Ð°ÑÐºÑÐ²)"
+    },
+    {
+        "id": 1532,
+        "name": {
+            "en": "Armenian All Saints Church and Community Center",
+            "fr": "",
+            "hy": ""
+        },
+        "category": "church",
+        "country": "United States",
+        "city": "Northbrook",
+        "address": "1701 Greenwood Road Glenview 60026",
+        "lat": 42.085402,
+        "lng": -87.838644,
+        "description": {
+            "en": "",
+            "fr": "",
+            "hy": ""
+        },
+        "image": "",
+        "verified": false,
+        "ratings": [],
+        "comments": [],
+        "source": "OpenStreetMap",
+        "furtherReading": "https://www.armenianallsaints.org/"
+    },
+    {
+        "id": 1533,
+        "name": {
+            "en": "Armenian church of Eozerli",
+            "fr": "",
+            "hy": ""
+        },
+        "category": "church",
+        "country": "Turkey",
+        "city": "Dörtyol",
+        "address": "",
+        "lat": 36.8238736,
+        "lng": 36.2304501,
+        "description": {
+            "en": "",
+            "fr": "",
+            "hy": ""
+        },
+        "image": "",
+        "verified": false,
+        "ratings": [],
+        "comments": [],
+        "source": "OpenStreetMap",
+        "furtherReading": ""
+    },
+    {
+        "id": 1534,
+        "name": {
+            "en": "Yeghrtud Monastery",
+            "fr": "",
+            "hy": "ÔµÕ²ÖÕ¤Õ¸ÖÕ¿Õ« Õ¾Õ¡Õ¶Ö"
+        },
+        "category": "church",
+        "country": "Turkey",
+        "city": "Kızılağaç",
+        "address": "",
+        "lat": 38.7505797,
+        "lng": 41.3402331,
+        "description": {
+            "en": "",
+            "fr": "",
+            "hy": ""
+        },
+        "image": "",
+        "verified": false,
+        "ratings": [],
+        "comments": [],
+        "source": "OpenStreetMap",
+        "furtherReading": "https://en.wikipedia.org/wiki/Yeghrdut_Monastery"
+    },
+    {
+        "id": 1535,
+        "name": {
+            "en": "Church of St. Gregory of the Enlightener",
+            "fr": "",
+            "hy": "ÕÕ¸ÖÖÕ¢ Ô³ÖÕ«Õ£Õ¸Ö Ô¼Õ¸ÖÕ½Õ¡Õ¾Õ¸ÖÕ«Õ¹ ÔµÕ¯Õ¥Õ²Õ¥ÖÕ«"
+        },
+        "category": "church",
+        "country": "Russian Federation",
+        "city": "Roshchino",
+        "address": "7 ÑÐ»Ð¸ÑÐ° ÐÐµÐ¹Ð²ÐµÐ»Ñ",
+        "lat": 55.1971147,
+        "lng": 61.2790673,
+        "description": {
+            "en": "",
+            "fr": "",
+            "hy": ""
+        },
+        "image": "",
+        "verified": false,
+        "ratings": [],
+        "comments": [],
+        "source": "OpenStreetMap",
+        "furtherReading": ""
+    },
+    {
+        "id": 1536,
+        "name": {
+            "en": "Surp Sarkis Ermeni Kilisesi",
+            "fr": "",
+            "hy": ""
+        },
+        "category": "church",
+        "country": "Turkey",
+        "city": "Menemen",
+        "address": "",
+        "lat": 38.6064615,
+        "lng": 27.0729966,
+        "description": {
+            "en": "",
+            "fr": "",
+            "hy": ""
+        },
+        "image": "",
+        "verified": false,
+        "ratings": [],
+        "comments": [],
+        "source": "OpenStreetMap",
+        "furtherReading": ""
+    },
+    {
+        "id": 1537,
+        "name": {
+            "en": "Armenian Church",
+            "fr": "",
+            "hy": ""
+        },
+        "category": "church",
+        "country": "Iran, Islamic Republic of",
+        "city": "Orūmīyeh",
+        "address": "ÙÛØ±Ø²Ø§Ø¦ÛØ§Ù Ø§Ø±ÙÙÛÙ",
+        "lat": 37.551392,
+        "lng": 45.066288,
+        "description": {
+            "en": "",
+            "fr": "",
+            "hy": ""
+        },
+        "image": "",
+        "verified": false,
+        "ratings": [],
+        "comments": [],
+        "source": "OpenStreetMap",
+        "furtherReading": ""
+    },
+    {
+        "id": 1538,
+        "name": {
+            "en": "ÐÑÑÐ¼ÐµÐ½ÑÑÐºÐ° Ð¦ÐµÑÐºÐ²Ð°",
+            "fr": "",
+            "hy": ""
+        },
+        "category": "church",
+        "country": "Ukraine",
+        "city": "Chernivtsi",
+        "address": "30 Ð£ÐºÑÐ°ÑÐ½ÑÑÐºÐ° Ð²ÑÐ»Ð¸ÑÑ",
+        "lat": 48.2888064,
+        "lng": 25.939031,
+        "description": {
+            "en": "",
+            "fr": "",
+            "hy": ""
+        },
+        "image": "",
+        "verified": false,
+        "ratings": [],
+        "comments": [],
+        "source": "OpenStreetMap",
+        "furtherReading": ""
+    },
+    {
+        "id": 1539,
+        "name": {
+            "en": "DzÄ±nunt Surp Asdvadzadzni Ermeni Kilisesi",
+            "fr": "",
+            "hy": ""
+        },
+        "category": "church",
+        "country": "Turkey",
+        "city": "Bahçelievler",
+        "address": "",
+        "lat": 40.9768762,
+        "lng": 28.8746409,
+        "description": {
+            "en": "",
+            "fr": "",
+            "hy": ""
+        },
+        "image": "",
+        "verified": false,
+        "ratings": [],
+        "comments": [],
+        "source": "OpenStreetMap",
+        "furtherReading": ""
+    },
+    {
+        "id": 1540,
+        "name": {
+            "en": "S. Astvatsatsin",
+            "fr": "",
+            "hy": ""
+        },
+        "category": "church",
+        "country": "Azerbaijan",
+        "city": "Qırmızı Bazar",
+        "address": "",
+        "lat": 39.6686715,
+        "lng": 46.8992724,
+        "description": {
+            "en": "",
+            "fr": "",
+            "hy": ""
+        },
+        "image": "",
+        "verified": false,
+        "ratings": [],
+        "comments": [],
+        "source": "OpenStreetMap",
+        "furtherReading": ""
+    },
+    {
+        "id": 1541,
+        "name": {
+            "en": "Surp Yergodasan Arakelots Ermeni Kilisesi",
+            "fr": "",
+            "hy": ""
+        },
+        "category": "church",
+        "country": "Turkey",
+        "city": "Arnavutköy",
+        "address": "",
+        "lat": 41.0717028,
+        "lng": 29.0604958,
+        "description": {
+            "en": "",
+            "fr": "",
+            "hy": ""
+        },
+        "image": "",
+        "verified": false,
+        "ratings": [],
+        "comments": [],
+        "source": "OpenStreetMap",
+        "furtherReading": ""
+    },
+    {
+        "id": 1542,
+        "name": {
+            "en": "ááááá«áá áá¡ ááááááá¥á¡á",
+            "fr": "",
+            "hy": ""
+        },
+        "category": "church",
+        "country": "Georgia",
+        "city": "Shaumiani",
+        "address": "",
+        "lat": 41.3389115,
+        "lng": 44.7033033,
+        "description": {
+            "en": "",
+            "fr": "",
+            "hy": ""
+        },
+        "image": "",
+        "verified": false,
+        "ratings": [],
+        "comments": [],
+        "source": "OpenStreetMap",
+        "furtherReading": ""
+    },
+    {
+        "id": 1543,
+        "name": {
+            "en": "Saint Michael the Archangel Armenian Catholic Church",
+            "fr": "",
+            "hy": ""
+        },
+        "category": "church",
+        "country": "Syrian Arab Republic",
+        "city": "Kassab",
+        "address": "",
+        "lat": 35.9303841,
+        "lng": 35.9875545,
+        "description": {
+            "en": "",
+            "fr": "",
+            "hy": ""
+        },
+        "image": "",
+        "verified": false,
+        "ratings": [],
+        "comments": [],
+        "source": "OpenStreetMap",
+        "furtherReading": ""
+    },
+    {
+        "id": 1544,
+        "name": {
+            "en": "á¯ááá áá¨ááá¡ áááááá ááááááááá ááááá¡áá (âá¡á£á á á°á áá¨á¢áááááá¢ááªâ)",
+            "fr": "",
+            "hy": ""
+        },
+        "category": "church",
+        "country": "Georgia",
+        "city": "Ninots’minda",
+        "address": "",
+        "lat": 41.3214288,
+        "lng": 43.5450678,
+        "description": {
+            "en": "",
+            "fr": "",
+            "hy": ""
+        },
+        "image": "",
+        "verified": false,
+        "ratings": [],
+        "comments": [],
+        "source": "OpenStreetMap",
+        "furtherReading": ""
+    },
+    {
+        "id": 1545,
+        "name": {
+            "en": "áááá áá¡ ááááá¤áááá¢á£á  (á¡ááá®á£á á) ááááá¡áá",
+            "fr": "",
+            "hy": ""
+        },
+        "category": "church",
+        "country": "Georgia",
+        "city": "Akhalk’alak’i",
+        "address": "",
+        "lat": 41.3995926,
+        "lng": 43.512202,
+        "description": {
+            "en": "",
+            "fr": "",
+            "hy": ""
+        },
+        "image": "",
+        "verified": false,
+        "ratings": [],
+        "comments": [],
+        "source": "OpenStreetMap",
+        "furtherReading": ""
+    },
+    {
+        "id": 1546,
+        "name": {
+            "en": "Surp Santuht Ermeni Kilisesi",
+            "fr": "",
+            "hy": ""
+        },
+        "category": "church",
+        "country": "Turkey",
+        "city": "Kanlıca",
+        "address": "8 DurmuÅ Dede SokaÄÄ± istanbul",
+        "lat": 41.0895927,
+        "lng": 29.0556337,
+        "description": {
+            "en": "",
+            "fr": "",
+            "hy": ""
+        },
+        "image": "",
+        "verified": false,
+        "ratings": [],
+        "comments": [],
+        "source": "OpenStreetMap",
+        "furtherReading": ""
+    },
+    {
+        "id": 1547,
+        "name": {
+            "en": "Surp YeyÄa Ermeni Kilisesi",
+            "fr": "",
+            "hy": ""
+        },
+        "category": "church",
+        "country": "Turkey",
+        "city": "Istanbul",
+        "address": "16 Karayel SokaÄÄ±",
+        "lat": 41.0431075,
+        "lng": 28.9312667,
+        "description": {
+            "en": "",
+            "fr": "",
+            "hy": ""
+        },
+        "image": "",
+        "verified": false,
+        "ratings": [],
+        "comments": [],
+        "source": "OpenStreetMap",
+        "furtherReading": "https://tr.wikipedia.org/wiki/Surp_YeyÄa_Kilisesi"
+    },
+    {
+        "id": 1548,
+        "name": {
+            "en": "St. Hripsime Church",
+            "fr": "",
+            "hy": ""
+        },
+        "category": "church",
+        "country": "Azerbaijan",
+        "city": "Zangilan",
+        "address": "",
+        "lat": 39.0796671,
+        "lng": 46.5013383,
+        "description": {
+            "en": "",
+            "fr": "",
+            "hy": ""
+        },
+        "image": "",
+        "verified": false,
+        "ratings": [],
+        "comments": [],
+        "source": "OpenStreetMap",
+        "furtherReading": ""
+    },
+    {
+        "id": 1549,
+        "name": {
+            "en": "Armenian Church of St. Mary",
+            "fr": "",
+            "hy": "ÕÕ¸ÖÖÕ¢ ÕÕ¡ÖÕ«Õ¡Õ´ Õ¥Õ¯Õ¥Õ²Õ¥ÖÕ«"
+        },
+        "category": "church",
+        "country": "Iran, Islamic Republic of",
+        "city": "Shiraz",
+        "address": "Ø³ÙÚ¯ Ø³ÛØ§Ù",
+        "lat": 29.6111121,
+        "lng": 52.5378593,
+        "description": {
+            "en": "",
+            "fr": "",
+            "hy": ""
+        },
+        "image": "",
+        "verified": false,
+        "ratings": [],
+        "comments": [],
+        "source": "OpenStreetMap",
+        "furtherReading": "https://fa.wikipedia.org/wiki/Ú©ÙÛØ³Ø§Û_ÙØ±ÛÙ_ÙÙØ¯Ø³_(Ø´ÛØ±Ø§Ø²)"
+    },
+    {
+        "id": 1550,
+        "name": {
+            "en": "Biserica armeanÄ âSfÃ¢nta Mariaâ GalaÈi",
+            "fr": "",
+            "hy": ""
+        },
+        "category": "church",
+        "country": "Romania",
+        "city": "Galaţi",
+        "address": "GalaÈi",
+        "lat": 45.4322972,
+        "lng": 28.0523325,
+        "description": {
+            "en": "",
+            "fr": "",
+            "hy": ""
+        },
+        "image": "",
+        "verified": false,
+        "ratings": [],
+        "comments": [],
+        "source": "OpenStreetMap",
+        "furtherReading": ""
+    },
+    {
+        "id": 1551,
+        "name": {
+            "en": "ÐÑÐ¼ÑÐ½ÑÐºÐ°Ñ Ð°Ð¿Ð¾ÑÑÐ°Ð»ÑÑÐºÐ°Ñ ÑÐ°ÑÐºÐ²Ð° Â«Ð¡Ð²ÑÑÑ ÐÑÑÐ³Ð¾ÑÑÐ¹ ÐÑÐ²ÐµÑÐ½ÑÐºÂ»",
+            "fr": "",
+            "hy": "ÕÕ¸ÖÖÕ¢ Ô³ÖÕ«Õ£Õ¸Ö Ô¼Õ¸ÖÕ½Õ¡Õ¾Õ¸ÖÕ«Õ¹ Õ¥Õ¯Õ¥Õ²ÖÕ«"
+        },
+        "category": "church",
+        "country": "Belarus",
+        "city": "Minsk",
+        "address": "32 Ð²ÑÐ»ÑÑÐ° Ð¤ÑÐ»ÑÐ¼Ð¾Ð½Ð°Ð²Ð° 220114",
+        "lat": 53.9227494,
+        "lng": 27.6390228,
+        "description": {
+            "en": "",
+            "fr": "",
+            "hy": ""
+        },
+        "image": "",
+        "verified": false,
+        "ratings": [],
+        "comments": [],
+        "source": "OpenStreetMap",
+        "furtherReading": ""
+    },
+    {
+        "id": 1552,
+        "name": {
+            "en": "Surb Sarkis Church",
+            "fr": "",
+            "hy": "ÕÕ¸ÖÖÕ¢ ÕÕ¡ÖÕ£Õ«Õ½ Õ¥Õ¯Õ¥Õ²Õ¥ÖÕ«"
+        },
+        "category": "church",
+        "country": "Georgia",
+        "city": "Ninots’minda",
+        "address": "",
+        "lat": 41.2727131,
+        "lng": 43.5874082,
+        "description": {
+            "en": "",
+            "fr": "",
+            "hy": ""
+        },
+        "image": "",
+        "verified": false,
+        "ratings": [],
+        "comments": [],
+        "source": "OpenStreetMap",
+        "furtherReading": ""
+    },
+    {
+        "id": 1553,
+        "name": {
+            "en": "ÙÙÙØ³Ø© Ø§ÙØ£Ø±ÙÙ Ø§ÙÙØ§Ø«ÙÙÙÙ",
+            "fr": "",
+            "hy": ""
+        },
+        "category": "church",
+        "country": "Egypt",
+        "city": "Alexandria",
+        "address": "Ø´Ø§Ø±Ø¹ Ø§ÙÙÙÙØ§Ø¡ Ø§ÙØ´Ø±ÙÙØ©",
+        "lat": 31.1994659,
+        "lng": 29.8967296,
+        "description": {
+            "en": "",
+            "fr": "",
+            "hy": ""
+        },
+        "image": "",
+        "verified": false,
+        "ratings": [],
+        "comments": [],
+        "source": "OpenStreetMap",
+        "furtherReading": ""
+    },
+    {
+        "id": 1554,
+        "name": {
+            "en": "Ú©ÙÛØ³Ø§",
+            "fr": "",
+            "hy": ""
+        },
+        "category": "church",
+        "country": "Iran, Islamic Republic of",
+        "city": "Shiraz",
+        "address": "",
+        "lat": 29.6165622,
+        "lng": 52.3935197,
+        "description": {
+            "en": "",
+            "fr": "",
+            "hy": ""
+        },
+        "image": "",
+        "verified": false,
+        "ratings": [],
+        "comments": [],
+        "source": "OpenStreetMap",
+        "furtherReading": ""
+    },
+    {
+        "id": 1555,
+        "name": {
+            "en": "Holy Shoghagat Armenian Church",
+            "fr": "",
+            "hy": ""
+        },
+        "category": "church",
+        "country": "United States",
+        "city": "Swansea",
+        "address": "400 Huntwood Road Swansea 62226",
+        "lat": 38.5555583,
+        "lng": -89.9922557,
+        "description": {
+            "en": "",
+            "fr": "",
+            "hy": ""
+        },
+        "image": "",
+        "verified": false,
+        "ratings": [],
+        "comments": [],
+        "source": "OpenStreetMap",
+        "furtherReading": ""
+    },
+    {
+        "id": 1556,
+        "name": {
+            "en": "Surb Khach Church",
+            "fr": "",
+            "hy": "ÕÕ¸ÖÖÕ¢ Ô½Õ¡Õ¹ Õ¥Õ¯Õ¥Õ²Õ¥ÖÕ«"
+        },
+        "category": "church",
+        "country": "Georgia",
+        "city": "Vale",
+        "address": "",
+        "lat": 41.6195968,
+        "lng": 42.9032885,
+        "description": {
+            "en": "",
+            "fr": "",
+            "hy": ""
+        },
+        "image": "",
+        "verified": false,
+        "ratings": [],
+        "comments": [],
+        "source": "OpenStreetMap",
+        "furtherReading": "https://hy.wikipedia.org/wiki/ÕÕ¸ÖÖÕ¢_Ô½Õ¡Õ¹_Õ¥Õ¯Õ¥Õ²Õ¥ÖÕ«_(ÕÕ¥Õ®_ÕÕ¡Õ´Õ¡Õ³)"
+    },
+    {
+        "id": 1557,
+        "name": {
+            "en": "Voske Zham church",
+            "fr": "",
+            "hy": ""
+        },
+        "category": "church",
+        "country": "Turkey",
+        "city": "Doğruyol",
+        "address": "",
+        "lat": 41.0511427,
+        "lng": 43.5845673,
+        "description": {
+            "en": "",
+            "fr": "",
+            "hy": ""
+        },
+        "image": "",
+        "verified": false,
+        "ratings": [],
+        "comments": [],
+        "source": "OpenStreetMap",
+        "furtherReading": ""
+    },
+    {
+        "id": 1558,
+        "name": {
+            "en": "Ð¦ÐµÑÐºÐ¾Ð²Ñ Ð¡Ð²ÑÑÐ¾Ð³Ð¾ ÐÐµÑÑÐ¾Ð¿Ð° ÐÐ°ÑÑÐ¾ÑÐ°",
+            "fr": "",
+            "hy": ""
+        },
+        "category": "church",
+        "country": "Russian Federation",
+        "city": "Tyumen",
+        "address": "15 ÐÐ°Ð²Ð¾Ð´Ð¾ÑÐºÐ¾Ð²ÑÐºÐ°Ñ ÑÐ»Ð¸ÑÐ°",
+        "lat": 57.2159862,
+        "lng": 65.5325971,
+        "description": {
+            "en": "",
+            "fr": "",
+            "hy": ""
+        },
+        "image": "",
+        "verified": false,
+        "ratings": [],
+        "comments": [],
+        "source": "OpenStreetMap",
+        "furtherReading": ""
     }
 ];
 
 
 // ===== Data Management =====
-const DATA_VERSION = '4';
+const DATA_VERSION = '5';
 
 function initData() {
     // Reset POIs when data version changes (new CSV import)
     if (localStorage.getItem('la_data_version') !== DATA_VERSION) {
         localStorage.setItem('la_pois', JSON.stringify(samplePOIs));
         localStorage.setItem('la_data_version', DATA_VERSION);
-        localStorage.setItem('la_nextId', '2000');
+        localStorage.setItem('la_nextId', '3000');
     }
     if (!localStorage.getItem('la_pois')) {
         localStorage.setItem('la_pois', JSON.stringify(samplePOIs));
@@ -33576,7 +38926,7 @@ function initData() {
         localStorage.setItem('la_reports', JSON.stringify([]));
     }
     if (!localStorage.getItem('la_nextId')) {
-        localStorage.setItem('la_nextId', '2000');
+        localStorage.setItem('la_nextId', '3000');
     }
 }
 
