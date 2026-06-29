@@ -2,6 +2,7 @@
 
 let map;
 let markers = [];
+let markerCluster;
 let activeCategory = 'all';
 let currentView = 'map';
 
@@ -27,12 +28,21 @@ function initMap() {
         maxZoom: 19
     }).addTo(map);
 
+    // Group nearby markers into clusters so the map stays fast with 1000+ points
+    markerCluster = L.markerClusterGroup({
+        chunkedLoading: true,        // add markers in batches to avoid UI freeze
+        showCoverageOnHover: false,
+        maxClusterRadius: 60,
+        disableClusteringAtZoom: 16  // show individual markers when zoomed in close
+    });
+    map.addLayer(markerCluster);
+
     loadMarkers();
 }
 
 function loadMarkers() {
     // Clear existing markers
-    markers.forEach(m => map.removeLayer(m));
+    markerCluster.clearLayers();
     markers = [];
 
     const pois = getFilteredPOIs();
@@ -40,10 +50,11 @@ function loadMarkers() {
     pois.forEach(poi => {
         // Skip POIs that have no geographic coordinates (cannot be placed on the map)
         if (typeof poi.lat !== 'number' || typeof poi.lng !== 'number') return;
-        const marker = createMarker(poi);
-        marker.addTo(map);
-        markers.push(marker);
+        markers.push(createMarker(poi));
     });
+
+    // Bulk-add is far faster than addLayer() per marker
+    markerCluster.addLayers(markers);
 }
 
 function createMarker(poi) {
