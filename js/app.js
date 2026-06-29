@@ -38,6 +38,8 @@ function loadMarkers() {
     const pois = getFilteredPOIs();
 
     pois.forEach(poi => {
+        // Skip POIs that have no geographic coordinates (cannot be placed on the map)
+        if (typeof poi.lat !== 'number' || typeof poi.lng !== 'number') return;
         const marker = createMarker(poi);
         marker.addTo(map);
         markers.push(marker);
